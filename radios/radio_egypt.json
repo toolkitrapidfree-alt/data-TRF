@@ -1,0 +1,479 @@
+{
+  "schemaVersion": 1,
+  "updatedAt": "2026-02-14T13:19:13Z",
+  "count": 1152,
+  "stations": [
+    {
+      "id": "radio",
+      "name": "إذاعة مشاري العفاسي",
+      "country": "EGYPT",
+      "city": "",
+      "description": "MP3 · 128kbps",
+      "stream": "https://qurango.net/radio/mishary_alafasi",
+      "tags": []
+    },
+    {
+      "id": "radio-2",
+      "name": "---تراتيل قصيرة متميزة---",
+      "country": "EGYPT",
+      "city": "",
+      "description": "MP3 · 128kbps",
+      "stream": "https://qurango.net/radio/tarateel",
+      "tags": [
+        "قران كريم"
+      ]
+    },
+    {
+      "id": "beautiful-recitation",
+      "name": "beautiful recitation",
+      "country": "EGYPT",
+      "city": "",
+      "description": "MP3 · 128kbps",
+      "stream": "https://qurango.net/radio/salma",
+      "tags": [
+        "classical"
+      ]
+    },
+    {
+      "id": "radio-3",
+      "name": "القارئ محمد أيوب",
+      "country": "EGYPT",
+      "city": "",
+      "description": "MP3 · 128kbps",
+      "stream": "https://qurango.net/radio/mohammed_ayyub",
+      "tags": [
+        "classical"
+      ]
+    },
+    {
+      "id": "radio-4",
+      "name": "مختصر التفسير",
+      "country": "EGYPT",
+      "city": "",
+      "description": "MP3 · 128kbps",
+      "stream": "https://qurango.net/radio/mukhtasartafsir",
+      "tags": [
+        "classical"
+      ]
+    },
+    {
+      "id": "radio-5",
+      "name": "إذاعة ماهر المعيقلي",
+      "country": "EGYPT",
+      "city": "",
+      "description": "MP3 · 128kbps",
+      "stream": "https://backup.qurango.net/radio/maher",
+      "tags": [
+        "classical"
+      ]
+    },
+    {
+      "id": "87-8-mix-fm",
+      "name": "87.8 Mix FM",
+      "country": "EGYPT",
+      "city": "Cairo",
+      "description": "MP3",
+      "stream": "https://stream-29.zeno.fm/na3vpvn10qruv",
+      "tags": []
+    },
+    {
+      "id": "90s-fm",
+      "name": "90s FM",
+      "country": "EGYPT",
+      "city": "",
+      "description": "MP3 · 128kbps",
+      "stream": "https://eu1.fastcast4u.com/proxy/prontofm",
+      "tags": []
+    },
+    {
+      "id": "90s-fm-2",
+      "name": "90s FM",
+      "country": "EGYPT",
+      "city": "",
+      "description": "MP3 · 128kbps",
+      "stream": "https://eu1.fastcast4u.com/proxy/prontofm?mp=/1",
+      "tags": []
+    },
+    {
+      "id": "abdulbasit-abdulsamad-2",
+      "name": "Abdulbasit Abdulsamad",
+      "country": "EGYPT",
+      "city": "",
+      "description": "MP3 · 192kbps",
+      "stream": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3",
+      "tags": []
+    },
+    {
+      "id": "abdulrasheed-soufi",
+      "name": "Abdulrasheed Soufi",
+      "country": "EGYPT",
+      "city": "",
+      "description": "MP3 · 128kbps",
+      "stream": "https://qurango.net/radio/abdulrasheed_soufi_assosi.mp3",
+      "tags": []
+    },
+    {
+      "id": "amr-diab-radio",
+      "name": "Amr Diab Radio",
+      "country": "EGYPT",
+      "city": "",
+      "description": "MP3",
+      "stream": "https://stream-40.zeno.fm/xa4yhh4k838uv?zs=gojgaFRaRrK1wgGIwdv6xA",
+      "tags": [
+        "pop"
+      ]
+    },
+    {
+      "id": "arab-mix-256",
+      "name": "Arab Mix 256",
+      "country": "EGYPT",
+      "city": "Cairo",
+      "description": "MP3",
+      "stream": "https://stream.zeno.fm/wvqgc9kb1d0uv",
+      "tags": [
+        "classic hits",
+        "hits",
+        "pop"
+      ]
+    },
+    {
+      "id": "arab-mix-fm",
+      "name": "Arab Mix FM",
+      "country": "EGYPT",
+      "city": "Cairo",
+      "description": "MP3",
+      "stream": "https://stream.zeno.fm/na3vpvn10qruv",
+      "tags": [
+        "classic hits",
+        "hits",
+        "pop"
+      ]
+    },
+    {
+      "id": "coptic-voice-radio",
+      "name": "Coptic Voice Radio",
+      "country": "EGYPT",
+      "city": "",
+      "description": "MP3 · 128kbps",
+      "stream": "https://stream.clicdomain.com.br:5828/;",
+      "tags": []
+    },
+    {
+      "id": "diab-fm",
+      "name": "Diab FM",
+      "country": "EGYPT",
+      "city": "",
+      "description": "MP3",
+      "stream": "https://stream-36.zeno.fm/rf64mx02qa0uv?zs=omRb6KEjQ3u0-JsaJKdhQg",
+      "tags": [
+        "pop"
+      ]
+    },
+    {
+      "id": "diab-fm-2",
+      "name": "Diab FM",
+      "country": "EGYPT",
+      "city": "",
+      "description": "MP3",
+      "stream": "https://stream-34.zeno.fm/rf64mx02qa0uv?zs=-xjlLLwRS8uKrffFxK4vLA",
+      "tags": [
+        "pop"
+      ]
+    },
+    {
+      "id": "el-gouna-radio",
+      "name": "El Gouna Radio",
+      "country": "EGYPT",
+      "city": "",
+      "description": "MP3 · 128kbps",
+      "stream": "https://82.201.132.237:8000/;stream.mp3",
+      "tags": []
+    },
+    {
+      "id": "el-gouna-radio-2",
+      "name": "El Gouna Radio",
+      "country": "EGYPT",
+      "city": "",
+      "description": "MP3 · 128kbps",
+      "stream": "https://82.201.132.237:8000/;",
+      "tags": []
+    },
+    {
+      "id": "el-gouna-radio-3",
+      "name": "El Gouna Radio",
+      "country": "EGYPT",
+      "city": "",
+      "description": "MP3 · 128kbps",
+      "stream": "https://82.201.132.237:8000/",
+      "tags": [
+        "pop"
+      ]
+    },
+    {
+      "id": "elissa-fm",
+      "name": "Elissa FM",
+      "country": "EGYPT",
+      "city": "",
+      "description": "MP3",
+      "stream": "https://stream.zeno.fm/v7n499m8ckhvv",
+      "tags": [
+        "romance"
+      ]
+    },
+    {
+      "id": "ivieshal",
+      "name": "IVIeshal",
+      "country": "EGYPT",
+      "city": "",
+      "description": "MP3",
+      "stream": "https://stream.zeno.fm/smdswgy1rbmtv",
+      "tags": []
+    },
+    {
+      "id": "misrin-street",
+      "name": "Misrin Street",
+      "country": "EGYPT",
+      "city": "",
+      "description": "MP3",
+      "stream": "https://stream.zeno.fm/djqjrjhxsrgtv",
+      "tags": []
+    },
+    {
+      "id": "nrj-egypt",
+      "name": "NRJ EGYPT",
+      "country": "EGYPT",
+      "city": "",
+      "description": "MP3 · 128kbps",
+      "stream": "https://nrjstreaming.ahmed-melege.com/nrjegypt",
+      "tags": []
+    },
+    {
+      "id": "on-sport-fm",
+      "name": "On Sport FM",
+      "country": "EGYPT",
+      "city": "",
+      "description": "MP3 · 96kbps",
+      "stream": "https://carina.streamerr.co:2020/stream/OnSportFM",
+      "tags": []
+    },
+    {
+      "id": "on-sports-fm",
+      "name": "On sports FM",
+      "country": "EGYPT",
+      "city": "",
+      "description": "MP3 · 96kbps",
+      "stream": "https://carina.streamerr.co:2020/stream/OnSportFM",
+      "tags": []
+    },
+    {
+      "id": "radio-9090",
+      "name": "Radio 9090",
+      "country": "EGYPT",
+      "city": "",
+      "description": "MP3 · 64kbps",
+      "stream": "https://9090streaming.mobtada.com/9090FMEGYPT",
+      "tags": []
+    },
+    {
+      "id": "radio-9090-90-9",
+      "name": "Radio 9090 90.9",
+      "country": "EGYPT",
+      "city": "Cairo",
+      "description": "MP3 · 64kbps",
+      "stream": "https://9090streaming.mobtada.com/9090FMEGYPT",
+      "tags": []
+    },
+    {
+      "id": "radio-hits-88-2-cairo",
+      "name": "Radio Hits 88.2 Cairo",
+      "country": "EGYPT",
+      "city": "",
+      "description": "MP3 · 128kbps",
+      "stream": "https://radiohits882.radioca.st/;",
+      "tags": [
+        "arabic music"
+      ]
+    },
+    {
+      "id": "radio-quran",
+      "name": "Radio Quran",
+      "country": "EGYPT",
+      "city": "",
+      "description": "MP3",
+      "stream": "https://stream.radiojar.com/8s5u5tpdtwzuv",
+      "tags": []
+    },
+    {
+      "id": "radio-6",
+      "name": "Radio القارئ علي حجاج السويسي",
+      "country": "EGYPT",
+      "city": "",
+      "description": "MP3 · 128kbps",
+      "stream": "https://live.mp3quran.net:9842/",
+      "tags": [
+        "القرآن",
+        "القرآن الكريم"
+      ]
+    },
+    {
+      "id": "s-o-l-l-y",
+      "name": "S_O_L_L_Y",
+      "country": "EGYPT",
+      "city": "",
+      "description": "MP3",
+      "stream": "https://stream.zeno.fm/juwfhuodjgmuv",
+      "tags": []
+    },
+    {
+      "id": "sha3by-fm",
+      "name": "SHA3BY FM",
+      "country": "EGYPT",
+      "city": "",
+      "description": "MP3 · 128kbps",
+      "stream": "https://radio95.radioca.st/;",
+      "tags": []
+    },
+    {
+      "id": "tes3enat-fm",
+      "name": "Tes3enat FM",
+      "country": "EGYPT",
+      "city": "",
+      "description": "MP3 · 128kbps",
+      "stream": "https://178.33.135.244:20095/;?DIST=TuneIn&TGT=TuneIn&maxServers=2&partnertok=eyJhbGciOiJIUzI1NiIsImtpZCI6InR1bmVpbiIsInR5cCI6IkpXVCJ9.eyJ0cnVzdGVkX3BhcnRuZXIiOnRydWUsImlhdCI6MTYzNjA1OTE3OCwiaXNzIjoidGlzcnYifQ.Me0snc2PBcQhvlzte9L7zQxa-IHgNinhu3XdNJ6_Xa8",
+      "tags": [
+        "classical"
+      ]
+    },
+    {
+      "id": "x-x",
+      "name": "X_X",
+      "country": "EGYPT",
+      "city": "Cairo",
+      "description": "MP3",
+      "stream": "https://stream.zeno.fm/n63xpx3o8imuv",
+      "tags": []
+    },
+    {
+      "id": "radio-7",
+      "name": "إذاعة القرآن الكريم",
+      "country": "EGYPT",
+      "city": "",
+      "description": "MP3",
+      "stream": "https://n0a.radiojar.com/0tpy1h0kxtzuv?rj-ttl=5&rj-tok=AAABhdgGORQA-2acfyF3_4WY2g",
+      "tags": [
+        "classical"
+      ]
+    },
+    {
+      "id": "radio-8",
+      "name": "إذاعة القرآن الكريم (القاهرة)",
+      "country": "EGYPT",
+      "city": "",
+      "description": "MP3",
+      "stream": "https://stream.radiojar.com/8s5u5tpdtwzuv",
+      "tags": []
+    },
+    {
+      "id": "radio-9",
+      "name": "إذاعة القرآن الكريم من القاهرة",
+      "country": "EGYPT",
+      "city": "Cairo",
+      "description": "MP3",
+      "stream": "https://n12.radiojar.com/8s5u5tpdtwzuv?listening-from-radio-garden=1620219571863&rj-tok=AAABeTyl2zYARSWbLVnrEOlqGw&rj-ttl=5",
+      "tags": [
+        "اسلامي",
+        "دين"
+      ]
+    },
+    {
+      "id": "radio-10",
+      "name": "إذاعة طريق السلف",
+      "country": "EGYPT",
+      "city": "",
+      "description": "MP3 · 128kbps",
+      "stream": "https://airtime.salafwayfm.ly/",
+      "tags": [
+        "classical"
+      ]
+    },
+    {
+      "id": "radio-11",
+      "name": "إذاعة محمود خليل الحصري",
+      "country": "EGYPT",
+      "city": "",
+      "description": "MP3 · 128kbps",
+      "stream": "https://qurango.net/radio/mahmoud_khalil_alhussary_warsh",
+      "tags": []
+    },
+    {
+      "id": "radio-12",
+      "name": "إذاعة مصطفى إسماعيل",
+      "country": "EGYPT",
+      "city": "",
+      "description": "MP3 · 128kbps",
+      "stream": "https://qurango.net/radio/mustafa_ismail",
+      "tags": []
+    },
+    {
+      "id": "radio-13",
+      "name": "إذاعة ياسر الدوسري",
+      "country": "EGYPT",
+      "city": "",
+      "description": "MP3 · 128kbps",
+      "stream": "https://qurango.net/radio/yasser_aldosari",
+      "tags": []
+    },
+    {
+      "id": "radio-14",
+      "name": "اذاعة القرآن الكريم",
+      "country": "EGYPT",
+      "city": "",
+      "description": "MP3",
+      "stream": "https://stream.radiojar.com/0tpy1h0kxtzuv",
+      "tags": [
+        "classical"
+      ]
+    },
+    {
+      "id": "radio-15",
+      "name": "القران الكريم من القاهره",
+      "country": "EGYPT",
+      "city": "",
+      "description": "MP3",
+      "stream": "https://n0c.radiojar.com/8s5u5tpdtwzuv?rj-ttl=5&amp;rj-tok=AAABdI5Qnd0AEmvTTG5DVtU31A&amp;autoplay=1%22%20type=%22audio/mpeg",
+      "tags": []
+    },
+    {
+      "id": "1",
+      "name": "القران الكريم من القاهره1",
+      "country": "EGYPT",
+      "city": "Cairo",
+      "description": "MP3",
+      "stream": "https://n0e.radiojar.com/8s5u5tpdtwzuv?rj=&rj-tok=AAABg5BDP0EA2ElNLJYUJTsVcg&rj-ttl=5",
+      "tags": []
+    },
+    {
+      "id": "radio-16",
+      "name": "تفسير بن عثيمين",
+      "country": "EGYPT",
+      "city": "",
+      "description": "MP3 · 128kbps",
+      "stream": "https://qurango.net/radio/tafseer",
+      "tags": [
+        "classical"
+      ]
+    },
+    {
+      "id": "radio-17",
+      "name": "تكبيرات العيد",
+      "country": "EGYPT",
+      "city": "",
+      "description": "MP3 · 128kbps",
+      "stream": "https://live.mp3quran.net:9728/",
+      "tags": [
+        "القرآن",
+        "مسلم"
+      ]
+    }
+  ]
+}

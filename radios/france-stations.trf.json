@@ -1,0 +1,4482 @@
+{
+  "updatedAt": "2026-02-15",
+  "stations": [
+    {
+      "id": "888439a4-6fca-465c-916c-2e8d9108bd13",
+      "name": "\tRTL France",
+      "country": "France",
+      "city": "",
+      "stream": "http://streaming.radio.rtl.fr/rtl-1-44-128",
+      "tags": [
+        ""
+      ]
+    },
+    {
+      "id": "f1174669-b7ad-4668-8369-db995e6ecc8d",
+      "name": " - NEUERSCHEINUNGEN - Radio Charts - DJ Charts - Club Charts - Top 100 - Top 40 Club - Pop, Hip-Hop, Dance, EDM, House, Techno, R&B, Trap, Reggaeton, Afrobeat, Indie-Pop, Tropical House, Future Bass, Electro Swing, Synthwave, Deep House, Progressive House, Vocal House, DJ Sets, Remix, Mashup, Dancefloor, Festival-Hits, Club-Hits, Nightlife, Underground.",
+      "country": "France",
+      "city": "North Rhine-Westphalia",
+      "stream": "https://breakz-high.rautemusik.fm/?ref=rb-neuerscheinungen",
+      "tags": [
+        "chillout",
+        "club",
+        "club dance",
+        "dj",
+        "dj sets",
+        "electro sets",
+        "electronic dance music",
+        "future bass",
+        "house",
+        "ibiza",
+        "mashup",
+        "non-stop music",
+        "pop",
+        "pop dance",
+        "pop music",
+        "promodj",
+        "radiocharts",
+        "remixes",
+        "soul",
+        "sunset",
+        "tech house",
+        "techhouse",
+        "top 100",
+        "top 40",
+        "top charts",
+        "top club",
+        "top hits",
+        "top100",
+        "top40"
+      ]
+    },
+    {
+      "id": "e1de2458-535a-482d-8134-b4cb8d073053",
+      "name": " CAPULLO FM 105.1 (Francisco I. Madero) - 105.1 FM - XHYD-FM - GPS Media - Francisco I. Madero, Coahuila",
+      "country": "France",
+      "city": "Francisco I. Madero, Coahuila",
+      "stream": "https://stream.zeno.fm/3qv5hnktu4rvv",
+      "tags": [
+        "105.1 fm",
+        "américa",
+        "capullo fm",
+        "coahuila",
+        "comarca lagunera",
+        "cumbia",
+        "entretenimiento",
+        "español",
+        "estación",
+        "fm",
+        "francisco i. madero",
+        "latinoamérica",
+        "mexican music",
+        "moi merino",
+        "music",
+        "méxico",
+        "música",
+        "música en español",
+        "música mexicana",
+        "música popular mexicana",
+        "música regional",
+        "música regional mexicana",
+        "música variada",
+        "norteamérica",
+        "radio",
+        "regional",
+        "regional mexican",
+        "regional mexicana",
+        "regional music"
+      ]
+    },
+    {
+      "id": "60a1e68b-1791-466b-9273-1fdff93c4ecb",
+      "name": " RADIO FELICIDAD 1180 (CDMX) - 1180 AM - XEFR-AM - Grupo ACIR - Ciudad de México",
+      "country": "France",
+      "city": "Ciudad de México",
+      "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/XEFRAMAAC.aac",
+      "tags": [
+        "1180 am",
+        "60s",
+        "70s",
+        "80s",
+        "acir",
+        "am",
+        "américa",
+        "balada",
+        "balada en español",
+        "balada pop",
+        "balada romántica",
+        "baladas",
+        "baladas en español",
+        "cdmx",
+        "ciudad de méxico",
+        "clásicos",
+        "clásicos en español",
+        "entretenimiento",
+        "español",
+        "estación",
+        "grupo acir",
+        "iheart",
+        "iheart radio",
+        "latinoamérica",
+        "los mejores momentos",
+        "moi merino",
+        "music",
+        "méxico",
+        "música",
+        "música del recuerdo",
+        "música en español",
+        "música variada",
+        "norteamérica",
+        "oldies",
+        "radio",
+        "radio felicidad",
+        "retro",
+        "rock en español",
+        "valle de méxico"
+      ]
+    },
+    {
+      "id": "e941a76e-e2bb-439a-aabf-55c923cad691",
+      "name": " Radio Fórmula 103.3 (CDMX) - 103.3 FM - XERFR-FM - Grupo Fórmula - Ciudad de México",
+      "country": "France",
+      "city": "Ciudad de México",
+      "stream": "https://mdstrm.com/audio/6102ce7ef33d0b0830ec3adc/live.m3u8",
+      "tags": [
+        "103.3 fm",
+        "cdmx",
+        "ciudad de méxico",
+        "deporte",
+        "deportes",
+        "entretenimiento",
+        "español",
+        "espectáculos",
+        "estación",
+        "fm",
+        "grupo fórmula",
+        "hablada",
+        "información",
+        "information",
+        "informativa",
+        "mexico city",
+        "music",
+        "música",
+        "música del recuerdo",
+        "música en inglés",
+        "news talk",
+        "radio",
+        "radio fórmula",
+        "radio fórmula primera cadena",
+        "radio hablada",
+        "rock & roll",
+        "rock n roll",
+        "rock'n'roll",
+        "sports",
+        "sports news",
+        "sports talk",
+        "talk",
+        "talk & speech",
+        "talk radio",
+        "talk show",
+        "telefórmula",
+        "valle de méxico"
+      ]
+    },
+    {
+      "id": "eea7f8e5-0bee-4ef8-a189-d52e0405e3e1",
+      "name": " RADIO FÓRMULA 970 (CDMX) - 970 AM - XERFR-AM - Grupo Fórmula - Ciudad de México",
+      "country": "France",
+      "city": "Ciudad de México",
+      "stream": "https://mdstrm.com/audio/61e1e0125e404b0836c1e402/live.m3u8",
+      "tags": [
+        "970 am",
+        "am",
+        "américa",
+        "cdmx",
+        "ciudad de méxico",
+        "combo",
+        "deporte",
+        "deportes",
+        "entretenimiento",
+        "español",
+        "espectáculos",
+        "estación",
+        "fm",
+        "grupo fórmula",
+        "hablada",
+        "información",
+        "information",
+        "informativa",
+        "latinoamérica",
+        "mexico city",
+        "music",
+        "música",
+        "música del recuerdo",
+        "música en inglés",
+        "news talk",
+        "norteamérica",
+        "radio",
+        "radio fórmula",
+        "radio fórmula primera cadena",
+        "radio hablada",
+        "sports",
+        "sports news",
+        "sports talk",
+        "talk",
+        "talk & speech",
+        "talk radio",
+        "talk show",
+        "telefórmula",
+        "valle de méxico"
+      ]
+    },
+    {
+      "id": "470f2421-0258-4016-8ea4-4fcc17d0f4bf",
+      "name": " Trión Ciudad de México - 103.3 HD4 - XERFR-FM - Grupo Fórmula - Ciudad de México",
+      "country": "France",
+      "city": "Ciudad de México",
+      "stream": "https://stream.radiojar.com/4f89tufzv9duv",
+      "tags": [
+        "103.3",
+        "103.3 fm",
+        "alternative",
+        "alternative / indie",
+        "ciudad de méxico",
+        "entretenimiento",
+        "estación",
+        "fm",
+        "grupo fórmula",
+        "indie",
+        "indie music",
+        "indie pop",
+        "indie rock",
+        "latinoamérica",
+        "moi merino",
+        "music",
+        "música",
+        "norteamérica",
+        "pop indie",
+        "radio",
+        "trión",
+        "trión nights",
+        "trión weekend",
+        "valle de méxico"
+      ]
+    },
+    {
+      "id": "1528f577-c3da-4e3e-b0c1-6dc5ed1a4f26",
+      "name": " W RADIO 94.3 (Fresnillo) - 94.3 FM - XHPFRZ-FM - Grupo Radio Cañón - Fresnillo, Zacatecas",
+      "country": "France",
+      "city": "Fresnillo, Zacatecas",
+      "stream": "https://streaming.servicioswebmx.com/8294/stream",
+      "tags": [
+        "94.3 fm",
+        "américa",
+        "entretenimiento",
+        "español",
+        "estación",
+        "fm",
+        "fresnillo",
+        "grupo radio cañón",
+        "hablada",
+        "latinoamérica",
+        "moi merino",
+        "music",
+        "méxico",
+        "música",
+        "música en inglés",
+        "música pop",
+        "música y noticias",
+        "news",
+        "news talk",
+        "news talk music",
+        "norteamérica",
+        "noticias",
+        "noticias en español",
+        "noticias nacionales e internacionales",
+        "noticias y comentarios",
+        "ntr medios de comunicación",
+        "pop",
+        "pop en inglés",
+        "pop music",
+        "radio",
+        "radio hablada",
+        "radiópolis",
+        "sports",
+        "star group",
+        "w radio",
+        "zacatecas"
+      ]
+    },
+    {
+      "id": "c31c81e6-90c6-4457-a115-1851dacb7e2f",
+      "name": "- CHARTS <3 EINFACH....DEIN LIEBLINGSRADIO <3, BEST OF REMIXES, CLUB, DANCE, HANDSUP, MASHUP, REMIX, DJ / DEEJAY, LIVE, TANZMUSIK, GROOVE, EDM, HARD, RAVE, DEEP HOUSE, CHILLOUT, TOP 100, TOP 40, REMIX RADIO, MIX, LOUNGE, SUNSET, AFRO HOUSE, HARDSTYLE, EDM, BLACK, RNB, HIP HOP, MIX, DEEP, SLOW, SLEEP, GERMAN DEEJAY RADIO,  MIXED DJ SET, FESTIVAL, MAINSTREAM,  DE, US, EN RADIO ",
+      "country": "France",
+      "city": "Deutschland und NRW",
+      "stream": "https://breakz-high.rautemusik.fm/?ref=radiobrowser-LOVE",
+      "tags": [
+        "#charts",
+        "90s",
+        "charts",
+        "club dance electronic house trance",
+        "club house",
+        "dance",
+        "deep house",
+        "dj",
+        "dj mix",
+        "dj mixes",
+        "dj remix",
+        "electro house",
+        "funky house",
+        "hiphop",
+        "house",
+        "houseparty",
+        "música pop",
+        "pop dance",
+        "progressive house",
+        "remixes",
+        "rnb",
+        "soulful house",
+        "tech house",
+        "top 100"
+      ]
+    },
+    {
+      "id": "17ae209c-55b7-455f-9d58-117170cedad5",
+      "name": "-- NICHT EINSCHALTEN -- !!! Nichts außer House - EDM - HipHop - RnB - Techno - TechHouse - Top 40 Charts - Latin - Afro - Sunset - Beach und Aktuelle Hits -  DJ Mixtape RADIO",
+      "country": "France",
+      "city": "North Rhine-Westphalia",
+      "stream": "https://breakz-2012-high.rautemusik.fm/?ref=rbnichteinschalten",
+      "tags": [
+        "beach",
+        "chillout",
+        "dance",
+        "dj",
+        "dj mixes",
+        "dj sets",
+        "edm",
+        "electro",
+        "electronic",
+        "electronic dance music",
+        "hiphop",
+        "lounge",
+        "mixed",
+        "música pop",
+        "non-stop music",
+        "pop",
+        "reggaeton",
+        "remix",
+        "remixes",
+        "techno",
+        "top 100",
+        "top 40",
+        "top charts",
+        "top hits",
+        "urban"
+      ]
+    },
+    {
+      "id": "e9b4e2c8-1ff7-4da9-9480-0a88e0991d42",
+      "name": "[laut.fm] Freakquency",
+      "country": "France",
+      "city": "",
+      "stream": "https://freakquency.stream.laut.fm/freakquency?pl=pls&t302=2026-01-15_07-18-13&uuid=5162a938-aa72-4ea6-9bca-c737541068ff",
+      "tags": [
+        "alternative rock",
+        "americana",
+        "blues rock",
+        "classic rock",
+        "jazz-rock",
+        "progressive rock",
+        "psychedelic rock"
+      ]
+    },
+    {
+      "id": "2bfe6ab4-fd78-4e80-a9a4-6c376b9be8a5",
+      "name": "[laut.fm] Freakquency",
+      "country": "France",
+      "city": "",
+      "stream": "http://freakquency.stream.laut.fm/freakquency?pl=pls&t302=2026-01-15_03-52-15&uuid=8f717040-99f9-4dff-ae57-d2e4eace6caa",
+      "tags": [
+        "alternative rock",
+        "americana",
+        "blues rock",
+        "classic rock",
+        "jazz-rock",
+        "progressive rock",
+        "psychedelic rock"
+      ]
+    },
+    {
+      "id": "991dd9d5-2a83-47ff-a8bb-99e1e948ffe6",
+      "name": "* AFRO HOUSE || Afro Tech, Deep House, Organic House, Tribal House, Melodic House, Tropical House, Ethnic House, Latin House, Percussion House, Beach Vibes, Summer Vibes, Sunset Grooves, Ibiza Vibes, Warm Up Grooves",
+      "country": "France",
+      "city": "North Rhine-Westphalia",
+      "stream": "https://0nlineradio.radioho.st/technolovers-afro-house?ref=radio-browser26",
+      "tags": [
+        "afro",
+        "afro house",
+        "afrohouse",
+        "charts",
+        "dance",
+        "drums",
+        "hits",
+        "house",
+        "tech house"
+      ]
+    },
+    {
+      "id": "b1096f57-0783-41e7-aca1-5851c2770295",
+      "name": "* FRENCHCORE || Hardcore, Frenchcore, Uptempo, Hard Dance, Rave, Industrial, Speedcore, Bass, Extreme, Dark, Energy, Festival, Underground, Aggressive, Peak Time",
+      "country": "France",
+      "city": "North Rhine-Westphalia",
+      "stream": "https://0nlineradio.radioho.st/technolovers-frenchcore?ref=rb26",
+      "tags": [
+        "energy",
+        "extreme",
+        "frenchcore",
+        "happy hardcore",
+        "hard dance",
+        "hardcore",
+        "hardcore techno",
+        "hardstyle",
+        "industrial",
+        "rave",
+        "uptempo hardcore"
+      ]
+    },
+    {
+      "id": "e74e267c-9d9d-4083-82ab-99f7066c95cb",
+      "name": "*CLUB CHARTS TOP 100 || IMMER AKTUELL || DJ CHARTS || HOUSE, EDM, DEEP HOUSE - TECH HOUSE - TECHNO - MELODIC TECHNO - EDM - ELECTRONIC DANCE MUSIC - CLUB - DJ - DJ MIX - REMIX - FESTIVAL - FESTIVAL RADIO - IBIZA - IBIZA HOUSE - SUMMER HOUSE - BEACH CLUB - CHILLOUT - LOUNGE - RAVE - PARTY MUSIC - NIGHTLIFE - URBAN - HIP HOP - RNB - AFRO HOUSE - LATIN HOUSE - TRANCE - HARDSTYLE - HARDCORE",
+      "country": "France",
+      "city": "Bavaria",
+      "stream": "https://breakz-2012-high.rautemusik.fm/?ref=N1CLUBBING26",
+      "tags": [
+        "#",
+        "ambient",
+        "black",
+        "chillout",
+        "classical",
+        "club",
+        "contemporary hits",
+        "dance",
+        "deejay",
+        "deep house",
+        "dj",
+        "dj mixes",
+        "dj remix",
+        "dj sets",
+        "edm",
+        "electro house",
+        "electro techno",
+        "german",
+        "german pop",
+        "handsup",
+        "hardstyle/handsup/edm",
+        "hiphop",
+        "hits",
+        "house",
+        "ibiza",
+        "klassik",
+        "lounge",
+        "lounge music",
+        "mallorca",
+        "minimal",
+        "minimal techno",
+        "mix",
+        "music non stop",
+        "non-commercial",
+        "party",
+        "partyhits",
+        "partymix",
+        "relax",
+        "remixed",
+        "remixes",
+        "schlager",
+        "soul",
+        "tech house",
+        "techno",
+        "top 40",
+        "top 40 hits",
+        "top charts",
+        "top100",
+        "top40"
+      ]
+    },
+    {
+      "id": "18c4cb7c-9604-4b33-b1fe-50e6387c598d",
+      "name": "#1 - NICHT EINSCHALTEN -- !!! Nichts außer House - EDM - HipHop - RnB - Techno - TechHouse - Top 40 Charts - Latin - Afro - Sunset - Beach - DJ Mixtape RADIO",
+      "country": "France",
+      "city": "North Rhine-Westphalia",
+      "stream": "https://breakz-2012-high.rautemusik.fm/?ref=rb-nichteinschalten",
+      "tags": [
+        "#1",
+        "#top",
+        "afrobeats",
+        "aktuell",
+        "dj remix",
+        "dj sets",
+        "edm",
+        "electro",
+        "electro house",
+        "electronic music",
+        "handsup",
+        "house",
+        "hypertechno",
+        "latin pop",
+        "lounge",
+        "mix",
+        "musik",
+        "new music",
+        "nicht-kommerziell",
+        "party",
+        "partymix",
+        "pop",
+        "pop latino",
+        "pop music",
+        "remixed",
+        "remixes",
+        "tech house",
+        "techno",
+        "top 40"
+      ]
+    },
+    {
+      "id": "215ea027-4fe8-4a4c-9f29-71ab4a659630",
+      "name": "#CLUB CHARTS -> TOP 100 || IMMER AKTUELL || DJ CHARTS || HOUSE, EDM, DEEP HOUSE - TECH HOUSE - TECHNO - MELODIC TECHNO - EDM - ELECTRONIC DANCE MUSIC - CLUB - DJ - DJ MIX - REMIX - FESTIVAL - FESTIVAL RADIO - IBIZA - IBIZA HOUSE - SUMMER HOUSE - BEACH CLUB - CHILLOUT - LOUNGE - RAVE - PARTY MUSIC - NIGHTLIFE - URBAN - HIP HOP - RNB - AFRO HOUSE - LATIN HOUSE - TRANCE - HARDSTYLE - HARDCORE",
+      "country": "France",
+      "city": "Bavaria",
+      "stream": "https://radio.breakz.fm/?ref=club2-71",
+      "tags": [
+        "24/7",
+        "ambient",
+        "charts",
+        "chillout",
+        "dance",
+        "dance pop",
+        "deep house",
+        "dj mixes",
+        "dj remix",
+        "dj sets",
+        "electronic",
+        "electronica",
+        "eurodance",
+        "hiphop",
+        "house",
+        "instagram",
+        "jazz",
+        "klassik",
+        "lounge",
+        "lounge music",
+        "mainstream",
+        "mix",
+        "news",
+        "non-stop",
+        "non-stop music",
+        "party",
+        "party hits",
+        "partymix",
+        "pop",
+        "pop dance",
+        "radio",
+        "tech house",
+        "techno",
+        "tiktok",
+        "top 40",
+        "top charts",
+        "top40",
+        "vocal jazz"
+      ]
+    },
+    {
+      "id": "d6404f1d-7da5-4991-9439-4939fb8e13cf",
+      "name": "101.ru - French Chanson",
+      "country": "France",
+      "city": "",
+      "stream": "http://ic6.101.ru:8000/stream/pro/aac/64/146",
+      "tags": [
+        "classical"
+      ]
+    },
+    {
+      "id": "fb898218-f69f-41fe-8913-a1b00706aa27",
+      "name": "107.5 FrankFM",
+      "country": "France",
+      "city": "Maine",
+      "stream": "https://prod-3-222-116-19.amperwave.net/binnie-wfnkfmaac-hlsc.m3u8",
+      "tags": [
+        ""
+      ]
+    },
+    {
+      "id": "38162416-0ec0-4554-bfa1-67d67f72babd",
+      "name": "113.FM XMRR Genre Free Radio",
+      "country": "France",
+      "city": "Las Vegas",
+      "stream": "https://113fm-atunwadigital.streamguys1.com/1070",
+      "tags": [
+        ""
+      ]
+    },
+    {
+      "id": "121f2c9e-1c5c-44c6-bf5f-f5c98ad69ce6",
+      "name": "1560 The Franchise 2",
+      "country": "France",
+      "city": "Del City OK",
+      "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/KEBCAMAAC.aac",
+      "tags": [
+        "sports"
+      ]
+    },
+    {
+      "id": "9633a7d4-0601-11e8-ae97-52543be04c81",
+      "name": "181.FM - Front Porch (Bluegrass)",
+      "country": "France",
+      "city": "Virginia",
+      "stream": "http://listen.181fm.com/181-frontporch_128k.mp3",
+      "tags": [
+        "bluegrass",
+        "waynesboro"
+      ]
+    },
+    {
+      "id": "df0fb96e-4a82-44c7-af2b-d4a08cf55145",
+      "name": "24/7 London Radio - Royalty Free Music",
+      "country": "France",
+      "city": "",
+      "stream": "https://ec3.yesstreaming.net:3645/stream",
+      "tags": [
+        "24/7",
+        "free",
+        "london",
+        "royalty free"
+      ]
+    },
+    {
+      "id": "e0982ba5-3a1a-41a0-99a4-38d6cb18cbfa",
+      "name": "88.1 WRFL Radio Free Lexington",
+      "country": "France",
+      "city": "",
+      "stream": "https://wrfl.fm/stream",
+      "tags": [
+        "88.1 fm",
+        "wrfl"
+      ]
+    },
+    {
+      "id": "5f72a987-84ce-484c-9fb8-c8faee96fa69",
+      "name": "89.0 RTL Freaky Friday",
+      "country": "France",
+      "city": "",
+      "stream": "https://stream.89.0rtl.de/freaky-friday/mp3-320",
+      "tags": [
+        ""
+      ]
+    },
+    {
+      "id": "3a23e0d3-970c-401b-b40f-adeaffe90813",
+      "name": "89.3 - WZRD “The Wizard” Freeform Radio",
+      "country": "France",
+      "city": "Illinois",
+      "stream": "https://wzrd.streamguys1.com/live",
+      "tags": [
+        ""
+      ]
+    },
+    {
+      "id": "7f80982c-2438-4a64-afb5-87dd5360932c",
+      "name": "93.7 Radyo Serbato - San Francisco Agusan Del Sur",
+      "country": "France",
+      "city": "",
+      "stream": "https://stream.zeno.fm/unepz3nt3qltv",
+      "tags": [
+        ""
+      ]
+    },
+    {
+      "id": "2fa7f3b8-94d3-44ce-ba56-d811c0d6b8a3",
+      "name": "99.9 WFRE Free Country",
+      "country": "France",
+      "city": "Maryland",
+      "stream": "https://14843.live.streamtheworld.com/WFREFM.mp3",
+      "tags": [
+        "country music"
+      ]
+    },
+    {
+      "id": "abb159db-f2ac-11e9-a96c-52543be04c81",
+      "name": "A22  RCF. FR",
+      "country": "France",
+      "city": "",
+      "stream": "http://rcf.streamakaci.com/rcf.mp3",
+      "tags": [
+        "news"
+      ]
+    },
+    {
+      "id": "e9a7c72e-77db-4ae2-881b-2cee6e79c498",
+      "name": "Adoration from Family Life",
+      "country": "France",
+      "city": "",
+      "stream": "https://streaming.live365.com/a59117_2",
+      "tags": [
+        "christian",
+        "christian contemporary",
+        "praise"
+      ]
+    },
+    {
+      "id": "82e56eab-d4d7-4303-93e3-9fca4424032e",
+      "name": "Africa All Stars",
+      "country": "France",
+      "city": "",
+      "stream": "https://stream.zeno.fm/udhh2v1itqxtv",
+      "tags": [
+        "africa",
+        "african",
+        "african music",
+        "music"
+      ]
+    },
+    {
+      "id": "a042affa-8ee2-11ea-8564-52543be04c81",
+      "name": "Africa Goes Angeln",
+      "country": "France",
+      "city": "",
+      "stream": "http://africagoesangeln.stream.laut.fm/africa_goes_angeln",
+      "tags": [
+        ""
+      ]
+    },
+    {
+      "id": "961771ba-0601-11e8-ae97-52543be04c81",
+      "name": "Africa N°1",
+      "country": "France",
+      "city": "Île-de-France",
+      "stream": "http://african1paris.ice.infomaniak.ch/african1paris-64.mp3",
+      "tags": [
+        ""
+      ]
+    },
+    {
+      "id": "960ca944-0601-11e8-ae97-52543be04c81",
+      "name": "Africa N°1",
+      "country": "France",
+      "city": "Île-de-France",
+      "stream": "http://african1paris.ice.infomaniak.ch/african1paris-128.mp3",
+      "tags": [
+        ""
+      ]
+    },
+    {
+      "id": "0d7c9963-2239-4384-8061-d2da2516bb68",
+      "name": "Africa Radio Abidjan",
+      "country": "France",
+      "city": "",
+      "stream": "https://africaradio.ice.infomaniak.ch/abidjan128.mp3",
+      "tags": [
+        "african",
+        "news",
+        "pop"
+      ]
+    },
+    {
+      "id": "4dfde0a1-f20f-4775-a947-7e77bc8ad02a",
+      "name": "Africa Radio Africa Club Webradio",
+      "country": "France",
+      "city": "",
+      "stream": "https://webradio1.ice.infomaniak.ch/webradio5-128.mp3",
+      "tags": [
+        "african music"
+      ]
+    },
+    {
+      "id": "3cda5ab9-521c-4609-aeda-cd6e80992d04",
+      "name": "Africa Radio Coupé Decalé Webradio",
+      "country": "France",
+      "city": "",
+      "stream": "https://webradio1.ice.infomaniak.ch/webradio1-128.mp3",
+      "tags": [
+        "african music"
+      ]
+    },
+    {
+      "id": "2ea7f481-bd69-405e-b41e-a75a390bebb2",
+      "name": "Africa Radio Mandingue Webradio",
+      "country": "France",
+      "city": "",
+      "stream": "https://webradio1.ice.infomaniak.ch/webradio2-128.mp3",
+      "tags": [
+        "african music"
+      ]
+    },
+    {
+      "id": "3862fa12-c44b-447e-b1e4-70244dfd2c49",
+      "name": "Africa Radio Manu Dibango Webradio",
+      "country": "France",
+      "city": "",
+      "stream": "https://webradio7.ice.infomaniak.ch/webradio7-128.mp3",
+      "tags": [
+        "african music"
+      ]
+    },
+    {
+      "id": "c84fa9f3-7d48-4909-9de7-206c810577d4",
+      "name": "Africa Radio Naija Webradio",
+      "country": "France",
+      "city": "",
+      "stream": "https://webradio1.ice.infomaniak.ch/webradio3-128.mp3",
+      "tags": [
+        "african music"
+      ]
+    },
+    {
+      "id": "07b28e11-a8da-47ee-a96a-8930192c8163",
+      "name": "Africa Radio Paris",
+      "country": "France",
+      "city": "",
+      "stream": "https://african1paris.ice.infomaniak.ch/african1paris-128.mp3",
+      "tags": [
+        "african music",
+        "news",
+        "talk"
+      ]
+    },
+    {
+      "id": "83b983ae-483b-4767-be4a-916f3a9d680b",
+      "name": "Africa Radio Rumba Webradio",
+      "country": "France",
+      "city": "",
+      "stream": "https://webradio1.ice.infomaniak.ch/webradio4-128.mp3",
+      "tags": [
+        "african music"
+      ]
+    },
+    {
+      "id": "13395e4c-b6a2-4521-9536-f7863cc4965f",
+      "name": "Africa Radio Selecta Webradio",
+      "country": "France",
+      "city": "",
+      "stream": "https://webradio6.ice.infomaniak.ch/webradio6-128.mp3",
+      "tags": [
+        "african music"
+      ]
+    },
+    {
+      "id": "e4617145-dce9-460a-8afc-fcc446711cfe",
+      "name": "African Praise Radio",
+      "country": "France",
+      "city": "",
+      "stream": "https://usa3.fastcast4u.com/proxy/africanpraiserad?mp=/1",
+      "tags": [
+        ""
+      ]
+    },
+    {
+      "id": "2c820fbf-11fb-4f83-b8fc-51460cb641c5",
+      "name": "Afrika-Boom",
+      "country": "France",
+      "city": "",
+      "stream": "https://stream.radio.co/se53fee01d/listen",
+      "tags": [
+        ""
+      ]
+    },
+    {
+      "id": "fa908357-5f0e-4f9d-a011-4f42cc73a5d4",
+      "name": "AFRO RADIO",
+      "country": "France",
+      "city": "",
+      "stream": "https://itsshort.info/listen/afroradio/radio.mp3",
+      "tags": [
+        "afro",
+        "afro house",
+        "afro-latin music",
+        "afro-pop",
+        "afrobeat",
+        "afrobeats"
+      ]
+    },
+    {
+      "id": "3e14740b-4988-4493-9794-ddc26aa37c10",
+      "name": "Afrobeat / Afrobeats - Radio Caprice",
+      "country": "France",
+      "city": "",
+      "stream": "http://79.120.39.202:8000/afrobeat",
+      "tags": [
+        "afrobeat",
+        "afrobeats"
+      ]
+    },
+    {
+      "id": "1a29a057-1127-4906-b93e-dd2a7bdb57bf",
+      "name": "Afrobeat international",
+      "country": "France",
+      "city": "",
+      "stream": "https://listen.radioking.com/radio/397789/stream/449770",
+      "tags": [
+        "afrobeat"
+      ]
+    },
+    {
+      "id": "4c41fb58-fe5c-419e-bad7-ea81e4932092",
+      "name": "Afrobeat N1 FM",
+      "country": "France",
+      "city": "",
+      "stream": "https://streamer.radio.co/s919e54210/listen",
+      "tags": [
+        "afrobeat"
+      ]
+    },
+    {
+      "id": "536669d5-9b8e-4d4d-b462-caf9fdb9ab2a",
+      "name": "Afrobeats Gospel Radio",
+      "country": "France",
+      "city": "Akwa Ibom State",
+      "stream": "https://stream.zeno.fm/zyd9stmdlnlvv",
+      "tags": [
+        "african",
+        "afrobeats",
+        "christian",
+        "gospel",
+        "inspirational"
+      ]
+    },
+    {
+      "id": "6f7d55d3-1bf6-4442-b0c9-1800118faea4",
+      "name": "Afrobeats jazz ",
+      "country": "France",
+      "city": "North Carolina",
+      "stream": "https://stream.zeno.fm/iaf1anrme20vv",
+      "tags": [
+        ""
+      ]
+    },
+    {
+      "id": "56721bca-2a6f-4139-af8c-5afbdb302aeb",
+      "name": "Afrobeats Rising Radio",
+      "country": "France",
+      "city": "New York",
+      "stream": "https://stream.zeno.fm/fmf6pyudu3kvv",
+      "tags": [
+        "afrobeats",
+        "afrofusion",
+        "afropop",
+        "alte",
+        "amapiano",
+        "hip hop",
+        "r&b",
+        "rap"
+      ]
+    },
+    {
+      "id": "0f5816c2-022d-444e-a08f-cfe571a20f7a",
+      "name": "Alfred",
+      "country": "France",
+      "city": "Dorset",
+      "stream": "https://stream2.hippynet.co.uk:8204/stream",
+      "tags": [
+        "community news"
+      ]
+    },
+    {
+      "id": "1f65577e-db25-11e9-a8ba-52543be04c81",
+      "name": "Allzic Africa",
+      "country": "France",
+      "city": "",
+      "stream": "http://allzic49.ice.infomaniak.ch/allzic51.mp3",
+      "tags": [
+        ""
+      ]
+    },
+    {
+      "id": "fb39f9cc-5795-4108-99cb-fece93ce6f02",
+      "name": "Allzic French Mix",
+      "country": "France",
+      "city": "",
+      "stream": "https://allzic65frenchmix.ice.infomaniak.ch/allzic65.aac",
+      "tags": [
+        "contemporary",
+        "music",
+        "remixes"
+      ]
+    },
+    {
+      "id": "b473fb3e-21d7-4b5d-8ddd-9c69b0d11a97",
+      "name": "Allzic Radio Golds Français",
+      "country": "France",
+      "city": "",
+      "stream": "https://allzic30.ice.infomaniak.ch/allzic30.aac",
+      "tags": [
+        "music"
+      ]
+    },
+    {
+      "id": "6084a8d9-ef4c-4d12-a21a-088586450f77",
+      "name": "Allzic Radio Live FR",
+      "country": "France",
+      "city": "",
+      "stream": "https://allzic44.ice.infomaniak.ch/allzic44.aac",
+      "tags": [
+        "music"
+      ]
+    },
+    {
+      "id": "ebdcbdec-e43f-11e9-a8ba-52543be04c81",
+      "name": "Allzic Radio Nouveautés Française",
+      "country": "France",
+      "city": "",
+      "stream": "http://allzic23.ice.infomaniak.ch/allzic23.mp3",
+      "tags": [
+        ""
+      ]
+    },
+    {
+      "id": "645f7bc4-db26-11e9-a8ba-52543be04c81",
+      "name": "Allzic Rap Fr",
+      "country": "France",
+      "city": "",
+      "stream": "http://allzic02.ice.infomaniak.ch/allzic02.mp3",
+      "tags": [
+        ""
+      ]
+    },
+    {
+      "id": "16eef88e-69c4-4c96-8e5e-7ef3872ecb3a",
+      "name": "Am 1050 San Francisco ",
+      "country": "France",
+      "city": "San Francisco Córdoba ",
+      "stream": "https://vps-2333016-x.dattaweb.com/listen/am_1050_radio_san_francisco/radio.mp3",
+      "tags": [
+        ""
+      ]
+    },
+    {
+      "id": "073e5367-9dc5-4379-9ceb-5dbf048e61f8",
+      "name": "Antenne Bayern - Fresh",
+      "country": "France",
+      "city": "Bayern, München, AAC",
+      "stream": "http://stream.antenne.de/fresh/stream/aacp",
+      "tags": [
+        ""
+      ]
+    },
+    {
+      "id": "961e2c2a-0601-11e8-ae97-52543be04c81",
+      "name": "Antenne Bayern - Fresh 4 you",
+      "country": "France",
+      "city": "Bavaria",
+      "stream": "http://stream.antenne.de/fresh",
+      "tags": [
+        "pop",
+        "top 40"
+      ]
+    },
+    {
+      "id": "4fc51dbc-163a-43ee-9db4-c2477bf48743",
+      "name": "Antenne Brandenburg Studio Frankfurt",
+      "country": "France",
+      "city": "Brandenburg",
+      "stream": "http://www.antennebrandenburg.de/frankfurt/livemp3",
+      "tags": [
+        ""
+      ]
+    },
+    {
+      "id": "17911476-e5ec-45ed-a96a-7c2e9802e2c5",
+      "name": "Antenne Steiermark (werbefrei)",
+      "country": "France",
+      "city": "Styria",
+      "stream": "https://60efd7a2b4d02.streamlock.net/a_steiermark/ngrp:livestream_all/playlist.m3u8",
+      "tags": [
+        ""
+      ]
+    },
+    {
+      "id": "d86d2ef3-ba02-11e9-acb2-52543be04c81",
+      "name": "ANTENNEBAYERN Radio Fresh (64 kbps AAC)",
+      "country": "France",
+      "city": "",
+      "stream": "http://mp3channels.webradio.antenne.de/fresh.aac",
+      "tags": [
+        "pop"
+      ]
+    },
+    {
+      "id": "ce292cb0-528a-456c-a5cb-117701476014",
+      "name": "Apostolic Christian Friendship Radio",
+      "country": "France",
+      "city": "Ohio",
+      "stream": "http://174.138.33.124:8000/radio.mp3",
+      "tags": [
+        "bible",
+        "choir",
+        "christian",
+        "christian hymns",
+        "hymns",
+        "music",
+        "sermons"
+      ]
+    },
+    {
+      "id": "68ebb0ea-02b2-456f-b530-26d5548fee47",
+      "name": "Aretha Franklin",
+      "country": "France",
+      "city": "",
+      "stream": "https://streaming.exclusive.radio/er/arethafranklin/icecast.audio",
+      "tags": [
+        ""
+      ]
+    },
+    {
+      "id": "5f774691-05c7-48d6-89e0-26f39aacb3aa",
+      "name": "Athens Free Radio",
+      "country": "France",
+      "city": "Athens",
+      "stream": "http://n12.radiojar.com/e206r95qsp8uv?rj-ttl=5&rj-tok=AAABhMPbz3sAf9_4FoIJiUmkoA",
+      "tags": [
+        "80s",
+        "90s",
+        "club",
+        "disco",
+        "eurodance",
+        "house"
+      ]
+    },
+    {
+      "id": "935a9232-18da-4cb6-a1d7-0f4f2e849a20",
+      "name": "Australian Digital Radio Network - African Music (MP3)",
+      "country": "France",
+      "city": "Sydney NSW",
+      "stream": "http://abm21.com.au:8000/CONTAINER105",
+      "tags": [
+        "african music"
+      ]
+    },
+    {
+      "id": "48a16b3d-7bc7-44e6-8b2c-9623e8fc8dcf",
+      "name": "Australian Digital Radio Network - Afro House (MP3)",
+      "country": "France",
+      "city": "Sydney NSW",
+      "stream": "http://abm22.com.au:8000/CONTAINER53",
+      "tags": [
+        "afro house"
+      ]
+    },
+    {
+      "id": "b949effb-7502-4a59-9221-1408c162d6a6",
+      "name": "Australian Digital Radio Network - Frank Sinatra (MP3)",
+      "country": "France",
+      "city": "Sydney NSW",
+      "stream": "http://abm21.com.au:8000/CONTAINER173",
+      "tags": [
+        "frank sinatra"
+      ]
+    },
+    {
+      "id": "6fc1330e-35af-49a3-9d06-87fc6b9c462f",
+      "name": "Australian Digital Radio Network - Freestyle (MP3)",
+      "country": "France",
+      "city": "Sydney NSW",
+      "stream": "http://abm22.com.au:8000/CONTAINER58",
+      "tags": [
+        "freestyle"
+      ]
+    },
+    {
+      "id": "c7c5a334-99bd-48e0-a6b0-63433574fc9b",
+      "name": "Australian Digital Radio Network - French House (MP3)",
+      "country": "France",
+      "city": "Sydney NSW",
+      "stream": "http://abm22.com.au:8000/CONTAINER59",
+      "tags": [
+        "french house"
+      ]
+    },
+    {
+      "id": "2e1cb65b-967f-4221-8bcb-1baecea7784c",
+      "name": "Avant-Garde Jazz/Free Improvisation - Radio Caprice",
+      "country": "France",
+      "city": "",
+      "stream": "http://79.111.119.111:8004/avantgardejazz",
+      "tags": [
+        "avant-garde",
+        "avant-garde jazz",
+        "free jazz",
+        "improvisation"
+      ]
+    },
+    {
+      "id": "88122e8b-f522-11e9-bbf2-52543be04c81",
+      "name": "B04 BIBLE  ESPERANCE. FR",
+      "country": "France",
+      "city": "",
+      "stream": "http://hagfm.streamakaci.com/parole-de-dieu.mp3",
+      "tags": [
+        "bible"
+      ]
+    },
+    {
+      "id": "467de983-d4cf-4d0b-a69d-5bc2adb2c20d",
+      "name": "B105 105.3MHz FM Brisbane QLD Hits from Then to Now - 20230614",
+      "country": "France",
+      "city": "Queensland Brisbane",
+      "stream": "https://wz4liw.scahw.com.au/live/4bbb_128.stream/playlist.m3u8?",
+      "tags": [
+        "adult contemporary",
+        "hot adult contemporary"
+      ]
+    },
+    {
+      "id": "6f211e4a-43b1-4e51-a8d0-edc7334074b2",
+      "name": "Bar Friends Pernik",
+      "country": "France",
+      "city": "",
+      "stream": "http://79.98.108.170:8278/autodj",
+      "tags": [
+        "misc"
+      ]
+    },
+    {
+      "id": "3a0985e9-788d-11e8-83fa-52543be04c81",
+      "name": "Bayern 1 Franken",
+      "country": "France",
+      "city": "Bayern",
+      "stream": "https://dispatcher.rndfnk.com/br/br1/franken/mp3/mid",
+      "tags": [
+        "oldies"
+      ]
+    },
+    {
+      "id": "8ea86272-d529-4c44-b169-dd6920de647c",
+      "name": "Bayern 1 Mainfranken",
+      "country": "France",
+      "city": "Bayern",
+      "stream": "https://dispatcher.rndfnk.com/br/br1/mainfranken/mp3/mid",
+      "tags": [
+        "oldies"
+      ]
+    },
+    {
+      "id": "036fe0fb-4140-416f-8e35-865a34e6182d",
+      "name": "BBC AFRICA UG",
+      "country": "France",
+      "city": "",
+      "stream": "https://stream.live.vc.bbcmedia.co.uk/bbc_world_service_west_africa",
+      "tags": [
+        "news talk"
+      ]
+    },
+    {
+      "id": "33d17f6d-df26-4524-8e55-79acfc796ac7",
+      "name": "BBC Afrique Radio",
+      "country": "France",
+      "city": "",
+      "stream": "http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_low/ak/bbc_afrique_radio.m3u8",
+      "tags": [
+        "africa",
+        "afrique",
+        "news",
+        "talk"
+      ]
+    },
+    {
+      "id": "9dd58d99-b342-44df-9ebd-51a96819b833",
+      "name": "Beats from Amsterdam",
+      "country": "France",
+      "city": "Noord-Holland",
+      "stream": "http://stream.legendhits.nl:8017/stream",
+      "tags": [
+        ""
+      ]
+    },
+    {
+      "id": "e227d90a-cf42-44bf-aa01-7613e260aedf",
+      "name": "Bestfriend FM",
+      "country": "France",
+      "city": "",
+      "stream": "http://stream.zeno.fm/aqjyy8xcampuv",
+      "tags": [
+        ""
+      ]
+    },
+    {
+      "id": "c6ced7ca-e29f-4d8d-9ad1-c44c66893e04",
+      "name": "Bestfriend FM 107.1",
+      "country": "France",
+      "city": "Mecca",
+      "stream": "https://stream-47.zeno.fm/ewvmpjn7kultv",
+      "tags": [
+        "opm",
+        "variety",
+        "world middle east"
+      ]
+    },
+    {
+      "id": "50507f0d-7667-11ea-b1cf-52543be04c81",
+      "name": "BestOfRock.fm Alternative",
+      "country": "France",
+      "city": "",
+      "stream": "https://bestofrockfm.stream.vip/altrock/mp3-192/bestofrockfm.stream.vip/",
+      "tags": [
+        ""
+      ]
+    },
+    {
+      "id": "f93f53b8-e474-4a84-bacb-1f6b1882f2b1",
+      "name": "BHFR British Home Front Radio",
+      "country": "France",
+      "city": "",
+      "stream": "https://solid24.streamupsolutions.com/proxy/mmpplqiv?mp=/;type=mp3",
+      "tags": [
+        ""
+      ]
+    },
+    {
+      "id": "dad392bf-e6ae-4166-bad5-4eeb7ffdbe09",
+      "name": "Big Froggy 101",
+      "country": "France",
+      "city": "Pennsylvania",
+      "stream": "https://ice25.securenetsystems.net/WFGE",
+      "tags": [
+        "country"
+      ]
+    },
+    {
+      "id": "84b28072-96f5-4397-97e2-9655fa9c5d85",
+      "name": "bigFM Afrobeats",
+      "country": "France",
+      "city": "Baden-Württemberg",
+      "stream": "https://stream.bigfm.de/dancehall/mp3-128/radio-browser",
+      "tags": [
+        "afrobeats",
+        "dance",
+        "dancehall",
+        "pop",
+        "reggae",
+        "reggaeton"
+      ]
+    },
+    {
+      "id": "295ea765-41fc-47be-bb41-828e80c23da4",
+      "name": "BigNoise - music from Siberia",
+      "country": "France",
+      "city": "",
+      "stream": "https://radio.bignoise.club/nonstop",
+      "tags": [
+        ""
+      ]
+    },
+    {
+      "id": "def12704-2d66-11ea-aa0c-52543be04c81",
+      "name": "BlackBox FR",
+      "country": "France",
+      "city": "",
+      "stream": "https://blackbox-fr.ice.infomaniak.ch/blackbox-fr.mp3",
+      "tags": [
+        ""
+      ]
+    },
+    {
+      "id": "6f3f2d9c-ea04-4490-86df-a68b64170e3d",
+      "name": "BMFR - Blues Music Fan Radio",
+      "country": "France",
+      "city": "New York NY",
+      "stream": "https://orbit.citrus3.com:8052/stream",
+      "tags": [
+        "blues"
+      ]
+    },
+    {
+      "id": "cd00b402-e3bd-4fce-8e9d-cff9446bcf46",
+      "name": "Caprice - Latin / Afro-Cuban Jazz",
+      "country": "France",
+      "city": "",
+      "stream": "http://79.111.119.111:8002/latinjazz",
+      "tags": [
+        "classical"
+      ]
+    },
+    {
+      "id": "5cb1b0de-ecb6-4254-8369-4bb0d56c014e",
+      "name": "CBC Radio One - Fredericton, NB (MP3 stream)",
+      "country": "France",
+      "city": "New Brunswick",
+      "stream": "https://26283.live.streamtheworld.com/CBZFFM_CBC_SC",
+      "tags": [
+        "features",
+        "news",
+        "public radio"
+      ]
+    },
+    {
+      "id": "8d9fb592-68ab-11e9-af37-52543be04c81",
+      "name": "CFFR \"660 News\" Calgary, AB",
+      "country": "France",
+      "city": "Alberta",
+      "stream": "https://rogers-hls.leanstream.co/rogers/cal660.stream/playlist.m3u8",
+      "tags": [
+        "calgary",
+        "news radio"
+      ]
+    },
+    {
+      "id": "9616961c-0601-11e8-ae97-52543be04c81",
+      "name": "CFHK 103.1 \"Fresh Radio\" St. Thomas, ON",
+      "country": "France",
+      "city": "Ontario",
+      "stream": "http://live.leanstream.co/CFHKFM-MP3?args=web_02",
+      "tags": [
+        "commercial",
+        "mix",
+        "st. thomas",
+        "top 40"
+      ]
+    },
+    {
+      "id": "961c0217-0601-11e8-ae97-52543be04c81",
+      "name": "CFLG 104.5 \"Fresh Radio\" Cornwall, ON",
+      "country": "France",
+      "city": "Ontario",
+      "stream": "http://live.leanstream.co/CFLGFM-MP3",
+      "tags": [
+        "commercial",
+        "cornwall",
+        "hot adult contemporary"
+      ]
+    },
+    {
+      "id": "23c77648-c076-49ed-bb40-d4f6aa8a7cbd",
+      "name": "CFOB-FM \"93.1 The Border\" Fort Frances, ON",
+      "country": "France",
+      "city": "Ontario",
+      "stream": "https://ais-sa1.streamon.fm/7235_128k.aac/playlist.m3u8",
+      "tags": [
+        "70s",
+        "80s",
+        "90s",
+        "classic hits"
+      ]
+    },
+    {
+      "id": "a01b60ed-3dc3-4c05-9c15-a1521e617a8e",
+      "name": "cfr",
+      "country": "France",
+      "city": "Baden Wuertemberg",
+      "stream": "https://stream.laut.fm/cfr",
+      "tags": [
+        "#top40"
+      ]
+    },
+    {
+      "id": "d37e53ae-a111-4d22-a43b-05b47e0fd334",
+      "name": "CFRA \"News Talk Radio 580\" Ottawa, ON",
+      "country": "France",
+      "city": "Ontario",
+      "stream": "http://18063.live.streamtheworld.com/CFRAAMAAC_SC",
+      "tags": [
+        "news talk"
+      ]
+    },
+    {
+      "id": "9620b36f-0601-11e8-ae97-52543be04c81",
+      "name": "CFRB News/Talk 1010 (Toronto, ON)",
+      "country": "France",
+      "city": "Ontario",
+      "stream": "http://22113.live.streamtheworld.com:3690/CFRBAMAAC_SC",
+      "tags": [
+        "commercial",
+        "local news",
+        "news",
+        "news talk"
+      ]
+    },
+    {
+      "id": "c0f70edf-19f3-4993-9258-954656c2746e",
+      "name": "CFRC 101.9fm - Queen's University, Kingston, ON",
+      "country": "France",
+      "city": "Ontario",
+      "stream": "https://audio.cfrc.ca/stream",
+      "tags": [
+        ""
+      ]
+    },
+    {
+      "id": "ce01502d-8f5a-4867-8104-fad3cbedb11e",
+      "name": "CFRE",
+      "country": "France",
+      "city": "",
+      "stream": "http://s2.yesstreaming.net:7069/stream",
+      "tags": [
+        ""
+      ]
+    },
+    {
+      "id": "962294d5-0601-11e8-ae97-52543be04c81",
+      "name": "CFRK \"New Country 92.3\" Fredericton, NB",
+      "country": "France",
+      "city": "New Brunswick",
+      "stream": "http://newcap.leanstream.co/CFRKFM",
+      "tags": [
+        "country",
+        "fredericton"
+      ]
+    },
+    {
+      "id": "73c8003f-9ff1-46fd-aa83-c947e99be032",
+      "name": "CFRM-FM 100.7 \"Hits 100\" Little Current, ON",
+      "country": "France",
+      "city": "Ontario",
+      "stream": "https://sboucher.radioca.st/stream",
+      "tags": [
+        "80s",
+        "90s",
+        "hot adult contemporary"
+      ]
+    },
+    {
+      "id": "25075f54-4203-11ea-a95e-52543be04c81",
+      "name": "CFRO Vancouver Cooperative Radio",
+      "country": "France",
+      "city": "",
+      "stream": "https://listen-coopradio.sharp-stream.com/coopradio.mp3",
+      "tags": [
+        ""
+      ]
+    },
+    {
+      "id": "9620999b-0601-11e8-ae97-52543be04c81",
+      "name": "CFRQ 104.3 \"Q104\" Halifax,NS",
+      "country": "France",
+      "city": "Nova Scotia",
+      "stream": "http://newcap.leanstream.co/CFRQFM",
+      "tags": [
+        "halifax",
+        "rock"
+      ]
+    },
+    {
+      "id": "fea28e24-ce24-4868-83c2-5aa32a39ac56",
+      "name": "CFRU 93.3",
+      "country": "France",
+      "city": "",
+      "stream": "https://listen.cfru.ca/",
+      "tags": [
+        ""
+      ]
+    },
+    {
+      "id": "b265b400-9fa1-45b0-9a88-48422b5a8c2a",
+      "name": "CFRV-FM \"KISS 107.7\"  Lethbridge, AB",
+      "country": "France",
+      "city": "Alberta",
+      "stream": "https://rogers-hls.leanstream.co/rogers/let1077.stream/playlist.m3u8",
+      "tags": [
+        "adult contemporary",
+        "rogers media"
+      ]
+    },
+    {
+      "id": "51d56be5-4bb7-492e-ac94-4a8d48dd85c1",
+      "name": "CFRY 920 Portage La Prairie, MB ",
+      "country": "France",
+      "city": "Manitoba",
+      "stream": "https://goldenwest.leanstream.co/CFRYAM",
+      "tags": [
+        "country"
+      ]
+    },
+    {
+      "id": "197c9b29-4810-43fd-9491-f9b324bd0867",
+      "name": "CFRZ-FM 98.3 Walpole Island First Nation, ON   ",
+      "country": "France",
+      "city": "Ontario",
+      "stream": "https://streams.radiomast.io/97c9ddeb-e3f7-4da7-a4a6-132bd0f7c683",
+      "tags": [
+        "community radio",
+        "indigenous radio"
+      ]
+    },
+    {
+      "id": "0b75d36d-decf-4fbb-8ee9-a7324de6b532",
+      "name": "Chante France",
+      "country": "France",
+      "city": "",
+      "stream": "https://chantefrance.ice.infomaniak.ch/chantefrance-128.mp3",
+      "tags": [
+        "french chansons"
+      ]
+    },
+    {
+      "id": "9609743b-0601-11e8-ae97-52543be04c81",
+      "name": "Chante France",
+      "country": "France",
+      "city": "",
+      "stream": "http://stream.chantefrance.com/Chante_France",
+      "tags": [
+        ""
+      ]
+    },
+    {
+      "id": "96149583-0601-11e8-ae97-52543be04c81",
+      "name": "Chante France 60's",
+      "country": "France",
+      "city": "",
+      "stream": "http://stream.chantefrance.com/cf-60",
+      "tags": [
+        "60s"
+      ]
+    },
+    {
+      "id": "ab6601ea-3d4d-4fc2-9b41-77f1953f0d88",
+      "name": "Chante France 60's",
+      "country": "France",
+      "city": "",
+      "stream": "https://chantefrance60s.ice.infomaniak.ch/chantefrance60s-128.mp3",
+      "tags": [
+        "french chansons"
+      ]
+    },
+    {
+      "id": "4d717d77-35bf-4d25-8cd0-32e3288ee0d0",
+      "name": "Chante France 70's",
+      "country": "France",
+      "city": "",
+      "stream": "https://chantefrance70s.ice.infomaniak.ch/chantefrance70s-128.mp3",
+      "tags": [
+        "chansons françaises",
+        "french chansons"
+      ]
+    },
+    {
+      "id": "9614867a-0601-11e8-ae97-52543be04c81",
+      "name": "Chante France 70's",
+      "country": "France",
+      "city": "",
+      "stream": "http://stream.chantefrance.com/cf-70",
+      "tags": [
+        "70s"
+      ]
+    },
+    {
+      "id": "96147fcb-0601-11e8-ae97-52543be04c81",
+      "name": "Chante France 80's",
+      "country": "France",
+      "city": "",
+      "stream": "http://stream1.chantefrance.com/cf-80",
+      "tags": [
+        "80s"
+      ]
+    },
+    {
+      "id": "e093a1fe-1466-4c11-8cba-12db6de65b74",
+      "name": "Chante France 80's",
+      "country": "France",
+      "city": "",
+      "stream": "https://chantefrance80s.ice.infomaniak.ch/chantefrance80s-128.mp3",
+      "tags": [
+        "chansons françaises",
+        "french chansons"
+      ]
+    },
+    {
+      "id": "a61be78b-d52e-4dd4-befb-b77d4d2de2ca",
+      "name": "Chante France Emotion",
+      "country": "France",
+      "city": "",
+      "stream": "https://chantefranceemotion.ice.infomaniak.ch/chantefranceemotion-128.mp3",
+      "tags": [
+        "french chansons"
+      ]
+    },
+    {
+      "id": "96150c6c-0601-11e8-ae97-52543be04c81",
+      "name": "Chante France Emotion",
+      "country": "France",
+      "city": "",
+      "stream": "http://stream.chantefrance.com/cf-emotion",
+      "tags": [
+        ""
+      ]
+    },
+    {
+      "id": "6a45193e-4b2b-480a-b501-df694d439081",
+      "name": "Chante France Nouveautés",
+      "country": "France",
+      "city": "",
+      "stream": "https://chantefrancenouveautes.ice.infomaniak.ch/chantefrancenouveautes-128.mp3",
+      "tags": [
+        "french chansons"
+      ]
+    },
+    {
+      "id": "ce3b536e-2e20-11ea-aa0c-52543be04c81",
+      "name": "Chante France Nouveautés",
+      "country": "France",
+      "city": "",
+      "stream": "http://stream.chantefrance.com/cf-nouveautes.aac",
+      "tags": [
+        "chansons françaises"
+      ]
+    },
+    {
+      "id": "9621c2a8-0601-11e8-ae97-52543be04c81",
+      "name": "CHAY 93.1 \"Fresh Radio\" Barrie, ON",
+      "country": "France",
+      "city": "Ontario",
+      "stream": "http://live.leanstream.co/CHAYFM-MP3",
+      "tags": [
+        "barrie",
+        "commercial",
+        "hot adult contemporary"
+      ]
+    },
+    {
+      "id": "96215d31-0601-11e8-ae97-52543be04c81",
+      "name": "CIHI \"Up 93.1\" Fredericton, NB",
+      "country": "France",
+      "city": "New Brunswick",
+      "stream": "http://newcap.leanstream.co/CIHIFM",
+      "tags": [
+        "adult hits",
+        "fredericton"
+      ]
+    },
+    {
+      "id": "961f7f2a-0601-11e8-ae97-52543be04c81",
+      "name": "CING 95.3 \"Fresh Radio\" Hamilton, ON",
+      "country": "France",
+      "city": "Ontario",
+      "stream": "http://live.leanstream.co/CINGFM-MP3",
+      "tags": [
+        "commercial",
+        "hamilton",
+        "hot adult contemporary"
+      ]
+    },
+    {
+      "id": "2ee40ae7-7807-46cb-bf1b-049f72e2268b",
+      "name": "CIVL-FM 103.9 University of the Fraser Valley - Abbotsford, BC",
+      "country": "France",
+      "city": "British Columbia",
+      "stream": "https://live.civl.ca:8000/live.mp3",
+      "tags": [
+        "campus radio",
+        "university radio"
+      ]
+    },
+    {
+      "id": "7de5000d-0e23-4e39-b911-7fab122bc87e",
+      "name": "CJEM 92.7 \"Frontiere FM\" Edmunston, NB",
+      "country": "France",
+      "city": "New Brunswick",
+      "stream": "https://stream2.statsradio.com:8096/stream",
+      "tags": [
+        "adult contemporary"
+      ]
+    },
+    {
+      "id": "960e5645-0601-11e8-ae97-52543be04c81",
+      "name": "CKLO \"Free 98.1\" London, ON",
+      "country": "France",
+      "city": "Ontario",
+      "stream": "http://live.leanstream.co/CKLOFM",
+      "tags": [
+        "classic rock",
+        "commercial",
+        "london"
+      ]
+    },
+    {
+      "id": "96214bd0-0601-11e8-ae97-52543be04c81",
+      "name": "CKNG \"Fresh Radio 92.5\" Edmonton, AB",
+      "country": "France",
+      "city": "Alberta",
+      "stream": "http://live.leanstream.co/CKNGFM-MP3",
+      "tags": [
+        "adult hits",
+        "commercial",
+        "edmonton"
+      ]
+    },
+    {
+      "id": "961e2b56-0601-11e8-ae97-52543be04c81",
+      "name": "CKRU 100.5 \"Fresh Radio\" Peterborough, ON",
+      "country": "France",
+      "city": "Ontario",
+      "stream": "http://live.leanstream.co/CKRUFM-MP3",
+      "tags": [
+        "commercial",
+        "hot adult contemporary",
+        "peterborough"
+      ]
+    },
+    {
+      "id": "a4203df7-66a5-11e9-af37-52543be04c81",
+      "name": "CKTP 95.7 \"The Wolf\" Fredericton, NB",
+      "country": "France",
+      "city": "New Brunswick",
+      "stream": "http://149.56.234.138:8173/stream",
+      "tags": [
+        "blues",
+        "community radio",
+        "fredericton",
+        "indie",
+        "roots"
+      ]
+    },
+    {
+      "id": "7a432fca-42f1-4402-b9d0-8071ffcc7eb9",
+      "name": "CKTP-FM \"95.7 The Wolf\" Fredericton, NB",
+      "country": "France",
+      "city": "New Brunswick",
+      "stream": "https://centova.radioservers.biz/proxy/cktpradi/stream",
+      "tags": [
+        "blues",
+        "community radio",
+        "roots rock"
+      ]
+    },
+    {
+      "id": "96220a11-0601-11e8-ae97-52543be04c81",
+      "name": "CKWS 104.3 \"Fresh Radio\" Kingston, ON",
+      "country": "France",
+      "city": "Ontario",
+      "stream": "http://live.leanstream.co/CKWSFM?args=web_01",
+      "tags": [
+        "hot adult contemporary",
+        "kingston"
+      ]
+    },
+    {
+      "id": "cadd6537-1841-4127-a98c-dba96a7c5417",
+      "name": "Classic FM France",
+      "country": "France",
+      "city": "",
+      "stream": "https://classicfm.ice.infomaniak.ch/classic-fm.mp3",
+      "tags": [
+        ""
+      ]
+    },
+    {
+      "id": "96422da0-0601-11e8-ae97-52543be04c81",
+      "name": "Concertzender Solta a Franga",
+      "country": "France",
+      "city": "",
+      "stream": "http://streams.greenhost.nl:8080/slotaafranga",
+      "tags": [
+        "world music"
+      ]
+    },
+    {
+      "id": "f7c8ea05-2fb8-4e47-9d7c-8fb9245f26c3",
+      "name": "Cosmo Afro Beats",
+      "country": "France",
+      "city": "",
+      "stream": "https://wdr-cosmo-afrobeat.icecastssl.wdr.de/wdr/cosmo/afrobeat/mp3/128/stream.mp3",
+      "tags": [
+        "international"
+      ]
+    },
+    {
+      "id": "4481723d-2101-4b87-8c42-fbc13463ffc6",
+      "name": "Countryradio.Musicbox4friends",
+      "country": "France",
+      "city": "Toronto",
+      "stream": "https://maggie.torontocast.com:8092/country",
+      "tags": [
+        ""
+      ]
+    },
+    {
+      "id": "20f1210c-674e-46b5-aeed-1b0c2be7b853",
+      "name": "CROONER radio Frank Sinatra",
+      "country": "France",
+      "city": "",
+      "stream": "http://croonerradio_franksinatra.ice.infomaniak.ch/croonerradio-franksinatra-midfi.mp3",
+      "tags": [
+        ""
+      ]
+    },
+    {
+      "id": "b2a1a04e-b264-4e99-8af3-0db5cc0aef96",
+      "name": "Crooner Radio Frenchy",
+      "country": "France",
+      "city": "",
+      "stream": "http://croonerradio_frenchy.ice.infomaniak.ch/croonerradio-frenchy-midfi.mp3",
+      "tags": [
+        "crooner",
+        "french"
+      ]
+    },
+    {
+      "id": "9277eb7a-28c5-4a07-9080-60c2e05d3676",
+      "name": "Crooner Radio Frenchy",
+      "country": "France",
+      "city": "",
+      "stream": "https://direct.croonerradio.fr/croonerradio-frenchy-midfi.mp3",
+      "tags": [
+        ""
+      ]
+    },
+    {
+      "id": "c3a64b55-c685-494a-8431-8d585ccf9141",
+      "name": "Cuberadio.fr",
+      "country": "France",
+      "city": "",
+      "stream": "https://api.cuberadio.fr/play",
+      "tags": [
+        "amateur radio"
+      ]
+    },
+    {
+      "id": "6df3e469-cd95-41f4-9a64-903383dccc43",
+      "name": "Data Fruits",
+      "country": "France",
+      "city": "",
+      "stream": "https://streampusher-relay.club/datafruits.mp3",
+      "tags": [
+        "experimental",
+        "music"
+      ]
+    },
+    {
+      "id": "677f2913-a456-4d49-a370-a89e82a7ee88",
+      "name": "DCLM Radio - French/Français",
+      "country": "France",
+      "city": "",
+      "stream": "https://airtime.dclm.org/radio/8050/french",
+      "tags": [
+        "christian"
+      ]
+    },
+    {
+      "id": "96120f6d-0601-11e8-ae97-52543be04c81",
+      "name": "delta radio Föhnfrisur",
+      "country": "France",
+      "city": "Schleswig-Holstein",
+      "stream": "http://streams.deltaradio.de/delta-foehnfrisur/mp3-192/mediaplayerdeltaradio",
+      "tags": [
+        "hard rock",
+        "heavy metal"
+      ]
+    },
+    {
+      "id": "e41168b8-8718-4824-a404-8277a7d54de1",
+      "name": "DFM AfroVibes Radio",
+      "country": "France",
+      "city": "",
+      "stream": "https://dfm-afrovibes.hostingradio.ru/afrovibes96.aacp",
+      "tags": [
+        "music"
+      ]
+    },
+    {
+      "id": "127006d6-f378-42d0-97b6-1c253a2f3d3e",
+      "name": "dinamo.fm live from minimuzikhol",
+      "country": "France",
+      "city": "",
+      "stream": "https://channels.dinamo.fm/mmradyo-mp3",
+      "tags": [
+        "electronic"
+      ]
+    },
+    {
+      "id": "40c6cbed-2cc3-4dfc-8e27-fb6774b6e767",
+      "name": "DnBRadio.com - Main Channel (FR Mirror)",
+      "country": "France",
+      "city": "",
+      "stream": "http://ildnb1.dnbradio.com:8000/dnbradio_main.mp3",
+      "tags": [
+        "dnb",
+        "drum & bass",
+        "drum 'n' bass",
+        "drum and bass",
+        "drum n bass",
+        "drum&bass",
+        "drum'n'bass",
+        "drumn bass",
+        "liquid dnb"
+      ]
+    },
+    {
+      "id": "bdeb9265-efe5-47c6-bded-33233e8fe044",
+      "name": "Douce France",
+      "country": "France",
+      "city": "Ile de France",
+      "stream": "https://stream.chantefrance.com/Chante_France.aac",
+      "tags": [
+        ""
+      ]
+    },
+    {
+      "id": "d7d73c13-8534-4cfe-9e9c-939e7295b4c1",
+      "name": "Drosselgassenfrequenz",
+      "country": "France",
+      "city": "Niedersachsen",
+      "stream": "http://drosselgassenfrequenz.stream.laut.fm/drosselgassenfrequenz?pl=m3u&t302=2026-01-15_08-29-35&uuid=d4ae169c-3106-4729-805e-2d05249e4b1d",
+      "tags": [
+        "charts",
+        "dance",
+        "entertainment",
+        "nachrichten",
+        "news",
+        "party",
+        "party hits",
+        "pop"
+      ]
+    },
+    {
+      "id": "35e5d0d2-ad6b-4747-baec-ce04af697ad1",
+      "name": "East Africa Radio ",
+      "country": "France",
+      "city": "",
+      "stream": "https://eatv.radioca.st/;",
+      "tags": [
+        "rock"
+      ]
+    },
+    {
+      "id": "6127891e-b89d-4424-9e3f-7723b875465e",
+      "name": "East Africa Radio FM",
+      "country": "France",
+      "city": "",
+      "stream": "https://eatv.radioca.st/stream",
+      "tags": [
+        "african music",
+        "pop",
+        "soccer",
+        "sport",
+        "talk"
+      ]
+    },
+    {
+      "id": "8f3e4883-76cd-421e-a77b-770a8c19ee18",
+      "name": "EBS | Fresco",
+      "country": "France",
+      "city": "",
+      "stream": "https://azura.ebsmedia.ro/listen/fresco/fresco128.mp3",
+      "tags": [
+        "fresco",
+        "smooth"
+      ]
+    },
+    {
+      "id": "7a47355f-3e1f-422b-8102-411432bd840e",
+      "name": "Echoes of Bluemars - Voices from Within",
+      "country": "France",
+      "city": "",
+      "stream": "http://streams.echoesofbluemars.org:8000/voicesfromwithin",
+      "tags": [
+        ""
+      ]
+    },
+    {
+      "id": "5d7ed374-5198-11ea-b877-52543be04c81",
+      "name": "efr 12 radio",
+      "country": "France",
+      "city": "paris",
+      "stream": "http://listen.radioking.com/radio/151768/stream/192217",
+      "tags": [
+        ""
+      ]
+    },
+    {
+      "id": "ba5d1af9-660b-11ea-be63-52543be04c81",
+      "name": "EFR12 Radio",
+      "country": "France",
+      "city": "",
+      "stream": "https://listen.radioking.com/radio/151768/stream/192217",
+      "tags": [
+        "eurovision",
+        "eurovision song contest",
+        "pop"
+      ]
+    },
+    {
+      "id": "c4365d35-0598-4d4a-af75-6a9cd55ffa46",
+      "name": "EHR Fresh",
+      "country": "France",
+      "city": "",
+      "stream": "http://stream.europeanhitradio.com:8000/Stream_25.aac",
+      "tags": [
+        "fresh hits"
+      ]
+    },
+    {
+      "id": "1a862fe1-e929-45e0-924e-d44e97f33acb",
+      "name": "EHR Fresh",
+      "country": "France",
+      "city": "Riga",
+      "stream": "http://stream.ehrhiti.lv:8000/Stream_25.mp3",
+      "tags": [
+        "kas varētu kļūt par hitiem",
+        "topu jaunumi un dziesmas"
+      ]
+    },
+    {
+      "id": "f227af1a-9470-47b2-a4b1-19896c97e99d",
+      "name": "Ekfrasi",
+      "country": "France",
+      "city": "",
+      "stream": "https://neos.win:59340/stream",
+      "tags": [
+        "pop"
+      ]
+    },
+    {
+      "id": "aa3eff31-6e8b-41b8-ab81-c82ff97058a7",
+      "name": "Ella Radio - Afro Jazz",
+      "country": "France",
+      "city": "Berlin",
+      "stream": "https://stream.ella-radio.de/ella-afro-jazz/mp3-192/?ref=radio-browser",
+      "tags": [
+        "jazz"
+      ]
+    },
+    {
+      "id": "48f25a4e-3e87-44f4-a7c9-3e37b145af4f",
+      "name": "Ella Radio - Dave Koz & Friends",
+      "country": "France",
+      "city": "Berlin",
+      "stream": "https://stream.ella-radio.de/ella-dave-coz-and-friends/mp3-192/?ref=radio-browser",
+      "tags": [
+        "jazz"
+      ]
+    },
+    {
+      "id": "67658fa0-4d4a-401b-a2b6-27bb060fb3bf",
+      "name": "Epic Lounge - FRENCH CAFÉ LOUNGE",
+      "country": "France",
+      "city": "north-rhine-westphalia",
+      "stream": "https://0nlineradio.stream42.radiohost.de/lounge-french-cafe-lounge?ref=radiobrowser&upd-meta&upd-scheme=https&_art=dD0xNzY4NDQ1MTE3JmQ9ODA5N2Q3ZjM4NTY5ZGM3NzdlNTM",
+      "tags": [
+        "cafe",
+        "classical music",
+        "french",
+        "french music",
+        "lounge",
+        "lounge music",
+        "piano jazz",
+        "smooth jazz"
+      ]
+    },
+    {
+      "id": "b52d591a-8c1f-47f9-906a-3e5e5b27718b",
+      "name": "ESSENTIEL.fr",
+      "country": "France",
+      "city": "",
+      "stream": "http://cdnradio.streamakaci.com/essentielfr.mp3",
+      "tags": [
+        "gospel",
+        "pop rock"
+      ]
+    },
+    {
+      "id": "0e48643c-b1f2-11e9-acb2-52543be04c81",
+      "name": "EuropaPplus Fresh",
+      "country": "France",
+      "city": "",
+      "stream": "http://hls-01-fresh.emgsound.ru//9//playlist.m3u8",
+      "tags": [
+        "128kbit",
+        "fresh"
+      ]
+    },
+    {
+      "id": "8f58598a-fce7-4869-9a3d-6f5959cec5ea",
+      "name": "Exa FM Fresnillo - 100.5 FM - XHFRE-FM - Grupo B15 - Fresnillo, Zacatecas",
+      "country": "France",
+      "city": "Zacatecas",
+      "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/XHFREAAC.AAC",
+      "tags": [
+        "100.5 fm",
+        "entretenimiento",
+        "español",
+        "estación",
+        "exa",
+        "exa fm",
+        "fm",
+        "fresnillo",
+        "grupo radiofónico b-15",
+        "juvenil",
+        "la estación exacta",
+        "la estación naranja",
+        "latinoamérica",
+        "moi merino",
+        "music",
+        "mvs",
+        "mvs radio",
+        "méxico",
+        "música",
+        "música en español",
+        "música en español e inglés",
+        "música pop",
+        "música variada",
+        "norteamérica",
+        "ponte exa",
+        "pop",
+        "pop en español e inglés",
+        "pop music",
+        "pop rock",
+        "radio",
+        "zacatecas"
+      ]
+    },
+    {
+      "id": "8cdd871a-24c3-4902-8708-071580f9763b",
+      "name": "Exclusively Frank Sinatra",
+      "country": "France",
+      "city": "",
+      "stream": "http://streaming.exclusive.radio/er/franksinatra/icecast.audio",
+      "tags": [
+        "jazz"
+      ]
+    },
+    {
+      "id": "392993a8-7601-4d2f-bda7-c6798406db1b",
+      "name": "Exclusively Frank Sinatra",
+      "country": "France",
+      "city": "",
+      "stream": "https://2.mystreaming.net/er/franksinatra/icecast.audio",
+      "tags": [
+        "big band",
+        "standards",
+        "swing"
+      ]
+    },
+    {
+      "id": "e8070b69-821c-408d-9f22-0fd643201c48",
+      "name": "Exclusively Peter Frampton",
+      "country": "France",
+      "city": "",
+      "stream": "https://streaming.exclusive.radio/er/peterframpton/icecast.audio",
+      "tags": [
+        "album rock",
+        "arena rock",
+        "contemporary pop rock",
+        "pop rock"
+      ]
+    },
+    {
+      "id": "7e8b7370-7c5c-4da1-bf08-d8f6543c7bae",
+      "name": "extra-radio | Hochfrankenradio | Hof",
+      "country": "France",
+      "city": "Bayern",
+      "stream": "http://extra-radio.radionetz.de/extra-radio.mp3",
+      "tags": [
+        "pop",
+        "oldies"
+      ]
+    },
+    {
+      "id": "6d0431ca-54a1-4923-9b52-c428d8f10374",
+      "name": "Fabulous Fred FM",
+      "country": "France",
+      "city": "Austin, Texas",
+      "stream": "https://15113.live.streamtheworld.com/SAM05AAC335_SC",
+      "tags": [
+        "traditional pop"
+      ]
+    },
+    {
+      "id": "568ef843-32e6-4911-849e-1151e47f4269",
+      "name": "Fajn Fresh",
+      "country": "France",
+      "city": "Prague",
+      "stream": "http://ice.abradio.cz/fajnfresh128.mp3",
+      "tags": [
+        "pop"
+      ]
+    },
+    {
+      "id": "5d37c750-97ad-4305-9c0b-9a6a6cb02100",
+      "name": "Fajn Fresh Radio",
+      "country": "France",
+      "city": "",
+      "stream": "http://mp3stream4.abradio.cz/fajnfresh64.mp3",
+      "tags": [
+        "dance",
+        "house",
+        "pop"
+      ]
+    },
+    {
+      "id": "718c7ff1-291c-4c09-b240-4a98eb0b73fb",
+      "name": "Feierfreund",
+      "country": "France",
+      "city": "Deutschland und NRW",
+      "stream": "https://streams.feierfreund.de/discofox/mp3-128/streams.feierfreund.de/",
+      "tags": [
+        ""
+      ]
+    },
+    {
+      "id": "974b0acc-7d95-4094-9559-d2366b141541",
+      "name": "Feierfreund - 100% Eskalation",
+      "country": "France",
+      "city": "",
+      "stream": "http://streams.feierfreund.de/eskalation/mp3-192/streams.feierfreund.de/",
+      "tags": [
+        ""
+      ]
+    },
+    {
+      "id": "c81701dc-ae78-4e90-bdc6-10c206c92f67",
+      "name": "Feierfreund - Chart Party",
+      "country": "France",
+      "city": "",
+      "stream": "http://streams.feierfreund.de/chartparty/mp3-192/streams.feierfreund.de/",
+      "tags": [
+        "international"
+      ]
+    },
+    {
+      "id": "95719dbf-bd40-4c23-880d-8f480a661331",
+      "name": "Feierfreund 90er Dance",
+      "country": "France",
+      "city": "",
+      "stream": "http://streams.feierfreund.de/dance/mp3-192",
+      "tags": [
+        ""
+      ]
+    },
+    {
+      "id": "2ebc24f3-7854-4105-827e-a550d1f9095f",
+      "name": "Feierfreund Autoscooter -om",
+      "country": "France",
+      "city": "",
+      "stream": "https://regiocast.streamabc.net/regc-feierfreundautoscooter4528474-mp3-192-8023058?sABC=65r84n18%231%23orn59s6sonr544p2o28ro0p547q6s693%23ubzrcntr&mode=preroll&aw_0_1st.skey=1709722136&cb=719606244&aw_0_req.userConsentV2=CP7DPQAP7DPQAAFADCDEAqEgAAAAAEPgAAYgAAAQ5gRAAKAAqABcADwAIAASAAyABwAEQAI4AUoAtgC4AGIAN4AfgBLADDAHcAP0AhABFgCxAF1AMUAbgA-wCLwEiALzAX0AwQBlgEAQIcgCBoAMAAQQ5EQAYAAghyKgAwABBDkZABgACCHI.YAAAAAAAAAAA&aw_0_1st.playerid=feierfreund_web&listenerid=bea59f6fbae544c2b28eb0c547d6f693&amsparams=playerid:homepage;skey:1709722136",
+      "tags": [
+        "charts",
+        "dance",
+        "hits",
+        "top 40"
+      ]
+    },
+    {
+      "id": "50420f6a-fe77-40c5-a065-b12c5c7d5299",
+      "name": "FIP Sacré Français !",
+      "country": "France",
+      "city": "",
+      "stream": "https://stream.radiofrance.fr/fipsacrefrancais/fipsacrefrancais.m3u8?id=radiofrance",
+      "tags": [
+        "fip",
+        "french",
+        "french chansons",
+        "french music",
+        "public radio",
+        "radio france"
+      ]
+    },
+    {
+      "id": "e7c5fe5d-1110-455a-9d80-c07f851cf799",
+      "name": "FIP Sacré Français !",
+      "country": "France",
+      "city": "",
+      "stream": "http://icecast.radiofrance.fr/fipsacrefrancais-hifi.aac",
+      "tags": [
+        "chansons françaises",
+        "fip",
+        "french"
+      ]
+    },
+    {
+      "id": "44dc6d1c-abe5-402a-be20-3545a0a13101",
+      "name": "Floyd Server (Rock Ballad...From 09/25/05)",
+      "country": "France",
+      "city": "",
+      "stream": "http://1.uicl.co.kr:8000/;",
+      "tags": [
+        "rock ballads"
+      ]
+    },
+    {
+      "id": "58daf353-802d-4848-87e6-539b013312c3",
+      "name": "Folk Alley Fresh Cuts",
+      "country": "France",
+      "city": "New York",
+      "stream": "https://freshgrass.streamguys1.com/freshcuts-128mp3",
+      "tags": [
+        "folk"
+      ]
+    },
+    {
+      "id": "b9f835e1-01d2-4c19-a752-901a384f4abb",
+      "name": "Folk Alley Fresh Cuts [AAC]",
+      "country": "France",
+      "city": "",
+      "stream": "http://freshgrass.streamguys1.com/freshcuts-64aac",
+      "tags": [
+        ""
+      ]
+    },
+    {
+      "id": "9f96edb3-1c4b-4373-b56a-be368cb1e368",
+      "name": "Folk Alley FreshGrass",
+      "country": "France",
+      "city": "New York",
+      "stream": "https://freshgrass.streamguys1.com/ss1-128mp3",
+      "tags": [
+        "bluegrass",
+        "folk"
+      ]
+    },
+    {
+      "id": "e4fa8e8e-a70c-45f8-b42a-afc2641c521d",
+      "name": "Forum en Français",
+      "country": "France",
+      "city": "",
+      "stream": "http://forumenfrancais.ice.infomaniak.ch/forumenfrancais-128.mp3",
+      "tags": [
+        ""
+      ]
+    },
+    {
+      "id": "0842377e-9c21-4567-a326-6303a48b0ea1",
+      "name": "FPP Fréquence Paris Plurielle rfpp",
+      "country": "France",
+      "city": "",
+      "stream": "https://direct.rfpp.net/fpp.mp3",
+      "tags": [
+        "political talk",
+        "politique",
+        "radio associative",
+        "radio libre",
+        "voix des sans voix"
+      ]
+    },
+    {
+      "id": "01479a29-8e7e-4015-805d-3e1df4b4b0ae",
+      "name": "Fraktal Phere",
+      "country": "France",
+      "city": "",
+      "stream": "https://fraktal-phere.stream.laut.fm/fraktal-phere?pl=m3u&t302=2026-01-15_03-07-03&uuid=373931a7-d599-4fa9-a0d8-c4501dc9bdb9",
+      "tags": [
+        "electronic music"
+      ]
+    },
+    {
+      "id": "816b8c76-1e0a-4375-ad0d-5d3466d09fff",
+      "name": "Francais dans le monde",
+      "country": "France",
+      "city": "",
+      "stream": "https://listen.radioking.com/radio/2079/stream/63043",
+      "tags": [
+        "general"
+      ]
+    },
+    {
+      "id": "a6c0da00-2c1c-4e61-b565-96aaf7d64756",
+      "name": "france ",
+      "country": "France",
+      "city": "",
+      "stream": "https://stream-eurodance90.fr/radio/8000/128.mp3",
+      "tags": [
+        "eurodance"
+      ]
+    },
+    {
+      "id": "6e6fbc51-ef6f-11e8-a471-52543be04c81",
+      "name": "france bleu",
+      "country": "France",
+      "city": "",
+      "stream": "http://direct.francebleu.fr/live/fbbassenormandie-lofi.mp3",
+      "tags": [
+        ""
+      ]
+    },
+    {
+      "id": "4112af28-5d3a-4b3c-b867-01cab457ed79",
+      "name": "France Bleu 100% chanson française ",
+      "country": "France",
+      "city": "",
+      "stream": "https://icecast.radiofrance.fr/fbchansonfrancaise-midfi.mp3",
+      "tags": [
+        ""
+      ]
+    },
+    {
+      "id": "bd9c7402-9959-4ad7-81e1-d65d7d7c5f6d",
+      "name": "France Bleu Alsace",
+      "country": "France",
+      "city": "Alsace",
+      "stream": "https://stream.radiofrance.fr/fbalsace/fbalsace.m3u8?id=radiofrance",
+      "tags": [
+        "public radio"
+      ]
+    },
+    {
+      "id": "a7d3f6fb-9b43-44dd-96cd-f8035d647e50",
+      "name": "France Bleu Alsace",
+      "country": "France",
+      "city": "Alsace",
+      "stream": "https://icecast.radiofrance.fr/fbalsace-midfi.mp3",
+      "tags": [
+        "public radio"
+      ]
+    },
+    {
+      "id": "a0831ef4-dca7-43f8-8bb0-61b9a6e5d599",
+      "name": "France Bleu Armorique",
+      "country": "France",
+      "city": "Bretagne",
+      "stream": "http://direct.francebleu.fr/live/fbarmorique-midfi.mp3",
+      "tags": [
+        ""
+      ]
+    },
+    {
+      "id": "329ed939-e9d7-4736-a295-e5f780d43501",
+      "name": "France bleu Armorique",
+      "country": "France",
+      "city": "",
+      "stream": "https://direct.francebleu.fr/live/fbarmorique-midfi.mp3",
+      "tags": [
+        "news"
+      ]
+    },
+    {
+      "id": "9613000f-0601-11e8-ae97-52543be04c81",
+      "name": "France Bleu Auxerre",
+      "country": "France",
+      "city": "Bourgogne-Franche-Comté",
+      "stream": "http://direct.francebleu.fr/live/fbauxerre-midfi.mp3",
+      "tags": [
+        ""
+      ]
+    },
+    {
+      "id": "fdda8d22-9789-40da-a94a-d3edd47621ad",
+      "name": "France Bleu Azur",
+      "country": "France",
+      "city": "Provence-Alpes-Côte d'Azur",
+      "stream": "https://stream.radiofrance.fr/fbazur/fbazur.m3u8?id=radiofrance",
+      "tags": [
+        ""
+      ]
+    },
+    {
+      "id": "961300da-0601-11e8-ae97-52543be04c81",
+      "name": "France Bleu Azur",
+      "country": "France",
+      "city": "Provence-Alpes-Côte d'Azur",
+      "stream": "http://direct.francebleu.fr/live/fbazur-midfi.mp3",
+      "tags": [
+        ""
+      ]
+    },
+    {
+      "id": "9613018f-0601-11e8-ae97-52543be04c81",
+      "name": "France Bleu Béarn",
+      "country": "France",
+      "city": "Nouvelle-Aquitaine",
+      "stream": "http://direct.francebleu.fr/live/fbbearn-midfi.mp3",
+      "tags": [
+        ""
+      ]
+    },
+    {
+      "id": "9613024d-0601-11e8-ae97-52543be04c81",
+      "name": "France Bleu Belfort-Montbéliard",
+      "country": "France",
+      "city": "Bourgogne-Franche-Comté",
+      "stream": "http://direct.francebleu.fr/live/fbbelfort-midfi.mp3",
+      "tags": [
+        ""
+      ]
+    },
+    {
+      "id": "96130314-0601-11e8-ae97-52543be04c81",
+      "name": "France Bleu Berry",
+      "country": "France",
+      "city": "Centre-Val de Loire",
+      "stream": "http://direct.francebleu.fr/live/fbberry-midfi.mp3",
+      "tags": [
+        ""
+      ]
+    },
+    {
+      "id": "196b7bd5-6507-4a99-8a94-2c0a7e3bee73",
+      "name": "France Bleu Besançon ",
+      "country": "France",
+      "city": "",
+      "stream": "http://direct.francebleu.fr/live/fbbesancon-midfi.mp3?ID=33c5hej2c2",
+      "tags": [
+        ""
+      ]
+    },
+    {
+      "id": "961303cf-0601-11e8-ae97-52543be04c81",
+      "name": "France Bleu Besançon",
+      "country": "France",
+      "city": "Bourgogne-Franche-Comté",
+      "stream": "http://direct.francebleu.fr/live/fbbesancon-midfi.mp3",
+      "tags": [
+        ""
+      ]
+    },
+    {
+      "id": "96130489-0601-11e8-ae97-52543be04c81",
+      "name": "France Bleu Bourgogne",
+      "country": "France",
+      "city": "Bourgogne-Franche-Comté",
+      "stream": "http://direct.francebleu.fr/live/fbbourgogne-midfi.mp3",
+      "tags": [
+        ""
+      ]
+    },
+    {
+      "id": "96130546-0601-11e8-ae97-52543be04c81",
+      "name": "France Bleu Breizh Izel",
+      "country": "France",
+      "city": "Bretagne",
+      "stream": "http://direct.francebleu.fr/live/fbbreizizel-midfi.mp3",
+      "tags": [
+        ""
+      ]
+    },
+    {
+      "id": "96130607-0601-11e8-ae97-52543be04c81",
+      "name": "France Bleu Champagne-Ardenne",
+      "country": "France",
+      "city": "Grand Est",
+      "stream": "http://direct.francebleu.fr/live/fbchampagne-midfi.mp3",
+      "tags": [
+        ""
+      ]
+    },
+    {
+      "id": "96097250-0601-11e8-ae97-52543be04c81",
+      "name": "France Bleu Cotentin",
+      "country": "France",
+      "city": "Normandie",
+      "stream": "http://direct.francebleu.fr/live/fbcotentin-midfi.mp3",
+      "tags": [
+        ""
+      ]
+    },
+    {
+      "id": "960c3ae1-0601-11e8-ae97-52543be04c81",
+      "name": "France Bleu Creuse",
+      "country": "France",
+      "city": "Nouvelle-Aquitaine",
+      "stream": "http://direct.francebleu.fr/live/fbcreuse-midfi.mp3",
+      "tags": [
+        ""
+      ]
+    },
+    {
+      "id": "38ea0cc7-f50c-11e9-bbf2-52543be04c81",
+      "name": "France Bleu Drôme-Ardèche",
+      "country": "France",
+      "city": "Auvergne-Rhône-Alpes",
+      "stream": "http://direct.francebleu.fr/live/fbdromeardeche-midfi.mp3",
+      "tags": [
+        ""
+      ]
+    },
+    {
+      "id": "961306c8-0601-11e8-ae97-52543be04c81",
+      "name": "France Bleu Elsass",
+      "country": "France",
+      "city": "Grand Est",
+      "stream": "http://direct.francebleu.fr/live/fbelsass-midfi.mp3",
+      "tags": [
+        ""
+      ]
+    },
+    {
+      "id": "9613078a-0601-11e8-ae97-52543be04c81",
+      "name": "France Bleu Gard Lozère",
+      "country": "France",
+      "city": "Occitanie",
+      "stream": "http://direct.francebleu.fr/live/fbgardlozere-midfi.mp3",
+      "tags": [
+        ""
+      ]
+    },
+    {
+      "id": "9613084f-0601-11e8-ae97-52543be04c81",
+      "name": "France Bleu Gascogne",
+      "country": "France",
+      "city": "Nouvelle-Aquitaine",
+      "stream": "http://direct.francebleu.fr/live/fbgascogne-midfi.mp3",
+      "tags": [
+        ""
+      ]
+    },
+    {
+      "id": "96130915-0601-11e8-ae97-52543be04c81",
+      "name": "France Bleu Gironde",
+      "country": "France",
+      "city": "Nouvelle-Aquitaine",
+      "stream": "http://direct.francebleu.fr/live/fbgironde-midfi.mp3",
+      "tags": [
+        ""
+      ]
+    },
+    {
+      "id": "02fed767-38db-42d2-8a68-9ad4f6f33a49",
+      "name": "France Bleu Haute Normandie",
+      "country": "France",
+      "city": "Normandie",
+      "stream": "http://icecast.radiofrance.fr/fbhautenormandie-midfi.mp3",
+      "tags": [
+        "music",
+        "news",
+        "traffic",
+        "weather"
+      ]
+    },
+    {
+      "id": "d536624c-c484-426e-884b-b981f648964e",
+      "name": "France Bleu Haute Normandie",
+      "country": "France",
+      "city": "",
+      "stream": "https://direct.francebleu.fr/live/fbhautenormandie-midfi.mp3",
+      "tags": [
+        "news"
+      ]
+    },
+    {
+      "id": "9612c48b-0601-11e8-ae97-52543be04c81",
+      "name": "France Bleu Hérault",
+      "country": "France",
+      "city": "Occitanie",
+      "stream": "http://direct.francebleu.fr/live/fbherault-midfi.mp3",
+      "tags": [
+        ""
+      ]
+    },
+    {
+      "id": "961309dd-0601-11e8-ae97-52543be04c81",
+      "name": "France Bleu Isère",
+      "country": "France",
+      "city": "Auvergne-Rhône-Alpes",
+      "stream": "http://direct.francebleu.fr/live/fbisere-midfi.mp3",
+      "tags": [
+        ""
+      ]
+    },
+    {
+      "id": "96130ab0-0601-11e8-ae97-52543be04c81",
+      "name": "France Bleu La Rochelle",
+      "country": "France",
+      "city": "Nouvelle-Aquitaine",
+      "stream": "http://direct.francebleu.fr/live/fblarochelle-midfi.mp3",
+      "tags": [
+        ""
+      ]
+    },
+    {
+      "id": "96130c50-0601-11e8-ae97-52543be04c81",
+      "name": "France Bleu Limousin",
+      "country": "France",
+      "city": "Nouvelle-Aquitaine",
+      "stream": "http://direct.francebleu.fr/live/fblimousin-midfi.mp3",
+      "tags": [
+        ""
+      ]
+    },
+    {
+      "id": "96130d1d-0601-11e8-ae97-52543be04c81",
+      "name": "France Bleu Loire Océan",
+      "country": "France",
+      "city": "Pays de la Loire",
+      "stream": "http://direct.francebleu.fr/live/fbloireocean-midfi.mp3",
+      "tags": [
+        ""
+      ]
+    },
+    {
+      "id": "96130df1-0601-11e8-ae97-52543be04c81",
+      "name": "France Bleu Lorraine Nord",
+      "country": "France",
+      "city": "Grand Est",
+      "stream": "http://direct.francebleu.fr/live/fblorrainenord-midfi.mp3",
+      "tags": [
+        ""
+      ]
+    },
+    {
+      "id": "96130ecc-0601-11e8-ae97-52543be04c81",
+      "name": "France Bleu Maine",
+      "country": "France",
+      "city": "Pays de la Loire",
+      "stream": "http://direct.francebleu.fr/live/fbmaine-midfi.mp3",
+      "tags": [
+        ""
+      ]
+    },
+    {
+      "id": "96130f9f-0601-11e8-ae97-52543be04c81",
+      "name": "France Bleu Mayenne",
+      "country": "France",
+      "city": "Pays de la Loire",
+      "stream": "http://direct.francebleu.fr/live/fbmayenne-midfi.mp3",
+      "tags": [
+        ""
+      ]
+    },
+    {
+      "id": "96131074-0601-11e8-ae97-52543be04c81",
+      "name": "France Bleu Nord",
+      "country": "France",
+      "city": "Hauts-de-France",
+      "stream": "http://direct.francebleu.fr/live/fbnord-midfi.mp3",
+      "tags": [
+        ""
+      ]
+    },
+    {
+      "id": "9613121c-0601-11e8-ae97-52543be04c81",
+      "name": "France Bleu Normandie (Calvados - Orne)",
+      "country": "France",
+      "city": "Normandie",
+      "stream": "http://direct.francebleu.fr/live/fbbassenormandie-midfi.mp3",
+      "tags": [
+        ""
+      ]
+    },
+    {
+      "id": "760cc065-1e88-11ea-a955-52543be04c81",
+      "name": "France Bleu Occitanie",
+      "country": "France",
+      "city": "",
+      "stream": "http://direct.francebleu.fr/live/fbtoulouse-midfi.mp3",
+      "tags": [
+        ""
+      ]
+    },
+    {
+      "id": "961312f4-0601-11e8-ae97-52543be04c81",
+      "name": "France Bleu Orléans",
+      "country": "France",
+      "city": "Centre-Val de Loire",
+      "stream": "http://direct.francebleu.fr/live/fborleans-midfi.mp3",
+      "tags": [
+        ""
+      ]
+    },
+    {
+      "id": "96131e7f-0601-11e8-ae97-52543be04c81",
+      "name": "France Bleu Paris",
+      "country": "France",
+      "city": "Île-de-France",
+      "stream": "http://direct.francebleu.fr/live/fb1071-midfi.mp3",
+      "tags": [
+        "france bleu",
+        "public radio",
+        "radio france",
+        "regional"
+      ]
+    },
+    {
+      "id": "961313cd-0601-11e8-ae97-52543be04c81",
+      "name": "France Bleu Pays Basque",
+      "country": "France",
+      "city": "Nouvelle-Aquitaine",
+      "stream": "http://direct.francebleu.fr/live/fbpaysbasque-midfi.mp3",
+      "tags": [
+        ""
+      ]
+    },
+    {
+      "id": "961314a7-0601-11e8-ae97-52543be04c81",
+      "name": "France Bleu Pays d'Auvergne",
+      "country": "France",
+      "city": "Auvergne-Rhône-Alpes",
+      "stream": "http://direct.francebleu.fr/live/fbpaysdauvergne-midfi.mp3",
+      "tags": [
+        ""
+      ]
+    },
+    {
+      "id": "96131573-0601-11e8-ae97-52543be04c81",
+      "name": "France Bleu Pays de Savoie",
+      "country": "France",
+      "city": "Auvergne-Rhône-Alpes",
+      "stream": "http://direct.francebleu.fr/live/fbpaysdesavoie-midfi.mp3",
+      "tags": [
+        ""
+      ]
+    },
+    {
+      "id": "9613162a-0601-11e8-ae97-52543be04c81",
+      "name": "France Bleu Périgord",
+      "country": "France",
+      "city": "Nouvelle-Aquitaine",
+      "stream": "http://direct.francebleu.fr/live/fbperigord-midfi.mp3",
+      "tags": [
+        ""
+      ]
+    },
+    {
+      "id": "961316e3-0601-11e8-ae97-52543be04c81",
+      "name": "France Bleu Picardie",
+      "country": "France",
+      "city": "Hauts-de-France",
+      "stream": "http://direct.francebleu.fr/live/fbpicardie-midfi.mp3",
+      "tags": [
+        ""
+      ]
+    },
+    {
+      "id": "9613179e-0601-11e8-ae97-52543be04c81",
+      "name": "France Bleu Poitou",
+      "country": "France",
+      "city": "Nouvelle-Aquitaine",
+      "stream": "http://direct.francebleu.fr/live/fbpoitou-midfi.mp3",
+      "tags": [
+        ""
+      ]
+    },
+    {
+      "id": "d94c5090-1b7d-11ea-a620-52543be04c81",
+      "name": "France Bleu Provence",
+      "country": "France",
+      "city": "",
+      "stream": "https://icecast.radiofrance.fr/fbprovence-midfi.mp3?ID=radiofrance",
+      "tags": [
+        "france",
+        "provence",
+        "radio"
+      ]
+    },
+    {
+      "id": "96131916-0601-11e8-ae97-52543be04c81",
+      "name": "France Bleu RCFM",
+      "country": "France",
+      "city": "Corse",
+      "stream": "http://direct.francebleu.fr/live/fbfrequenzamora-midfi.mp3",
+      "tags": [
+        ""
+      ]
+    },
+    {
+      "id": "961319d4-0601-11e8-ae97-52543be04c81",
+      "name": "France Bleu Roussillon",
+      "country": "France",
+      "city": "Occitanie",
+      "stream": "http://direct.francebleu.fr/live/fbroussillon-midfi.mp3",
+      "tags": [
+        ""
+      ]
+    },
+    {
+      "id": "96131a96-0601-11e8-ae97-52543be04c81",
+      "name": "France Bleu Saint-Étienne Loire",
+      "country": "France",
+      "city": "Auvergne-Rhône-Alpes",
+      "stream": "http://direct.francebleu.fr/live/fbstetienne-midfi.mp3",
+      "tags": [
+        ""
+      ]
+    },
+    {
+      "id": "96131b57-0601-11e8-ae97-52543be04c81",
+      "name": "France Bleu Sud Lorraine",
+      "country": "France",
+      "city": "Grand Est",
+      "stream": "http://direct.francebleu.fr/live/fbsudlorraine-midfi.mp3",
+      "tags": [
+        ""
+      ]
+    },
+    {
+      "id": "96131ce4-0601-11e8-ae97-52543be04c81",
+      "name": "France Bleu Touraine",
+      "country": "France",
+      "city": "Centre-Val de Loire",
+      "stream": "http://direct.francebleu.fr/live/fbtouraine-midfi.mp3",
+      "tags": [
+        ""
+      ]
+    },
+    {
+      "id": "96131db3-0601-11e8-ae97-52543be04c81",
+      "name": "France Bleu Vaucluse",
+      "country": "France",
+      "city": "Provence-Alpes-Côte d'Azur",
+      "stream": "http://direct.francebleu.fr/live/fbvaucluse-midfi.mp3",
+      "tags": [
+        ""
+      ]
+    },
+    {
+      "id": "0679b093-a1fa-409e-9912-922657f6a8fb",
+      "name": "France Culture",
+      "country": "France",
+      "city": "",
+      "stream": "http://icecast.radiofrance.fr/franceculture-hifi.aac",
+      "tags": [
+        ""
+      ]
+    },
+    {
+      "id": "9cd3d0dd-0ddd-4bd5-8a60-7d3b7357d4e5",
+      "name": "France Culture",
+      "country": "France",
+      "city": "",
+      "stream": "https://stream.radiofrance.fr/franceculture/franceculture.m3u8?id=radiofrance",
+      "tags": [
+        "culture",
+        "hls",
+        "public radio",
+        "radio france"
+      ]
+    },
+    {
+      "id": "10652211-3b97-411b-ab87-128be29356ac",
+      "name": "France Culture",
+      "country": "France",
+      "city": "",
+      "stream": "https://stream.radiofrance.fr/franceculture/franceculture_hifi.m3u8",
+      "tags": [
+        "culture",
+        "hls",
+        "m3u8",
+        "public radio",
+        "radio france"
+      ]
+    },
+    {
+      "id": "698ca170-093f-45aa-a7bb-4c809d04183d",
+      "name": "France Culture",
+      "country": "France",
+      "city": "",
+      "stream": "https://stream.radiofrance.fr/franceculture/franceculture_hifi.m3u8?id=radiofrance",
+      "tags": [
+        ""
+      ]
+    },
+    {
+      "id": "651c4c9a-e639-11e9-a96c-52543be04c81",
+      "name": "France Culture",
+      "country": "France",
+      "city": "France",
+      "stream": "http://icecast.radiofrance.fr/franceculture-midfi.mp3",
+      "tags": [
+        "culture",
+        "public radio",
+        "radio france",
+        "talk"
+      ]
+    },
+    {
+      "id": "3155814b-3b69-11e9-9b4e-52543be04c81",
+      "name": "France Culture",
+      "country": "France",
+      "city": "",
+      "stream": "http://direct.franceculture.fr/live/franceculture-lofi.mp3",
+      "tags": [
+        ""
+      ]
+    },
+    {
+      "id": "a431bb8a-8440-4d9c-88a5-57b93c33e099",
+      "name": "France Culture (sans pub)",
+      "country": "France",
+      "city": "",
+      "stream": "https://stream.radiofrance.fr/franceculture/franceculture.m3u8?id=radiofranceBose",
+      "tags": [
+        "culture",
+        "drama",
+        "features",
+        "generalist",
+        "science"
+      ]
+    },
+    {
+      "id": "f13fae4a-b70b-449f-95d3-6001978d0876",
+      "name": "France culture 2",
+      "country": "France",
+      "city": "Auvergne-Rhône-Alpes",
+      "stream": "https://icecast.radiofrance.fr/franceculture-hifi.aac",
+      "tags": [
+        "informations"
+      ]
+    },
+    {
+      "id": "717fc5d5-fe02-462c-8d41-64c4c6895d98",
+      "name": "France Info",
+      "country": "France",
+      "city": "",
+      "stream": "http://icecast.radiofrance.fr/franceinfo-hifi.aac",
+      "tags": [
+        "informations"
+      ]
+    },
+    {
+      "id": "ab6a33e5-e8b5-4cf4-bfb7-ec0ae779cb7c",
+      "name": "France Info",
+      "country": "France",
+      "city": "",
+      "stream": "https://stream.radiofrance.fr/franceinfo/franceinfo_hifi.m3u8",
+      "tags": [
+        "hls",
+        "information",
+        "m3u8",
+        "news",
+        "public radio",
+        "radio france"
+      ]
+    },
+    {
+      "id": "a986d972-730c-48c1-89d8-fb0da1541579",
+      "name": "France Info",
+      "country": "France",
+      "city": "",
+      "stream": "https://stream.radiofrance.fr/franceinfo/franceinfo_hifi.m3u8?id=radiofrance",
+      "tags": [
+        "info"
+      ]
+    },
+    {
+      "id": "1cfb151d-a341-11e9-a787-52543be04c81",
+      "name": "France Info",
+      "country": "France",
+      "city": "",
+      "stream": "http://direct.franceinfo.fr/live/franceinfo-midfi.mp3",
+      "tags": [
+        ""
+      ]
+    },
+    {
+      "id": "f2c327d2-619d-48cd-a5d3-2fa705625c6a",
+      "name": "France Info",
+      "country": "France",
+      "city": "",
+      "stream": "http://direct.franceinfo.fr/live/franceinfo-midfi.aac",
+      "tags": [
+        "information",
+        "news"
+      ]
+    },
+    {
+      "id": "c603e84e-47b8-44cb-bd23-f0f007e8d812",
+      "name": "france info (lofi)",
+      "country": "France",
+      "city": "",
+      "stream": "http://direct.franceinfo.fr/live/franceinfo-lofi.mp3",
+      "tags": [
+        "info",
+        "lofi",
+        "radio france"
+      ]
+    },
+    {
+      "id": "45fbf2da-6ec9-43c6-9cf5-f141cd279362",
+      "name": "France Inter",
+      "country": "France",
+      "city": "",
+      "stream": "http://direct.franceinter.fr/live/franceinter-hifi.aac",
+      "tags": [
+        ""
+      ]
+    },
+    {
+      "id": "33960c43-0464-44b4-abfa-73591ebf647f",
+      "name": "France Inter",
+      "country": "France",
+      "city": "",
+      "stream": "https://stream.radiofrance.fr/franceinter/franceinter_hifi.m3u8?id=radiofrance",
+      "tags": [
+        ""
+      ]
+    },
+    {
+      "id": "0efe50ba-3b6a-11e9-9b4e-52543be04c81",
+      "name": "France Inter",
+      "country": "France",
+      "city": "",
+      "stream": "http://direct.franceinter.fr/live/franceinter-lofi.mp3",
+      "tags": [
+        "news talk"
+      ]
+    },
+    {
+      "id": "bf14c06f-c385-4858-b095-0115bd29419a",
+      "name": "france inter",
+      "country": "France",
+      "city": "",
+      "stream": "http://icecast.radiofrance.fr/franceinter-hifi.aac",
+      "tags": [
+        ""
+      ]
+    },
+    {
+      "id": "21c167ad-ef09-4753-bee7-20ecb5ba97ac",
+      "name": "France Inter",
+      "country": "France",
+      "city": "",
+      "stream": "https://stream.radiofrance.fr/franceinter/franceinter_hifi.m3u8",
+      "tags": [
+        ""
+      ]
+    },
+    {
+      "id": "406993bc-9974-4477-8066-830ccf51c117",
+      "name": "france inter",
+      "country": "France",
+      "city": "",
+      "stream": "http://icecast.radiofrance.fr/franceinter-midfi.mp3",
+      "tags": [
+        ""
+      ]
+    },
+    {
+      "id": "0b80555f-eb5c-4fce-94d2-109eec7bee6b",
+      "name": "France Inter",
+      "country": "France",
+      "city": "France",
+      "stream": "https://icecast.radiofrance.fr/franceinter-hifi.aac",
+      "tags": [
+        "aac",
+        "general",
+        "public radio",
+        "radio france"
+      ]
+    },
+    {
+      "id": "d9fc29b8-b152-11e8-afe1-52543be04c81",
+      "name": "France Inter",
+      "country": "France",
+      "city": "",
+      "stream": "http://direct.franceinter.fr/live/franceinter-midfi.mp3",
+      "tags": [
+        ""
+      ]
+    },
+    {
+      "id": "d267775c-c24e-4d63-a494-0dfd216e5f06",
+      "name": "France inter - La musique Inter",
+      "country": "France",
+      "city": "France",
+      "stream": "https://stream.radiofrance.fr/franceinterlamusiqueinter/franceinterlamusiqueinter_hifi.m3u8?id=radiofrance",
+      "tags": [
+        ""
+      ]
+    },
+    {
+      "id": "465ec3e6-53b6-4eac-bd97-4681d1c0bb28",
+      "name": "France inter icecast",
+      "country": "France",
+      "city": "",
+      "stream": "https://icecast.radiofrance.fr/franceinter-hifi.aac?id=radiofrance",
+      "tags": [
+        "generalist",
+        "information"
+      ]
+    },
+    {
+      "id": "e1478db1-42ee-4282-8817-451a73c3ee8f",
+      "name": "France Inter La musique d'Inter",
+      "country": "France",
+      "city": "",
+      "stream": "https://icecast.radiofrance.fr/franceinterlamusiqueinter-midfi.mp3",
+      "tags": [
+        "various"
+      ]
+    },
+    {
+      "id": "e830db90-b6ac-4eef-82a3-2c14ad41b055",
+      "name": "France Inter La musique d'Inter Hifi",
+      "country": "France",
+      "city": "",
+      "stream": "https://icecast.radiofrance.fr/franceinterlamusiqueinter-hifi.aac",
+      "tags": [
+        ""
+      ]
+    },
+    {
+      "id": "97ed8391-6abe-4b91-b59e-fd29c1866d36",
+      "name": "France Maghreb 2",
+      "country": "France",
+      "city": "",
+      "stream": "https://francemaghreb2.ice.infomaniak.ch/francemaghreb2-high.mp3",
+      "tags": [
+        "international"
+      ]
+    },
+    {
+      "id": "961469e2-0601-11e8-ae97-52543be04c81",
+      "name": "France Maghreb 2 Province",
+      "country": "France",
+      "city": "",
+      "stream": "http://francemaghreb2.ice.infomaniak.ch/francemaghreb2-high.mp3",
+      "tags": [
+        ""
+      ]
+    },
+    {
+      "id": "74c8ed83-0436-11e9-a1be-52543be04c81",
+      "name": "France Music Jazz",
+      "country": "France",
+      "city": "",
+      "stream": "http://direct.francemusique.fr/live/francemusiquelajazz-hifi.mp3?ID=f9fbk29m84",
+      "tags": [
+        ""
+      ]
+    },
+    {
+      "id": "f207564e-2011-4534-bc24-c2a677025f63",
+      "name": "France musique",
+      "country": "France",
+      "city": "",
+      "stream": "https://icecast.radiofrance.fr/francemusique-hifi.aac?id=radiofrance",
+      "tags": [
+        ""
+      ]
+    },
+    {
+      "id": "81440088-0a76-11e8-ae97-52543be04c81",
+      "name": "France Musique",
+      "country": "France",
+      "city": "",
+      "stream": "http://direct.francemusique.fr/live/francemusique-midfi.mp3",
+      "tags": [
+        "classical",
+        "jazz",
+        "music",
+        "public radio",
+        "radio france"
+      ]
+    },
+    {
+      "id": "53d9ba48-ff38-45f7-9cb8-4838c9de2fd4",
+      "name": "France Musique",
+      "country": "France",
+      "city": "",
+      "stream": "https://stream.radiofrance.fr/francemusique/francemusique.m3u8",
+      "tags": [
+        "classical music",
+        "hls",
+        "jazz",
+        "m3u8",
+        "public radio",
+        "radio france",
+        "talk"
+      ]
+    },
+    {
+      "id": "21b83eb8-370d-4076-a9bb-3d443fa5a449",
+      "name": "France Musique",
+      "country": "France",
+      "city": "",
+      "stream": "http://icecast.radiofrance.fr/francemusique-hifi.aac",
+      "tags": [
+        "classical"
+      ]
+    },
+    {
+      "id": "daf1ed55-62c7-11e9-a622-52543be04c81",
+      "name": "France Musique",
+      "country": "France",
+      "city": "",
+      "stream": "http://direct.francemusique.fr/live/francemusique-hifi.aac?ID=radiofrance",
+      "tags": [
+        "classical",
+        "jazz",
+        "music",
+        "public radio",
+        "radio france"
+      ]
+    },
+    {
+      "id": "62817d85-76d2-4b1e-8d99-4f70fb6a492e",
+      "name": "France Musique : La Baroque",
+      "country": "France",
+      "city": "",
+      "stream": "http://icecast.radiofrance.fr/francemusiquebaroque-hifi.aac",
+      "tags": [
+        "baroque",
+        "music"
+      ]
+    },
+    {
+      "id": "7fdf8122-e85d-4f4e-9f88-11e8664eee2b",
+      "name": "France Musique (no pub)",
+      "country": "France",
+      "city": "",
+      "stream": "https://stream.radiofrance.fr/francemusique/francemusique.m3u8?id=radiofrance",
+      "tags": [
+        "classical music",
+        "hls",
+        "public radio",
+        "radio france"
+      ]
+    },
+    {
+      "id": "96162e74-0601-11e8-ae97-52543be04c81",
+      "name": "France Musique | Classique Easy",
+      "country": "France",
+      "city": "",
+      "stream": "http://direct.francemusique.fr/live/francemusiqueeasyclassique-hifi.mp3",
+      "tags": [
+        "classic",
+        "classical"
+      ]
+    },
+    {
+      "id": "960a7d0c-0601-11e8-ae97-52543be04c81",
+      "name": "France Musique | Classique Plus",
+      "country": "France",
+      "city": "",
+      "stream": "http://direct.francemusique.fr/live/francemusiqueclassiqueplus-hifi.mp3",
+      "tags": [
+        "classic",
+        "classical"
+      ]
+    },
+    {
+      "id": "961c8b8a-0601-11e8-ae97-52543be04c81",
+      "name": "France Musique | Concerts Radio France",
+      "country": "France",
+      "city": "",
+      "stream": "http://direct.francemusique.fr/live/francemusiqueconcertsradiofrance-hifi.mp3",
+      "tags": [
+        "classic",
+        "classical"
+      ]
+    },
+    {
+      "id": "961f707c-0601-11e8-ae97-52543be04c81",
+      "name": "France Musique | La Contemporaine",
+      "country": "France",
+      "city": "",
+      "stream": "http://direct.francemusique.fr/live/francemusiquelacontemporaine-hifi.mp3",
+      "tags": [
+        "contemporary"
+      ]
+    },
+    {
+      "id": "9618a113-0601-11e8-ae97-52543be04c81",
+      "name": "France Musique | La Jazz",
+      "country": "France",
+      "city": "",
+      "stream": "http://direct.francemusique.fr/live/francemusiquelajazz-hifi.mp3",
+      "tags": [
+        "jazz"
+      ]
+    },
+    {
+      "id": "961e6742-0601-11e8-ae97-52543be04c81",
+      "name": "France Musique | Ocora - Musiques du monde",
+      "country": "France",
+      "city": "",
+      "stream": "http://direct.francemusique.fr/live/francemusiqueocoramonde-hifi.mp3",
+      "tags": [
+        "world music"
+      ]
+    },
+    {
+      "id": "d8b79519-eb94-11e9-a96c-52543be04c81",
+      "name": "France Musique Classique Easy",
+      "country": "France",
+      "city": "",
+      "stream": "http://icecast.radiofrance.fr/francemusiqueeasyclassique-hifi.aac",
+      "tags": [
+        "aac",
+        "classical",
+        "public radio",
+        "radio france"
+      ]
+    },
+    {
+      "id": "c60a480e-eb93-11e9-a96c-52543be04c81",
+      "name": "France Musique Classique Plus",
+      "country": "France",
+      "city": "",
+      "stream": "http://icecast.radiofrance.fr/francemusiqueclassiqueplus-hifi.aac",
+      "tags": [
+        "aac",
+        "long pieces of classical music",
+        "public radio",
+        "radio france"
+      ]
+    },
+    {
+      "id": "ac0bc282-eb90-11e9-a96c-52543be04c81",
+      "name": "France Musique Concerts Radio France",
+      "country": "France",
+      "city": "",
+      "stream": "http://icecast.radiofrance.fr/francemusiqueconcertsradiofrance-hifi.aac",
+      "tags": [
+        "aac",
+        "public radio",
+        "radio france",
+        "radio france concerts"
+      ]
+    },
+    {
+      "id": "dc194135-865e-4442-b4ae-fb11e1ebd01b",
+      "name": "France Musique Jazz",
+      "country": "France",
+      "city": "",
+      "stream": "https://icecast.radiofrance.fr/francemusiquelajazz-hifi.aac",
+      "tags": [
+        "classical"
+      ]
+    },
+    {
+      "id": "a3bd3630-5157-47a5-965d-d57374851482",
+      "name": "France Musique la B.O.",
+      "country": "France",
+      "city": "",
+      "stream": "https://icecast.radiofrance.fr/francemusiquelabo-hifi.aac",
+      "tags": [
+        "classical"
+      ]
+    },
+    {
+      "id": "379d25e3-eb8d-11e9-a96c-52543be04c81",
+      "name": "France Musique La B.O.",
+      "country": "France",
+      "city": "",
+      "stream": "http://icecast.radiofrance.fr/francemusiquelabo-hifi.aac",
+      "tags": [
+        "aac",
+        "movie soundtracks",
+        "public radio",
+        "radio france"
+      ]
+    },
+    {
+      "id": "32d0c777-eb8f-11e9-a96c-52543be04c81",
+      "name": "France Musique La Contemporaine",
+      "country": "France",
+      "city": "",
+      "stream": "http://icecast.radiofrance.fr/francemusiquelacontemporaine-hifi.aac",
+      "tags": [
+        "aac",
+        "contemporary music",
+        "public radio",
+        "radio france"
+      ]
+    },
+    {
+      "id": "616f1c1f-eb91-11e9-a96c-52543be04c81",
+      "name": "France Musique La Jazz",
+      "country": "France",
+      "city": "",
+      "stream": "http://icecast.radiofrance.fr/francemusiquelajazz-hifi.aac",
+      "tags": [
+        "aac",
+        "jazz",
+        "public radio",
+        "radio france"
+      ]
+    },
+    {
+      "id": "99fa7130-e705-11e9-a96c-52543be04c81",
+      "name": "France Musique OCORA",
+      "country": "France",
+      "city": "",
+      "stream": "http://icecast.radiofrance.fr/francemusiqueocoramonde-hifi.aac",
+      "tags": [
+        "aac",
+        "public radio",
+        "radio france",
+        "webradio",
+        "world music"
+      ]
+    },
+    {
+      "id": "18c9ab24-a043-4a9a-9db6-7bb8dcb4e55a",
+      "name": "France Musique Ocora",
+      "country": "France",
+      "city": "Paris",
+      "stream": "https://icecast.radiofrance.fr/francemusiqueocoramonde-midfi.mp3",
+      "tags": [
+        ""
+      ]
+    },
+    {
+      "id": "4ad5c3ec-c81b-4f5a-9084-e643fab117af",
+      "name": "France Musique Opera",
+      "country": "France",
+      "city": "",
+      "stream": "https://icecast.radiofrance.fr/francemusiqueopera-hifi.aac",
+      "tags": [
+        "opera",
+        "public radio"
+      ]
+    },
+    {
+      "id": "a93bec5c-39b3-463a-ad2b-0f2d81ea55d3",
+      "name": "France Musique Piano Zen",
+      "country": "France",
+      "city": "",
+      "stream": "http://icecast.radiofrance.fr/francemusiquepianozen-hifi.aac",
+      "tags": [
+        "piano"
+      ]
+    },
+    {
+      "id": "7b765c30-9c69-4412-9059-d94608944819",
+      "name": "France24 arabic",
+      "country": "France",
+      "city": "",
+      "stream": "http://static.france24.com/live/F24_AR_LO_HLS/live_web.m3u8",
+      "tags": [
+        "news"
+      ]
+    },
+    {
+      "id": "1f5d741f-985e-41ec-b735-d084b2a36ff2",
+      "name": "France24 Español",
+      "country": "France",
+      "city": "",
+      "stream": "http://static.france24.com/live/F24_ES_LO_HLS/live_audio.m3u8",
+      "tags": [
+        "noticias"
+      ]
+    },
+    {
+      "id": "99092504-86c7-484a-9e3c-deaed2be630b",
+      "name": "France24 Français",
+      "country": "France",
+      "city": "",
+      "stream": "http://static.france24.com/live/F24_FR_LO_HLS/live_audio.m3u8",
+      "tags": [
+        "information"
+      ]
+    },
+    {
+      "id": "91547e4b-7946-4e47-9a2e-597a2f99de1b",
+      "name": "FranceClassique Easy",
+      "country": "France",
+      "city": "",
+      "stream": "http://direct.francemusique.fr/live/francemusiqueeasyclassique-hifi.mp3?ID=76zqey582k",
+      "tags": [
+        ""
+      ]
+    },
+    {
+      "id": "58eb6299-de74-4eb3-a292-c09e6d81a5e7",
+      "name": "franceinfo aac lofi",
+      "country": "France",
+      "city": "",
+      "stream": "https://icecast.radiofrance.fr/franceinfo-lofi.aac",
+      "tags": [
+        "news"
+      ]
+    },
+    {
+      "id": "6b285ff1-f972-4396-9b95-580eb8f1fd5b",
+      "name": "franceinfo aac lofi http",
+      "country": "France",
+      "city": "",
+      "stream": "http://icecast.radiofrance.fr/franceinfo-lofi.aac",
+      "tags": [
+        "news"
+      ]
+    },
+    {
+      "id": "567ab2a7-ed58-478f-b7eb-facbc82ac2f5",
+      "name": "Franco Califano",
+      "country": "France",
+      "city": "",
+      "stream": "https://stream-39.zeno.fm/tcfbbvcdvp8uv?zs=k4Ch0DfKQh2hoqKasxb-3g",
+      "tags": [
+        ""
+      ]
+    },
+    {
+      "id": "1b45b300-82ca-46fa-a9a7-0d1cca55df40",
+      "name": "Francophonie Express",
+      "country": "France",
+      "city": "",
+      "stream": "https://www.radioking.com/play/francophonie-express/63439",
+      "tags": [
+        ""
+      ]
+    },
+    {
+      "id": "53d8362f-1f65-4c58-97a5-b45031b10578",
+      "name": "Frank und Sallys Radio",
+      "country": "France",
+      "city": "Nrw",
+      "stream": "http://apollo.rserve.de:9986/",
+      "tags": [
+        ""
+      ]
+    },
+    {
+      "id": "9f46eda7-5d67-4658-83a1-d64f7f347448",
+      "name": "Fraoulitsa",
+      "country": "France",
+      "city": "",
+      "stream": "https://webinternetradio.eu:59402/",
+      "tags": [
+        "greek folk"
+      ]
+    },
+    {
+      "id": "302b3aec-492d-4db2-9c98-ce3bbeb9a421",
+      "name": "Fraser Coast FM - Hervey Bay - 107.5 FM (AAC+)",
+      "country": "France",
+      "city": "Queensland",
+      "stream": "http://playerservices.streamtheworld.com/api/livestream-redirect/4FCRAAC.aac",
+      "tags": [
+        "community radio",
+        "easy listening",
+        "local"
+      ]
+    },
+    {
+      "id": "e5d74f33-0bb5-4f2c-9064-f933c3444875",
+      "name": "Fraser Coast FM - Hervey Bay - 107.5 FM (MP3)",
+      "country": "France",
+      "city": "Queensland",
+      "stream": "http://playerservices.streamtheworld.com/api/livestream-redirect/4FCR.mp3",
+      "tags": [
+        "community radio",
+        "easy listening",
+        "local"
+      ]
+    },
+    {
+      "id": "a0275a47-78f2-4e2a-91a3-c6d890ff8358",
+      "name": "Fraser Coast FM 107.5 Hervey Bay",
+      "country": "France",
+      "city": "",
+      "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/4FCRAAC.aac",
+      "tags": [
+        "community"
+      ]
+    },
+    {
+      "id": "a2dc0185-0570-4cf4-8c9e-2bf5f64c42a8",
+      "name": "Frăsinești Radio",
+      "country": "France",
+      "city": "",
+      "stream": "https://stream.zeno.fm/mpmilx1n4yuuv",
+      "tags": [
+        "manele",
+        "manele noi",
+        "manele vechi"
+      ]
+    },
+    {
+      "id": "df76db90-23b1-4cdb-8d4c-6d0ec785be09",
+      "name": "freak radio",
+      "country": "France",
+      "city": "Dallas TX",
+      "stream": "https://stream.revma.ihrhls.com/zc2241/hls.m3u8",
+      "tags": [
+        ""
+      ]
+    },
+    {
+      "id": "c3f047d7-0554-4cc5-9916-5a8a1d172bc3",
+      "name": "Freak Radio NL",
+      "country": "France",
+      "city": "",
+      "stream": "http://streaming.shoutcast.com/freakradio",
+      "tags": [
+        ""
+      ]
+    },
+    {
+      "id": "eac7805e-e9e5-11e8-a471-52543be04c81",
+      "name": "Freak31",
+      "country": "France",
+      "city": "Amsterdam",
+      "stream": "http://stream.freak31.com:8322/",
+      "tags": [
+        "house",
+        "soulful house"
+      ]
+    },
+    {
+      "id": "cd5e1b38-a1ba-4d39-946f-a63ed07bb5da",
+      "name": "Freakout",
+      "country": "France",
+      "city": "",
+      "stream": "http://192.99.14.191:8004/;stream&nocache=1",
+      "tags": [
+        "pop",
+        "rock"
+      ]
+    },
+    {
+      "id": "cb9ce7f2-81e5-11e8-aa66-52543be04c81",
+      "name": "FREAKQUENCY",
+      "country": "France",
+      "city": "",
+      "stream": "http://stream.laut.fm/freakquency",
+      "tags": [
+        ""
+      ]
+    },
+    {
+      "id": "74aaa2d3-3c0a-472e-8651-7909240e72f4",
+      "name": "Frecuencia 100 101.9",
+      "country": "France",
+      "city": "",
+      "stream": "https://sp.oyotunstream.com/7066/;",
+      "tags": [
+        "cumbia peruana",
+        "latin pop"
+      ]
+    },
+    {
+      "id": "9ac69266-f86e-4e11-b105-f5fe6b5d895f",
+      "name": "FRECUENCIA 1330 AM  (parque azangaro miraflores) LUIS ANGEL ANCON PATIÑO",
+      "country": "France",
+      "city": "arequipa",
+      "stream": "https://maximacenterdata.com/8124/stream",
+      "tags": [
+        "informativa",
+        "infotainment",
+        "música y noticias",
+        "pop rock"
+      ]
+    },
+    {
+      "id": "05134a10-f6f9-4277-b7a5-20b6337f70ce",
+      "name": "Frecuencia Arena",
+      "country": "France",
+      "city": "",
+      "stream": "http://88.198.9.174:8854/stream?icy=https",
+      "tags": [
+        "cumbia",
+        "latin salsa",
+        "musica latina",
+        "reggaetón"
+      ]
+    },
+    {
+      "id": "7a732ce1-be36-4527-888b-a281fecd2f32",
+      "name": "Frecuencia Arena 98.3",
+      "country": "France",
+      "city": "Santa Teresita, Pcia. de Buenos Aires",
+      "stream": "https://stream.serviciowebdigital.com/8854/stream",
+      "tags": [
+        "music",
+        "news",
+        "talk"
+      ]
+    },
+    {
+      "id": "3bbee59f-66f3-4edc-8afc-bb84586937a6",
+      "name": "Frecuencia Bolivariana 1160 AM",
+      "country": "France",
+      "city": "",
+      "stream": "https://radiolatina.info/9326/stream",
+      "tags": [
+        "education",
+        "information",
+        "música variada",
+        "university radio",
+        "variety"
+      ]
+    },
+    {
+      "id": "b6e8a12c-f9d9-4635-8b70-308cc41c64e2",
+      "name": "Frecuencia Digital 99.1 FM",
+      "country": "France",
+      "city": "",
+      "stream": "https://radios.streamingdha.com.ar/8022/;",
+      "tags": [
+        "entretenimiento",
+        "hits",
+        "latino",
+        "music",
+        "música en español e inglés",
+        "pop",
+        "reggaeton"
+      ]
+    },
+    {
+      "id": "1f3e2906-f57c-4dd9-89a0-f6edce6fe719",
+      "name": "Frecuencia Patagonia FM 99.3",
+      "country": "France",
+      "city": "Santa Cruz",
+      "stream": "http://server.laradio.online:9188/live",
+      "tags": [
+        ""
+      ]
+    },
+    {
+      "id": "568b4bac-ab1f-4620-8143-679aa6336f03",
+      "name": "Frecuencia Rock 95.3",
+      "country": "France",
+      "city": "",
+      "stream": "http://audio.streaminghd.cl:9206/stream",
+      "tags": [
+        "rock"
+      ]
+    },
+    {
+      "id": "869af515-1603-4951-bd45-e05571ca1b19",
+      "name": "Frecuencia U 940 AM",
+      "country": "France",
+      "city": "Medellin",
+      "stream": "https://radiolatina.info/9988/stream",
+      "tags": [
+        "cultural",
+        "culture",
+        "education",
+        "educational",
+        "educativa",
+        "entretenimiento",
+        "information",
+        "música variada",
+        "radio hablada",
+        "radio universitaria",
+        "university radio",
+        "various"
+      ]
+    },
+    {
+      "id": "4b8ac0ba-50c8-41da-b45c-9d25be42d857",
+      "name": "Fred Film Radio",
+      "country": "France",
+      "city": "",
+      "stream": "https://s10.webradio-hosting.com/proxy/fredradioen/stream",
+      "tags": [
+        "culture",
+        "film",
+        "movie"
+      ]
+    },
+    {
+      "id": "88508e6b-657c-41e6-8407-b73969a1c7b7",
+      "name": "Fred Film Radio - 普通话",
+      "country": "France",
+      "city": "",
+      "stream": "https://s10.webradio-hosting.com/proxy/fredradiocn/stream/;",
+      "tags": [
+        "电影"
+      ]
+    },
+    {
+      "id": "7c87afe9-384b-44ee-9b9e-af972fc507ab",
+      "name": "Fred Film Radio Entertainment",
+      "country": "France",
+      "city": "",
+      "stream": "https://s10.webradio-hosting.com/proxy/fredenter/stream",
+      "tags": [
+        "culture",
+        "film",
+        "movie"
+      ]
+    },
+    {
+      "id": "71e40131-5d2f-44d0-ae14-40e22582c777",
+      "name": "Fred Film Radio Extra",
+      "country": "France",
+      "city": "",
+      "stream": "https://s10.webradio-hosting.com/proxy/fredradioec/stream",
+      "tags": [
+        "culture",
+        "film",
+        "movie"
+      ]
+    },
+    {
+      "id": "ac0d34c3-748d-4d2f-aa42-7cfb07145ef8",
+      "name": "FRED FILM RADIO Mandarin",
+      "country": "France",
+      "city": "",
+      "stream": "https://s10.webradio-hosting.com/proxy/fredradiocn/stream/1/",
+      "tags": [
+        ""
+      ]
+    },
+    {
+      "id": "b4d3e648-6c5e-4d08-8b6b-0b55a87a085f",
+      "name": "Fred Film Radio-24 lietuvių kalba",
+      "country": "France",
+      "city": "",
+      "stream": "https://s10.webradio-hosting.com/proxy/fredradiolt/stream",
+      "tags": [
+        "film"
+      ]
+    },
+    {
+      "id": "b476dd00-2453-42d2-89bb-ccfb61f28b67",
+      "name": "Fred Film Radio-25 Slovenčina",
+      "country": "France",
+      "city": "",
+      "stream": "https://s10.webradio-hosting.com/proxy/fredradiosk/stream",
+      "tags": [
+        "film"
+      ]
+    },
+    {
+      "id": "fc157689-436b-4da8-a3d5-18d72bbda568",
+      "name": "Fred Film Radio-26 Íslenska",
+      "country": "France",
+      "city": "",
+      "stream": "https://s10.webradio-hosting.com/proxy/fredradiois/stream",
+      "tags": [
+        "film"
+      ]
+    },
+    {
+      "id": "addba89c-d7f5-4467-889e-97e5675cce8c",
+      "name": "Fred Film Radio-27 INDUSTRY",
+      "country": "France",
+      "city": "London",
+      "stream": "https://s10.webradio-hosting.com/proxy/fredradioind/stream",
+      "tags": [
+        "film"
+      ]
+    },
+    {
+      "id": "a9872d56-95ab-49d0-87a6-b740c0589c31",
+      "name": "Fred Film Radio-28 Education",
+      "country": "France",
+      "city": "London",
+      "stream": "https://s10.webradio-hosting.com/proxy/fredradioedu/stream",
+      "tags": [
+        "culture",
+        "film"
+      ]
+    },
+    {
+      "id": "e89ffa83-732e-441e-8caf-b697c88745a8",
+      "name": "Fred Film Radio-29 Sardu",
+      "country": "France",
+      "city": "",
+      "stream": "https://s10.webradio-hosting.com/proxy/fredradiosar/stream",
+      "tags": [
+        "film"
+      ]
+    },
+    {
+      "id": "2114450d-e723-437d-b18b-52cb9312b362",
+      "name": "Fred Film Radio(Deutsch)",
+      "country": "France",
+      "city": "",
+      "stream": "https://s10.webradio-hosting.com/proxy/fredradioge/stream",
+      "tags": [
+        "culture",
+        "film",
+        "movie"
+      ]
+    },
+    {
+      "id": "740d2a3c-8f44-40a4-821d-932bcb61e31b",
+      "name": "Fred Film Radio(Español)",
+      "country": "France",
+      "city": "Madrid",
+      "stream": "https://s10.webradio-hosting.com/proxy/fredradiosp/stream",
+      "tags": [
+        "culture",
+        "film",
+        "movie"
+      ]
+    },
+    {
+      "id": "ff97ca68-d11f-4c3d-ad11-1a770abd1772",
+      "name": "Fred Film Radio(italiano)",
+      "country": "France",
+      "city": "Roma",
+      "stream": "https://s10.webradio-hosting.com/proxy/fredradioit/stream",
+      "tags": [
+        "culture",
+        "film",
+        "movie"
+      ]
+    },
+    {
+      "id": "f1542263-5db9-4f88-86fb-43c7b2611cad",
+      "name": "Fred Film Radio(Български език)",
+      "country": "France",
+      "city": "",
+      "stream": "https://s10.webradio-hosting.com/proxy/fredradiobg/stream",
+      "tags": [
+        "culture",
+        "film",
+        "movie"
+      ]
+    },
+    {
+      "id": "e2d75665-c4a9-4433-b953-3a5346ae5fb6",
+      "name": "Fred Film Radio(لغة عربية)",
+      "country": "France",
+      "city": "",
+      "stream": "https://s10.webradio-hosting.com/proxy/fredradioar/stream",
+      "tags": [
+        "culture",
+        "film",
+        "movie"
+      ]
+    },
+    {
+      "id": "46c79dfa-1a99-4139-a052-81c434f259dd",
+      "name": "Fred Film Radio(中文)",
+      "country": "France",
+      "city": "Jilin",
+      "stream": "https://s10.webradio-hosting.com/proxy/fredradiocn/stream",
+      "tags": [
+        "culture",
+        "film",
+        "movie"
+      ]
+    },
+    {
+      "id": "5a2cbfe7-0518-44e9-aca6-0fd41e466ff0",
+      "name": "Fred Film Radio(日本語)",
+      "country": "France",
+      "city": "Tokyo",
+      "stream": "https://s10.webradio-hosting.com/proxy/fredradiojp/stream",
+      "tags": [
+        "culture",
+        "film",
+        "movie"
+      ]
+    },
+    {
+      "id": "2b1b77a5-16d9-49eb-9359-38341f5674e4",
+      "name": "Fred Film Radio(한국어)",
+      "country": "France",
+      "city": "Seoul",
+      "stream": "https://s10.webradio-hosting.com/proxy/fredradiokr/stream",
+      "tags": [
+        "culture",
+        "film",
+        "movie"
+      ]
+    },
+    {
+      "id": "8f0bc91d-ad91-4021-a2df-84f2644f9b9d",
+      "name": "Fun Radio France",
+      "country": "France",
+      "city": "",
+      "stream": "http://icecast.funradio.fr/fun-1-44-128?listen=webCwsBCggNCQgLDQUGBAcGBg",
+      "tags": [
+        "pop"
+      ]
+    },
+    {
+      "id": "e38d98a6-9172-4b4e-805c-56444cb92ca1",
+      "name": "GENERATIONS France",
+      "country": "France",
+      "city": "",
+      "stream": "https://generationfm.ice.infomaniak.ch/generationfm-high.aac?i=70138",
+      "tags": [
+        ""
+      ]
+    },
+    {
+      "id": "3a140fb2-9e3e-4e21-9609-1170bb2e255b",
+      "name": "Guadeloupe France Télévision",
+      "country": "France",
+      "city": "Guadeloupe",
+      "stream": "https://guadeloupe.ice.infomaniak.ch/guadeloupe-128.mp3",
+      "tags": [
+        "info",
+        "kompa",
+        "tradition",
+        "zouk"
+      ]
+    },
+    {
+      "id": "9c88a5f9-9cb7-431d-9edf-c8d04a7c3ba8",
+      "name": "Happy Radio France",
+      "country": "France",
+      "city": "",
+      "stream": "http://37.187.77.45:9179/stream",
+      "tags": [
+        ""
+      ]
+    },
+    {
+      "id": "0ca8207b-6f43-11e9-af37-52543be04c81",
+      "name": "Hi On Line Radio - France",
+      "country": "France",
+      "city": "",
+      "stream": "http://mediaserv21.live-streams.nl:8000/live",
+      "tags": [
+        "france"
+      ]
+    },
+    {
+      "id": "f44ab5b4-cca1-48e5-a757-fef7b3580ed0",
+      "name": "Maxi France",
+      "country": "France",
+      "city": "",
+      "stream": "http://stream.maxifrance.fr:8358/stream",
+      "tags": [
+        "chansons françaises",
+        "france"
+      ]
+    },
+    {
+      "id": "d340d13d-19c7-44e2-9a59-7c494672b8c5",
+      "name": "MAXI FRANCE",
+      "country": "France",
+      "city": "",
+      "stream": "https://stream.maxifrance.radio/stream?nocache=52665#",
+      "tags": [
+        ""
+      ]
+    },
+    {
+      "id": "bbee27e9-d2e6-4d57-8f9c-ed10ca80ea34",
+      "name": "Maxi France",
+      "country": "France",
+      "city": "",
+      "stream": "https://sr3.publicssl.net/srv/8358/stream",
+      "tags": [
+        "free radio",
+        "french music",
+        "maxi france"
+      ]
+    },
+    {
+      "id": "3ec22e33-580a-4ffc-8174-8c3fbba3eefc",
+      "name": "MAXI FRANCE",
+      "country": "France",
+      "city": "",
+      "stream": "https://stream.maxifrance.radio/stream2",
+      "tags": [
+        ""
+      ]
+    },
+    {
+      "id": "7c2bdd5a-81e4-49ec-9128-dd7d3a6e2db2",
+      "name": "Maxi France radio",
+      "country": "France",
+      "city": "",
+      "stream": "https://stream.maxifrance.radio/stream",
+      "tags": [
+        "chansons françaises",
+        "pop",
+        "rock",
+        "variety hits"
+      ]
+    },
+    {
+      "id": "43e7a507-2745-46cb-b08b-88e0bc0f0368",
+      "name": "MRADIO FRANCE",
+      "country": "France",
+      "city": "lyon, paris",
+      "stream": "http://mfm.ice.infomaniak.ch/mfm-64.aac",
+      "tags": [
+        ""
+      ]
+    },
+    {
+      "id": "4bfc1043-fc16-4cbd-a3c5-5d5783d9a5fb",
+      "name": "Party Dance Francehttps://www.vip-radios.fm/station/party-dance-radio/",
+      "country": "France",
+      "city": "",
+      "stream": "https://radio4.vip-radios.fm:18042/stream-128kmp3-PartyDance",
+      "tags": [
+        ""
+      ]
+    },
+    {
+      "id": "a5f8cc5b-f99c-4828-869b-bc3d84f1a80f",
+      "name": "PHARE FM FRANCE",
+      "country": "France",
+      "city": "",
+      "stream": "https://str0.creacast.com/pharefm",
+      "tags": [
+        ""
+      ]
+    },
+    {
+      "id": "a685d799-8ee0-4f8b-b6e0-77345b34863d",
+      "name": "Radio Libertaire (France)",
+      "country": "France",
+      "city": "",
+      "stream": "http://media.radio-libertaire.org:8080/radiolib.mp3",
+      "tags": [
+        "music",
+        "talk"
+      ]
+    },
+    {
+      "id": "0ad35804-770d-11e9-8b97-52543be04c81",
+      "name": "RADIO MARIA FRANCE",
+      "country": "France",
+      "city": "",
+      "stream": "http://dreamsiteradiocp2.com:8110/stream",
+      "tags": [
+        "catholic",
+        "christian"
+      ]
+    },
+    {
+      "id": "964c2e18-0601-11e8-ae97-52543be04c81",
+      "name": "Radio Maria France",
+      "country": "France",
+      "city": "",
+      "stream": "http://dreamsiteradiocp4.com:8056/",
+      "tags": [
+        "catholic",
+        "christian"
+      ]
+    },
+    {
+      "id": "88496158-90c1-411f-9a3b-719397a8dcca",
+      "name": "Radio Nostalgie France",
+      "country": "France",
+      "city": "",
+      "stream": "https://streaming.nrjaudio.fm/oug7girb92oc?origine=tingfm",
+      "tags": [
+        ""
+      ]
+    },
+    {
+      "id": "9613a1be-0601-11e8-ae97-52543be04c81",
+      "name": "RCF Nord de France",
+      "country": "France",
+      "city": "Hauts-de-France",
+      "stream": "http://rcf.streamakaci.com/rcf59.mp3",
+      "tags": [
+        "christian"
+      ]
+    },
+    {
+      "id": "6b5b7e02-c21a-4fdc-ab01-53d775502f6d",
+      "name": "Rinse France",
+      "country": "France",
+      "city": "",
+      "stream": "https://radio10.pro-fhi.net/radio/9041/stream",
+      "tags": [
+        ""
+      ]
+    },
+    {
+      "id": "a69f62bf-2d0d-4d75-8d9a-a7d4e97c72e1",
+      "name": "RTL 100% FRANCE",
+      "country": "France",
+      "city": "",
+      "stream": "https://live.m6radio.quortex.io/webpHJPXnXrN7B6J7Q8mcqmxP/webradio/rtl100pc80/130/audio-64000/index.m3u8",
+      "tags": [
+        "chansons françaises",
+        "music"
+      ]
+    },
+    {
+      "id": "c257d985-4a5a-4f5d-b861-6a1397d8a9c1",
+      "name": "RTL France",
+      "country": "France",
+      "city": "",
+      "stream": "https://icecast.rtl.fr/rtl-1-44-128",
+      "tags": [
+        ""
+      ]
+    },
+    {
+      "id": "fb398bd6-9873-4c06-b6d3-e2e3ca6d5c3c",
+      "name": "RTL France",
+      "country": "France",
+      "city": "",
+      "stream": "https://live.m6radio.quortex.io/webpHJPXnXrN7B6J7Q8mcqmxP/grouprtl/national/long/audio-64000/index.m3u8",
+      "tags": [
+        "news",
+        "pop"
+      ]
+    },
+    {
+      "id": "b78399af-f6b5-462c-9fae-5742062904bb",
+      "name": "Sanef 107.7 - Île-de-France\r",
+      "country": "France",
+      "city": "",
+      "stream": "http://sanef.ice.infomaniak.ch/sanef1077-idf.mp3",
+      "tags": [
+        "talk & speech"
+      ]
+    },
+    {
+      "id": "ab5e2a44-efcb-4583-b19f-dc0599304a75",
+      "name": "Surf FM 102.3 Hossegor FRANCE",
+      "country": "France",
+      "city": "",
+      "stream": "http://69.30.214.54:12340/;",
+      "tags": [
+        ""
+      ]
+    },
+    {
+      "id": "5bf17f1e-2aab-4f1b-bc85-2d9a01795f96",
+      "name": "Traxx FM - France",
+      "country": "France",
+      "city": "Geneva",
+      "stream": "http://traxx025.ice.infomaniak.ch/traxx025-1.mp3",
+      "tags": [
+        "french"
+      ]
+    },
+    {
+      "id": "cbffd331-19fb-47f4-a104-fb553c9982cf",
+      "name": "VIRGIN FRANCE ",
+      "country": "France",
+      "city": "",
+      "stream": "http://virginradio.ice.infomaniak.ch/virgin-radio.mp3",
+      "tags": [
+        ""
+      ]
+    },
+    {
+      "id": "9256eeb2-f7ef-487d-bfe8-91f61b4dea2a",
+      "name": "VIRGIN FRANCE ",
+      "country": "France",
+      "city": "",
+      "stream": "http://virage-radio-metal.ice.infomaniak.ch/virage-radio-metal.mp3",
+      "tags": [
+        ""
+      ]
+    },
+    {
+      "id": "ba1f8ea6-171a-4a00-85b6-2548285256d3",
+      "name": "VIRGIN FRANCE  ROCK FR",
+      "country": "France",
+      "city": "",
+      "stream": "http://vir-wr02.ice.infomaniak.ch/vir-wr02.mp3",
+      "tags": [
+        ""
+      ]
+    },
+    {
+      "id": "1a76cf38-27e3-4247-8f3a-5ab202ef5023",
+      "name": "VIRGIN FRANCE 80",
+      "country": "France",
+      "city": "",
+      "stream": "http://virage-rock-80.ice.infomaniak.ch/virage-rock-80.mp3",
+      "tags": [
+        ""
+      ]
+    },
+    {
+      "id": "2471adee-22c7-4d26-b618-0ecf636fec8c",
+      "name": "VIRGIN FRANCE ROCK 90",
+      "country": "France",
+      "city": "",
+      "stream": "http://vir-wr01.ice.infomaniak.ch/vir-wr01.mp3",
+      "tags": [
+        ""
+      ]
+    },
+    {
+      "id": "ba9b776d-73ac-417c-8541-eb319001f730",
+      "name": "VIRGIN RADIO FRANCE La Rock Station",
+      "country": "France",
+      "city": "",
+      "stream": "http://virageradio.ice.infomaniak.ch/virageradio-natio.mp3",
+      "tags": [
+        ""
+      ]
+    },
+    {
+      "id": "7a5e3bac-74cb-11e8-83fa-52543be04c81",
+      "name": "WRCF Radio France",
+      "country": "France",
+      "city": "Montpellier",
+      "stream": "http://91.121.59.45:8361/stream",
+      "tags": [
+        ""
+      ]
+    }
+  ]
+}

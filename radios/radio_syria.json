@@ -1,0 +1,219 @@
+{
+  "schemaVersion": 1,
+  "updatedAt": "2026-02-14T13:19:13Z",
+  "count": 1152,
+  "stations": [
+    {
+      "id": "radio-18",
+      "name": "مختصر التفسير",
+      "country": "SYRIA",
+      "city": "",
+      "description": "MP3 · 128kbps",
+      "stream": "https://qurango.net/radio/mukhtasartafsir",
+      "tags": [
+        "classical"
+      ]
+    },
+    {
+      "id": "alasemeh-radio",
+      "name": "AlAsemeh Radio",
+      "country": "SYRIA",
+      "city": "",
+      "description": "MP3 · 128kbps",
+      "stream": "https://asima.out.airtime.pro/asima_a",
+      "tags": []
+    },
+    {
+      "id": "althania-tv",
+      "name": "Althania TV",
+      "country": "SYRIA",
+      "city": "",
+      "description": "AAC · 194kbps",
+      "stream": "https://live.kwikmotion.com/syriatvlive/syriatv_audio/playlist.m3u8",
+      "tags": []
+    },
+    {
+      "id": "arta-fm",
+      "name": "Arta FM",
+      "country": "SYRIA",
+      "city": "",
+      "description": "MP3",
+      "stream": "https://edge.mixlr.com/channel/qtgru",
+      "tags": []
+    },
+    {
+      "id": "arta-radio",
+      "name": "Arta Radio",
+      "country": "SYRIA",
+      "city": "Damascus",
+      "description": "MP3",
+      "stream": "https://edge.mixlr.com/channel/qtgru",
+      "tags": []
+    },
+    {
+      "id": "asima-online-radio",
+      "name": "Asima Online Radio",
+      "country": "SYRIA",
+      "city": "",
+      "description": "MP3 · 128kbps",
+      "stream": "https://asima.out.airtime.pro:8000/asima_a",
+      "tags": []
+    },
+    {
+      "id": "asima-online-radio-2",
+      "name": "Asima Online Radio",
+      "country": "SYRIA",
+      "city": "",
+      "description": "MP3 · 128kbps",
+      "stream": "https://asima.out.airtime.pro/asima_a",
+      "tags": []
+    },
+    {
+      "id": "denge-cudi",
+      "name": "denge cudi",
+      "country": "SYRIA",
+      "city": "",
+      "description": "MP3 · 128kbps",
+      "stream": "https://denge-cudi.stream.laut.fm/denge-cudi?pl=m3u",
+      "tags": []
+    },
+    {
+      "id": "denge-qamishlo",
+      "name": "Denge Qamishlo",
+      "country": "SYRIA",
+      "city": "",
+      "description": "MP3 · 128kbps",
+      "stream": "https://dengeqamishlo.stream.laut.fm/dengeqamishlo",
+      "tags": [
+        "folk music",
+        "kurdish folk music",
+        "kurdish songs"
+      ]
+    },
+    {
+      "id": "emaar-fm-radio",
+      "name": "Emaar FM Radio",
+      "country": "SYRIA",
+      "city": "",
+      "description": "MP3",
+      "stream": "https://stream-149.zeno.fm/4luag56o066uv",
+      "tags": []
+    },
+    {
+      "id": "emaar-fm-radio-2",
+      "name": "Emaar FM Radio",
+      "country": "SYRIA",
+      "city": "",
+      "description": "MP3",
+      "stream": "https://stream-156.zeno.fm/4luag56o066uv",
+      "tags": [
+        "music"
+      ]
+    },
+    {
+      "id": "exclusively-meat-loaf",
+      "name": "Exclusively Meat Loaf",
+      "country": "SYRIA",
+      "city": "",
+      "description": "MP3",
+      "stream": "https://nl4.mystreaming.net/er/meatloaf/icecast.audio",
+      "tags": [
+        "pop"
+      ]
+    },
+    {
+      "id": "farah-fm",
+      "name": "Farah FM",
+      "country": "SYRIA",
+      "city": "",
+      "description": "MP3 · 64kbps",
+      "stream": "https://radio.farah.fm/",
+      "tags": []
+    },
+    {
+      "id": "nasaem-syria-radio-breezes-syria",
+      "name": "Nasaem Syria Radio | Breezes Syria",
+      "country": "SYRIA",
+      "city": "",
+      "description": "MP3",
+      "stream": "https://stream-69.zeno.fm/u1wbm3k7gxquv",
+      "tags": []
+    },
+    {
+      "id": "rayan-fm",
+      "name": "Rayan FM",
+      "country": "SYRIA",
+      "city": "",
+      "description": "MP3 · 96kbps",
+      "stream": "https://broadcast.shoutstream.co.uk:8078/stream",
+      "tags": []
+    },
+    {
+      "id": "sham-fm",
+      "name": "Sham FM",
+      "country": "SYRIA",
+      "city": "",
+      "description": "MP3 · 320kbps",
+      "stream": "https://radioshamfm.grtvstream.com:8400/;",
+      "tags": []
+    },
+    {
+      "id": "sham-fm-2",
+      "name": "sham fm",
+      "country": "SYRIA",
+      "city": "",
+      "description": "MP3 · 320kbps",
+      "stream": "https://66.248.205.220:8400/stream",
+      "tags": []
+    },
+    {
+      "id": "syria-tv",
+      "name": "Syria TV",
+      "country": "SYRIA",
+      "city": "",
+      "description": "AAC · 194kbps",
+      "stream": "https://live.kwikmotion.com/syriatvlive/syriatv_audio/playlist.m3u8",
+      "tags": []
+    },
+    {
+      "id": "syria-tv-2",
+      "name": "Syria TV - راديو تلفزيون سوريا",
+      "country": "SYRIA",
+      "city": "",
+      "description": "AAC+ · 56kbps",
+      "stream": "https://stream2.syria.fm/syriatv1live/syriatv_audio/icecast.audio",
+      "tags": []
+    },
+    {
+      "id": "version-fm",
+      "name": "Version FM",
+      "country": "SYRIA",
+      "city": "Damascus",
+      "description": "MP3 · 24kbps",
+      "stream": "https://versionfm.com:8100/stream",
+      "tags": []
+    },
+    {
+      "id": "fm",
+      "name": "قديم FM",
+      "country": "SYRIA",
+      "city": "",
+      "description": "MP3 · 96kbps",
+      "stream": "https://usa6.fastcast4u.com:5109/live",
+      "tags": [
+        "classical"
+      ]
+    },
+    {
+      "id": "radio-19",
+      "name": "لا القارئ محمد أيوب",
+      "country": "SYRIA",
+      "city": "",
+      "description": "MP3 · 128kbps",
+      "stream": "https://qurango.net/radio/mohammed_ayyub",
+      "tags": [
+        "classical"
+      ]
+    }
+  ]
+}

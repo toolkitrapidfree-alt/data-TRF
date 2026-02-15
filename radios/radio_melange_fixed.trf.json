@@ -1,1 +1,880 @@
-[]
+{
+  "schemaVersion": 1,
+  "updatedAt": "2026-02-14T13:19:13Z",
+  "count": 1152,
+  "stations": [
+    {
+      "id": "bbcws",
+      "name": "BBC World Service",
+      "country": "UK",
+      "city": "London",
+      "description": "International news & talk in English.",
+      "stream": "https://stream.live.vc.bbcmedia.co.uk/bbc_world_service",
+      "tags": [
+        "uk",
+        "usa",
+        "news",
+        "talk"
+      ]
+    },
+    {
+      "id": "bbc-r6",
+      "name": "BBC Radio 6 Music",
+      "country": "UK",
+      "city": "London",
+      "description": "Alternative, indie and classics.",
+      "stream": "https://as-hls-ww-live.akamaized.net/pool_81827798/live/ww/bbc_6music/bbc_6music.isml/bbc_6music-audio%3d96000.norewind.m3u8",
+      "tags": [
+        "music",
+        "uk"
+      ]
+    },
+    {
+      "id": "fr-inter",
+      "name": "France Inter",
+      "country": "FRANCE",
+      "city": "Paris",
+      "description": "General news, magazines, culture.",
+      "stream": "https://icecast.radiofrance.fr/franceinter-midfi.mp3?id=openapi",
+      "tags": [
+        "fr",
+        "news",
+        "talk",
+        "music"
+      ]
+    },
+    {
+      "id": "fr-info",
+      "name": "France Info",
+      "country": "FRANCE",
+      "city": "Paris",
+      "description": "24/7 live news.",
+      "stream": "https://icecast.radiofrance.fr/franceinfo-midfi.mp3?id=openapi",
+      "tags": [
+        "fr",
+        "news",
+        "talk"
+      ]
+    },
+    {
+      "id": "fr-musique",
+      "name": "France Musique",
+      "country": "FRANCE",
+      "city": "Paris",
+      "description": "Classical, jazz, world music.",
+      "stream": "https://icecast.radiofrance.fr/francemusique-midfi.mp3?id=openapi",
+      "tags": [
+        "fr",
+        "classical",
+        "jazz",
+        "music"
+      ]
+    },
+    {
+      "id": "fr-culture",
+      "name": "France Culture",
+      "country": "FRANCE",
+      "city": "Paris",
+      "description": "Debates, documentaries, series.",
+      "stream": "https://icecast.radiofrance.fr/franceculture-lofi.mp3?id=openapi",
+      "tags": [
+        "fr",
+        "news",
+        "talk"
+      ]
+    },
+    {
+      "id": "fip",
+      "name": "FIP",
+      "country": "FRANCE",
+      "city": "Paris",
+      "description": "Eclectic radio: jazz, rock, world…",
+      "stream": "https://icecast.radiofrance.fr/fip-midfi.mp3?id=openapi",
+      "tags": [
+        "fr",
+        "music",
+        "jazz",
+        "chill"
+      ]
+    },
+    {
+      "id": "fip-jazz",
+      "name": "FIP Jazz",
+      "country": "FRANCE",
+      "city": "Paris",
+      "description": "100% jazz selection by FIP.",
+      "stream": "https://icecast.radiofrance.fr/fipjazz-midfi.mp3",
+      "tags": [
+        "fr",
+        "music",
+        "jazz"
+      ]
+    },
+    {
+      "id": "fip-world",
+      "name": "FIP World",
+      "country": "FRANCE",
+      "city": "Paris",
+      "description": "World music from everywhere.",
+      "stream": "https://icecast.radiofrance.fr/fipworld-midfi.mp3",
+      "tags": [
+        "fr",
+        "music",
+        "world"
+      ]
+    },
+    {
+      "id": "nrj-fr",
+      "name": "NRJ France",
+      "country": "FRANCE",
+      "city": "Paris",
+      "description": "Hit Music Only - hits & pop.",
+      "stream": "https://streaming.nrjaudio.fm/oumvmk8fnozc?origine=fluxradios",
+      "tags": [
+        "fr",
+        "music",
+        "hits"
+      ]
+    },
+    {
+      "id": "dlf-mp3128",
+      "name": "Deutschlandfunk (MP3 128)",
+      "country": "GERMANY",
+      "city": "Cologne",
+      "description": "German public radio: news, analysis, culture.",
+      "stream": "https://st01.sslstream.dlf.de/dlf/01/128/mp3/stream.mp3?aggregator=web",
+      "tags": [
+        "europe",
+        "germany",
+        "news",
+        "talk",
+        "public"
+      ]
+    },
+    {
+      "id": "dlf-kultur-mp3128",
+      "name": "Deutschlandfunk Kultur (MP3 128)",
+      "country": "GERMANY",
+      "city": "Berlin",
+      "description": "Arts, society, science, culture talk.",
+      "stream": "https://st02.sslstream.dlf.de/dlf/02/128/mp3/stream.mp3?aggregator=web",
+      "tags": [
+        "europe",
+        "germany",
+        "culture",
+        "talk"
+      ]
+    },
+    {
+      "id": "dlf-nova-mp3128",
+      "name": "Deutschlandfunk Nova (MP3 128)",
+      "country": "GERMANY",
+      "city": "Cologne",
+      "description": "Pop + explainers + youth-oriented topics.",
+      "stream": "https://st03.sslstream.dlf.de/dlf/03/128/mp3/stream.mp3?aggregator=web",
+      "tags": [
+        "europe",
+        "germany",
+        "pop",
+        "talk"
+      ]
+    },
+    {
+      "id": "franceinter-mp3128",
+      "name": "France Inter (MP3 128)",
+      "country": "FRANCE",
+      "city": "Paris",
+      "description": "French public radio: news, talk, culture.",
+      "stream": "https://direct.franceinter.fr/live/franceinter-midfi.mp3",
+      "tags": [
+        "europe",
+        "france",
+        "news",
+        "talk",
+        "public"
+      ]
+    },
+    {
+      "id": "rtbf-lapremiere",
+      "name": "RTBF La Première",
+      "country": "BELGIUM",
+      "city": "Brussels",
+      "description": "Belgian public radio: news, culture, talk.",
+      "stream": "https://radio.rtbf.be/lapremiere/mp3-160/me",
+      "tags": [
+        "europe",
+        "belgium",
+        "news",
+        "talk",
+        "public"
+      ]
+    },
+    {
+      "id": "rtbf-classic21",
+      "name": "RTBF Classic 21",
+      "country": "BELGIUM",
+      "city": "Brussels",
+      "description": "Rock classics and hits (Belgian public radio).",
+      "stream": "https://radio.rtbf.be/c21/mp3-160/me",
+      "tags": [
+        "europe",
+        "belgium",
+        "rock",
+        "classic"
+      ]
+    },
+    {
+      "id": "rtbf-musiq3",
+      "name": "RTBF Musiq3",
+      "country": "BELGIUM",
+      "city": "Brussels",
+      "description": "Classical music and culture.",
+      "stream": "https://radio.rtbf.be/musiq3/mp3-320/me",
+      "tags": [
+        "europe",
+        "belgium",
+        "classical",
+        "culture",
+        "hq"
+      ]
+    },
+    {
+      "id": "rtbf-tipik",
+      "name": "RTBF Tipik",
+      "country": "BELGIUM",
+      "city": "Brussels",
+      "description": "Pop, hits and youth culture.",
+      "stream": "https://radio.rtbf.be/tipik/mp3-160/me",
+      "tags": [
+        "europe",
+        "belgium",
+        "pop",
+        "hits"
+      ]
+    },
+    {
+      "id": "rtbf-tarmac",
+      "name": "RTBF Tarmac",
+      "country": "BELGIUM",
+      "city": "Brussels",
+      "description": "Urban, hip-hop and new sounds.",
+      "stream": "https://radio.rtbf.be/tarmac/mp3-160/me",
+      "tags": [
+        "europe",
+        "belgium",
+        "hiphop",
+        "urban"
+      ]
+    },
+    {
+      "id": "rts-couleur3-aac96",
+      "name": "RTS Couleur 3 (AAC 96)",
+      "country": "SWITZERLAND",
+      "city": "Lausanne",
+      "description": "Swiss French radio: music, humor, alternative.",
+      "stream": "https://stream.srg-ssr.ch/m/couleur3/aacp_96",
+      "tags": [
+        "europe",
+        "switzerland",
+        "alternative",
+        "music"
+      ]
+    },
+    {
+      "id": "rts-la1ere-aac96",
+      "name": "RTS La 1ère (AAC 96)",
+      "country": "SWITZERLAND",
+      "city": "Lausanne",
+      "description": "Swiss French public radio: news and talk.",
+      "stream": "https://stream.srg-ssr.ch/m/la-1ere/aacp_96",
+      "tags": [
+        "europe",
+        "switzerland",
+        "news",
+        "talk"
+      ]
+    },
+    {
+      "id": "rts-espace2-aac96",
+      "name": "RTS Espace 2 (AAC 96)",
+      "country": "SWITZERLAND",
+      "city": "Lausanne",
+      "description": "Classical, jazz, arts and culture.",
+      "stream": "https://stream.srg-ssr.ch/m/espace-2/aacp_96",
+      "tags": [
+        "europe",
+        "switzerland",
+        "classical",
+        "culture"
+      ]
+    },
+    {
+      "id": "rai-radio1",
+      "name": "RAI Radio 1",
+      "country": "ITALY",
+      "city": "Rome",
+      "description": "Italian public radio: news and talk.",
+      "stream": "https://icestreaming.rai.it/1.mp3",
+      "tags": [
+        "europe",
+        "italy",
+        "news",
+        "talk",
+        "public"
+      ]
+    },
+    {
+      "id": "rai-radio2",
+      "name": "RAI Radio 2",
+      "country": "ITALY",
+      "city": "Rome",
+      "description": "Italian entertainment, talk, pop culture.",
+      "stream": "https://icestreaming.rai.it/2.mp3",
+      "tags": [
+        "europe",
+        "italy",
+        "talk",
+        "music"
+      ]
+    },
+    {
+      "id": "rai-radio3",
+      "name": "RAI Radio 3",
+      "country": "ITALY",
+      "city": "Rome",
+      "description": "Culture, classical, arts, podcasts.",
+      "stream": "https://icestreaming.rai.it/3.mp3",
+      "tags": [
+        "europe",
+        "italy",
+        "culture",
+        "classical"
+      ]
+    },
+    {
+      "id": "rs-pop",
+      "name": "Radio Swiss Pop",
+      "country": "SWITZERLAND",
+      "city": "Berne",
+      "description": "Pop & rock without ads.",
+      "stream": "https://stream.srg-ssr.ch/m/rsp/mp3_128",
+      "tags": [
+        "fr",
+        "music",
+        "swiss"
+      ]
+    },
+    {
+      "id": "rs-jazz",
+      "name": "Radio Swiss Jazz",
+      "country": "SWITZERLAND",
+      "city": "Berne",
+      "description": "Jazz, swing, big band, no ads.",
+      "stream": "https://stream.srg-ssr.ch/m/rsj/mp3_128",
+      "tags": [
+        "fr",
+        "music",
+        "jazz",
+        "swiss"
+      ]
+    },
+    {
+      "id": "rs-classic",
+      "name": "Radio Swiss Classic",
+      "country": "SWITZERLAND",
+      "city": "Berne",
+      "description": "Classical non-stop, no commercials.",
+      "stream": "https://stream.srg-ssr.ch/m/rsc_de/mp3_128",
+      "tags": [
+        "fr",
+        "classical",
+        "swiss",
+        "music"
+      ]
+    },
+    {
+      "id": "mosaique",
+      "name": "Mosaique FM",
+      "country": "TUNISIA",
+      "city": "Tunis",
+      "description": "Tunisian generalist: talk, music, news.",
+      "stream": "https://radio.mosaiquefm.net/mosalive",
+      "tags": [
+        "tunisia",
+        "music",
+        "news"
+      ]
+    },
+    {
+      "id": "bbc1",
+      "name": "BBC Radio 1",
+      "country": "UK",
+      "city": "London",
+      "description": "UK top hits and pop culture.",
+      "stream": "https://stream.live.vc.bbcmedia.co.uk/bbc_radio_one",
+      "tags": [
+        "uk",
+        "pop",
+        "hits",
+        "music"
+      ]
+    },
+    {
+      "id": "bbc2",
+      "name": "BBC Radio 2",
+      "country": "UK",
+      "city": "London",
+      "description": "Adult contemporary and classics.",
+      "stream": "https://stream.live.vc.bbcmedia.co.uk/bbc_radio_two",
+      "tags": [
+        "uk",
+        "adult",
+        "classic",
+        "music"
+      ]
+    },
+    {
+      "id": "nrjfr",
+      "name": "NRJ France",
+      "country": "FRANCE",
+      "city": "Paris",
+      "description": "Top hits and international pop music.",
+      "stream": "https://scdn.nrjaudio.fm/adwz1/fr/30001/mp3_128.mp3",
+      "tags": [
+        "france",
+        "pop",
+        "hits",
+        "music"
+      ]
+    },
+    {
+      "id": "funradiofr",
+      "name": "Fun Radio France",
+      "country": "FRANCE",
+      "city": "Paris",
+      "description": "Dance, electro and club hits.",
+      "stream": "https://stream.funradio.fr/fun-128.mp3",
+      "tags": [
+        "france",
+        "dance",
+        "electronic",
+        "hits"
+      ]
+    },
+    {
+      "id": "virginuk",
+      "name": "Virgin Radio UK",
+      "country": "UK",
+      "city": "London",
+      "description": "Rock and pop hits.",
+      "stream": "https://radio.virginradio.co.uk/stream",
+      "tags": [
+        "uk",
+        "rock",
+        "pop",
+        "hits"
+      ]
+    },
+    {
+      "id": "rtlfr",
+      "name": "RTL France",
+      "country": "FRANCE",
+      "city": "Paris",
+      "description": "News, talk shows and entertainment.",
+      "stream": "https://streaming.radio.rtl.fr/rtl-1-44-128",
+      "tags": [
+        "france",
+        "news",
+        "talk",
+        "general"
+      ]
+    },
+    {
+      "id": "radiofg",
+      "name": "Radio FG",
+      "country": "FRANCE",
+      "city": "Paris",
+      "description": "Electronic and house music.",
+      "stream": "https://radiofg.impek.com/fg",
+      "tags": [
+        "france",
+        "electronic",
+        "house",
+        "dance"
+      ]
+    },
+    {
+      "id": "kissfmde",
+      "name": "KISS FM Germany",
+      "country": "GERMANY",
+      "city": "Berlin",
+      "description": "Urban, pop and club hits.",
+      "stream": "https://kissfm.streamabc.net/kissfm-berlin-mp3-128-5715080",
+      "tags": [
+        "germany",
+        "pop",
+        "urban",
+        "dance"
+      ]
+    },
+    {
+      "id": "rai1",
+      "name": "RAI Radio 1",
+      "country": "ITALY",
+      "city": "Rome",
+      "description": "Italian news and culture radio.",
+      "stream": "https://icestreaming.rai.it/1.mp3",
+      "tags": [
+        "italy",
+        "news",
+        "talk",
+        "culture"
+      ]
+    },
+    {
+      "id": "los40",
+      "name": "Los 40 Spain",
+      "country": "SPAIN",
+      "city": "Madrid",
+      "description": "Top hits and Latin pop music.",
+      "stream": "https://20823.live.streamtheworld.com/LOS40.mp3",
+      "tags": [
+        "spain",
+        "pop",
+        "latin",
+        "hits"
+      ]
+    },
+    {
+      "id": "dlf-mp3",
+      "name": "Deutschlandfunk (MP3 128)",
+      "country": "GERMANY",
+      "city": "Cologne",
+      "description": "German public radio: news, analysis, culture.",
+      "stream": "https://st01.sslstream.dlf.de/dlf/01/128/mp3/stream.mp3?aggregator=web",
+      "tags": [
+        "europe",
+        "germany",
+        "news",
+        "talk",
+        "public"
+      ]
+    },
+    {
+      "id": "dlfkultur-mp3",
+      "name": "Deutschlandfunk Kultur (MP3 128)",
+      "country": "GERMANY",
+      "city": "Berlin",
+      "description": "Culture-focused public radio: arts, society, talk.",
+      "stream": "https://st02.sslstream.dlf.de/dlf/02/128/mp3/stream.mp3?aggregator=web",
+      "tags": [
+        "europe",
+        "germany",
+        "culture",
+        "talk"
+      ]
+    },
+    {
+      "id": "dlfnova-mp3",
+      "name": "Deutschlandfunk Nova (MP3 128)",
+      "country": "GERMANY",
+      "city": "Cologne",
+      "description": "Younger public radio: pop + topics + explainers.",
+      "stream": "https://st03.sslstream.dlf.de/dlf/03/128/mp3/stream.mp3?aggregator=web",
+      "tags": [
+        "europe",
+        "germany",
+        "pop",
+        "talk"
+      ]
+    },
+    {
+      "id": "bbc-world-service",
+      "name": "BBC World Service",
+      "country": "UK",
+      "city": "London",
+      "description": "International news and features from the BBC.",
+      "stream": "https://stream.live.vc.bbcmedia.co.uk/bbc_world_service",
+      "tags": [
+        "europe",
+        "uk",
+        "news",
+        "international"
+      ]
+    },
+    {
+      "id": "rts-couleur3-aac",
+      "name": "RTS Couleur 3 (AAC)",
+      "country": "SWITZERLAND",
+      "city": "Lausanne",
+      "description": "Swiss French radio: music, culture, alternative vibes.",
+      "stream": "https://stream.srg-ssr.ch/m/couleur3/aacp_96",
+      "tags": [
+        "europe",
+        "switzerland",
+        "music",
+        "alternative"
+      ]
+    },
+    {
+      "id": "franceculture",
+      "name": "France Culture",
+      "country": "FRANCE",
+      "city": "Paris",
+      "description": "Culture, documentaries, debates and knowledge.",
+      "stream": "https://direct.franceculture.fr/live/franceculture-midfi.mp3",
+      "tags": [
+        "europe",
+        "france",
+        "culture",
+        "talk",
+        "public"
+      ]
+    },
+    {
+      "id": "francemusique",
+      "name": "France Musique",
+      "country": "FRANCE",
+      "city": "Paris",
+      "description": "Classical music, jazz and concerts.",
+      "stream": "https://direct.francemusique.fr/live/francemusique-midfi.mp3",
+      "tags": [
+        "europe",
+        "france",
+        "classical",
+        "jazz",
+        "culture"
+      ]
+    },
+    {
+      "id": "fipradio",
+      "name": "FIP Radio",
+      "country": "FRANCE",
+      "city": "Paris",
+      "description": "Eclectic mix: jazz, world, rock and chill.",
+      "stream": "https://direct.fipradio.fr/live/fip-midfi.mp3",
+      "tags": [
+        "europe",
+        "france",
+        "eclectic",
+        "chill",
+        "music"
+      ]
+    },
+    {
+      "id": "radio3rne",
+      "name": "RNE Radio 3",
+      "country": "SPAIN",
+      "city": "Madrid",
+      "description": "Alternative, indie and electronic music.",
+      "stream": "https://rtvelivestream.akamaized.net/rtvesec/rne/rne_r3_main.m3u8",
+      "tags": [
+        "europe",
+        "spain",
+        "alternative",
+        "indie",
+        "music"
+      ]
+    },
+    {
+      "id": "radio5rne",
+      "name": "RNE Radio 5",
+      "country": "SPAIN",
+      "city": "Madrid",
+      "description": "Spanish news and information radio.",
+      "stream": "https://rtvelivestream.akamaized.net/rtvesec/rne/rne_r5_madrid_main.m3u8",
+      "tags": [
+        "europe",
+        "spain",
+        "news",
+        "talk"
+      ]
+    },
+    {
+      "id": "drp3",
+      "name": "DR P3",
+      "country": "DENMARK",
+      "city": "Copenhagen",
+      "description": "Pop, youth culture and entertainment.",
+      "stream": "https://live-icy.gss.dr.dk/A/A03H.mp3",
+      "tags": [
+        "europe",
+        "denmark",
+        "pop",
+        "hits",
+        "youth"
+      ]
+    },
+    {
+      "id": "drp1",
+      "name": "DR P1",
+      "country": "DENMARK",
+      "city": "Copenhagen",
+      "description": "News, debates and documentaries.",
+      "stream": "https://live-icy.gss.dr.dk/A/A01H.mp3",
+      "tags": [
+        "europe",
+        "denmark",
+        "news",
+        "talk",
+        "public"
+      ]
+    },
+    {
+      "id": "nrkp3",
+      "name": "NRK P3",
+      "country": "NORWAY",
+      "city": "Oslo",
+      "description": "Pop culture, youth and hits.",
+      "stream": "https://lyd.nrk.no/nrk_radio_p3_mp3_h",
+      "tags": [
+        "europe",
+        "norway",
+        "pop",
+        "hits",
+        "youth"
+      ]
+    },
+    {
+      "id": "nrkp1",
+      "name": "NRK P1",
+      "country": "NORWAY",
+      "city": "Oslo",
+      "description": "Public radio: news and culture.",
+      "stream": "https://lyd.nrk.no/nrk_radio_p1_mp3_h",
+      "tags": [
+        "europe",
+        "norway",
+        "news",
+        "public",
+        "talk"
+      ]
+    },
+    {
+      "id": "ylex",
+      "name": "YleX",
+      "country": "FINLAND",
+      "city": "Helsinki",
+      "description": "Youth radio: pop, dance and trends.",
+      "stream": "https://yleradiolive.akamaized.net/hls/live/2027672/in-YleX/master.m3u8",
+      "tags": [
+        "europe",
+        "finland",
+        "pop",
+        "dance",
+        "youth"
+      ]
+    },
+    {
+      "id": "rtbf-vivaplus",
+      "name": "RTBF Viva+",
+      "country": "BELGIUM",
+      "city": "Brussels",
+      "description": "Belgian music & entertainment station (RTBF).",
+      "stream": "https://radio.rtbf.be/vivaplus/mp3-160/me",
+      "tags": [
+        "europe",
+        "belgium",
+        "music",
+        "hits"
+      ]
+    },
+    {
+      "id": "rtbf-jam",
+      "name": "RTBF Jam",
+      "country": "BELGIUM",
+      "city": "Brussels",
+      "description": "Alternative/electro/new sounds (RTBF web radio).",
+      "stream": "https://radio.rtbf.be/jam/mp3-160/me",
+      "tags": [
+        "europe",
+        "belgium",
+        "alternative",
+        "electronic"
+      ]
+    },
+    {
+      "id": "rtbf-vivasport",
+      "name": "RTBF Viva Sport",
+      "country": "BELGIUM",
+      "city": "Brussels",
+      "description": "Sports content and live coverage (RTBF).",
+      "stream": "https://radio.rtbf.be/viva-sport/mp3-160/me",
+      "tags": [
+        "europe",
+        "belgium",
+        "sports",
+        "talk"
+      ]
+    },
+    {
+      "id": "srf4news",
+      "name": "Radio SRF 4 News",
+      "country": "SWITZERLAND",
+      "city": "Zurich",
+      "description": "Swiss public radio: rolling news and analysis.",
+      "stream": "https://stream.srg-ssr.ch/m/drs4news/mp3_128",
+      "tags": [
+        "europe",
+        "switzerland",
+        "news",
+        "public"
+      ]
+    },
+    {
+      "id": "srf2kultur",
+      "name": "Radio SRF 2 Kultur",
+      "country": "SWITZERLAND",
+      "city": "Zurich",
+      "description": "Swiss culture radio: arts, talk, classical.",
+      "stream": "https://stream.srg-ssr.ch/m/drs2/mp3_128",
+      "tags": [
+        "europe",
+        "switzerland",
+        "culture",
+        "talk"
+      ]
+    },
+    {
+      "id": "srfvirus",
+      "name": "Radio SRF Virus",
+      "country": "SWITZERLAND",
+      "city": "Zurich",
+      "description": "Swiss youth music station.",
+      "stream": "https://stream.srg-ssr.ch/m/drsvirus/aacp_96",
+      "tags": [
+        "europe",
+        "switzerland",
+        "pop",
+        "youth"
+      ]
+    },
+    {
+      "id": "radioswissclassic-96",
+      "name": "Radio Swiss Classic (AAC 96)",
+      "country": "SWITZERLAND",
+      "city": "Bern",
+      "description": "Non-stop classical music (worldwide web radio).",
+      "stream": "https://stream.srg-ssr.ch/srgssr/rsc_de/aac/96",
+      "tags": [
+        "europe",
+        "switzerland",
+        "classical",
+        "hq"
+      ]
+    },
+    {
+      "id": "radioswissclassic-48",
+      "name": "Radio Swiss Classic (AAC 48)",
+      "country": "SWITZERLAND",
+      "city": "Bern",
+      "description": "Classical music (lighter bandwidth).",
+      "stream": "https://stream.srg-ssr.ch/srgssr/rsc_de/aac/48",
+      "tags": [
+        "europe",
+        "switzerland",
+        "classical"
+      ]
+    }
+  ]
+}

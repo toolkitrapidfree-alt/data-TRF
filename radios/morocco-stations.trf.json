@@ -1,0 +1,718 @@
+{
+  "updatedAt": "2026-02-15",
+  "country": "Morocco",
+  "stations": [
+    {
+      "id": "566d6bd3-b87a-4ead-bdb0-732e6eb9d62a",
+      "name": ". القارئ محمد أيوب",
+      "country": "Morocco",
+      "city": "",
+      "description": "MP3 128 kbps",
+      "tags": [
+        "classical"
+      ],
+      "stream": "https://qurango.net/radio/mohammed_ayyub",
+      "language": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "homepage": "",
+      "favicon": ""
+    },
+    {
+      "id": "5239ee66-a75a-43b2-97d4-ae5b240ebc34",
+      "name": ".. مختصر التفسير",
+      "country": "Morocco",
+      "city": "",
+      "description": "MP3 128 kbps",
+      "tags": [
+        "classical"
+      ],
+      "stream": "https://qurango.net/radio/mukhtasartafsir",
+      "language": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "homepage": "",
+      "favicon": ""
+    },
+    {
+      "id": "0a5237a4-2a7f-46f5-a23f-91ec1a370726",
+      "name": ".إذاعة ماهر المعيقلي",
+      "country": "Morocco",
+      "city": "",
+      "description": "MP3 128 kbps",
+      "tags": [
+        "classical"
+      ],
+      "stream": "https://backup.qurango.net/radio/maher",
+      "language": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "homepage": "",
+      "favicon": ""
+    },
+    {
+      "id": "67ea977a-5156-4155-b061-7025db33a74e",
+      "name": "Abdulbasit Abdulsamad",
+      "country": "Morocco",
+      "city": "",
+      "description": "arabic • MP3 192 kbps",
+      "tags": [],
+      "stream": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3",
+      "language": "arabic",
+      "codec": "MP3",
+      "bitrate": 192,
+      "homepage": "https://mp3islam.com/",
+      "favicon": "null"
+    },
+    {
+      "id": "d7b5fc56-9ab0-4ed8-a3d0-9e5fe1169e6d",
+      "name": "achkid fm",
+      "country": "Morocco",
+      "city": "",
+      "description": "arabic,berbere • MP3",
+      "tags": [
+        "music arabe"
+      ],
+      "stream": "https://stream.zeno.fm/7nqu31p6xg0uv",
+      "language": "arabic,berbere",
+      "codec": "MP3",
+      "bitrate": 0,
+      "homepage": "https://www.facebook.com/achkidfm",
+      "favicon": "https://www.facebook.com/photo/?fbid=939388358206075&set=a.451055430372706"
+    },
+    {
+      "id": "688986ac-3229-4adc-a96c-fcfe079328fe",
+      "name": "Adwaafm",
+      "country": "Morocco",
+      "city": "",
+      "description": "arabic • MP3",
+      "tags": [],
+      "stream": "http://stream.zeno.fm/5bxh2nh0x1zuv?1681882617017",
+      "language": "arabic",
+      "codec": "MP3",
+      "bitrate": 0,
+      "homepage": "https://www.adwaafm.com/",
+      "favicon": "https://adwaafm.com/wp-content/uploads/2023/11/cropped-fgfg-1-180x180.png"
+    },
+    {
+      "id": "4ba39853-862f-4e01-835b-8cea062ae2a8",
+      "name": "Al quran radio",
+      "country": "Morocco",
+      "city": "",
+      "description": "MP3",
+      "tags": [
+        "classical"
+      ],
+      "stream": "https://n0a.radiojar.com/0tpy1h0kxtzuv?rj-ttl=5&rj-tok=AAABhdgGORQA-2acfyF3_4WY2g",
+      "language": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "homepage": "",
+      "favicon": ""
+    },
+    {
+      "id": "125ec344-a2a1-4e36-8f66-77401f457d20",
+      "name": "Aswat FM",
+      "country": "Morocco",
+      "city": "",
+      "description": "arabic,english • MP3 128 kbps",
+      "tags": [
+        "arabic music",
+        "classic hits",
+        "hits",
+        "pop"
+      ],
+      "stream": "https://broadcast.ice.infomaniak.ch/aswat-high.mp3",
+      "language": "arabic,english",
+      "codec": "MP3",
+      "bitrate": 128,
+      "homepage": "https://radioaswat.ma/",
+      "favicon": "https://radioaswat.ma/favicon.ico"
+    },
+    {
+      "id": "abcb85c5-c02b-4952-8858-310bb93e9b28",
+      "name": "Atlantic Radio",
+      "country": "Morocco",
+      "city": "",
+      "description": "MP3 64 kbps",
+      "tags": [],
+      "stream": "https://atlantic-sonic.nindohost.net:9300/stream",
+      "language": "",
+      "codec": "MP3",
+      "bitrate": 64,
+      "homepage": "https://atlanticradio.ma/",
+      "favicon": ""
+    },
+    {
+      "id": "f2c7caa3-758b-4571-bdda-3f96bea62f13",
+      "name": "Aziz Mustaphi",
+      "country": "Morocco",
+      "city": "",
+      "description": "arabic • MP3",
+      "tags": [
+        "coran",
+        "mp3",
+        "news",
+        "quran"
+      ],
+      "stream": "https://d3ctxlq1ktw2nl.cloudfront.net/production/2022-0-3/240607172-44100-2-afb2485b0c30e.mp3",
+      "language": "arabic",
+      "codec": "MP3",
+      "bitrate": 0,
+      "homepage": "https://infoplus60.blogspot.com/",
+      "favicon": "https://infoplus60.blogspot.com/favicon.ico"
+    },
+    {
+      "id": "b8807476-2ada-4600-9dc0-7b501691afc1",
+      "name": "bldi",
+      "country": "Morocco",
+      "city": "",
+      "description": "MP3 64 kbps",
+      "tags": [
+        "classical"
+      ],
+      "stream": "http://beldifm.hf.ma/radio/8000/radio.mp3",
+      "language": "",
+      "codec": "MP3",
+      "bitrate": 64,
+      "homepage": "",
+      "favicon": ""
+    },
+    {
+      "id": "bd0dfbbf-7594-4980-98de-8311c4522b2e",
+      "name": "Capradio",
+      "country": "Morocco",
+      "city": "",
+      "description": "arabic • MP3 192 kbps",
+      "tags": [
+        "music"
+      ],
+      "stream": "https://listen.radioking.com/radio/710810/stream/776366",
+      "language": "arabic",
+      "codec": "MP3",
+      "bitrate": 192,
+      "homepage": "https://capradiotv.com/",
+      "favicon": "null"
+    },
+    {
+      "id": "e8d4a75f-f345-4bc7-a837-ce2adc3a2579",
+      "name": "Fayroz",
+      "country": "Morocco",
+      "city": "",
+      "description": "MP3",
+      "tags": [
+        "classical"
+      ],
+      "stream": "https://stream.zeno.fm/zv3e5wykprhvv.mp3",
+      "language": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "homepage": "https://radio.ma.co/",
+      "favicon": ""
+    },
+    {
+      "id": "45fbac1d-4838-4b51-b3eb-7c92fba5ef1a",
+      "name": "Hit Radio (Morocco)",
+      "country": "Morocco",
+      "city": "Rabat-Salé-Kénitra",
+      "description": "arabic,english,french • MP3 128 kbps",
+      "tags": [
+        "hits",
+        "moroccans",
+        "rap",
+        "urban music"
+      ],
+      "stream": "https://hitradio-maroc.ice.infomaniak.ch/hitradio-maroc-128.mp3",
+      "language": "arabic,english,french",
+      "codec": "MP3",
+      "bitrate": 128,
+      "homepage": "https://www.hitradio.ma/",
+      "favicon": ""
+    },
+    {
+      "id": "b019fb4e-adfd-43a9-a00d-68e086e0b06f",
+      "name": "MA:-Hit Radio Maroc",
+      "country": "Morocco",
+      "city": "",
+      "description": "MP3",
+      "tags": [
+        "classical"
+      ],
+      "stream": "https://stream.zeno.fm/une3a02mb",
+      "language": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "homepage": "https://stream.zeno.fm/une3a02mb",
+      "favicon": ""
+    },
+    {
+      "id": "79588a46-fd37-4dde-9d9e-ecb52a4f1fe6",
+      "name": "MA:-Radio Sawt Alamal",
+      "country": "Morocco",
+      "city": "",
+      "description": "MP3",
+      "tags": [
+        "country"
+      ],
+      "stream": "https://stream.zeno.fm/d4u7zbqh5qruv",
+      "language": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "homepage": "https://stream.zeno.fm/d4u7zbqh5qruv",
+      "favicon": ""
+    },
+    {
+      "id": "6df8b651-cc31-44ed-bdbe-c602f85b707e",
+      "name": "Marrakechplus",
+      "country": "Morocco",
+      "city": "marrakech",
+      "description": "arabic,french • MP3 128 kbps",
+      "tags": [],
+      "stream": "https://cast5.my-control-panel.com/proxy/marrakec/stream",
+      "language": "arabic,french",
+      "codec": "MP3",
+      "bitrate": 128,
+      "homepage": "https://webradio.marrakechplus.ma/",
+      "favicon": "https://static-media.streema.com/media/cache/70/e9/70e92b9ba9494bd4f8ca598ffefc7716.jpg"
+    },
+    {
+      "id": "4c6f8571-6e70-42d5-a4a6-669003ad1cee",
+      "name": "Medi 1 Classique",
+      "country": "Morocco",
+      "city": "",
+      "description": "arabic,french • MP3 128 kbps",
+      "tags": [
+        "classical"
+      ],
+      "stream": "http://live.medi1.com/Classique",
+      "language": "arabic,french",
+      "codec": "MP3",
+      "bitrate": 128,
+      "homepage": "https://www.medi1.com/fr/webradio/Classique",
+      "favicon": "https://www.medi1.com/favicon.ico"
+    },
+    {
+      "id": "96ccc468-1a6f-11e8-a334-52543be04c81",
+      "name": "Medi 1 Radio Andalouse",
+      "country": "Morocco",
+      "city": "",
+      "description": "arabic • MP3 128 kbps",
+      "tags": [],
+      "stream": "http://live.medi1.com/Andalouse",
+      "language": "arabic",
+      "codec": "MP3",
+      "bitrate": 128,
+      "homepage": "https://www.medi1.com/webradio/2#",
+      "favicon": ""
+    },
+    {
+      "id": "93c1a1a6-5571-11e8-b0ce-52543be04c81",
+      "name": "Medi1 dj",
+      "country": "Morocco",
+      "city": "",
+      "description": "arabic • MP3 128 kbps",
+      "tags": [
+        "dj"
+      ],
+      "stream": "http://live.medi1.com/Dj",
+      "language": "arabic",
+      "codec": "MP3",
+      "bitrate": 128,
+      "homepage": "http://www.medi1.com/webradio/8#",
+      "favicon": ""
+    },
+    {
+      "id": "7c1bdaa1-56a8-11e8-b0ce-52543be04c81",
+      "name": "Mefi1 tarab",
+      "country": "Morocco",
+      "city": "",
+      "description": "MP3 128 kbps",
+      "tags": [],
+      "stream": "http://live.medi1.com/Tarab",
+      "language": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "homepage": "http://www.medi1.com/webradio/3#",
+      "favicon": ""
+    },
+    {
+      "id": "e0cb2d0e-e6c1-4aa4-8748-37a087e343c2",
+      "name": "MRC:-Hip Hop Soul Radio \tRadio Music",
+      "country": "Morocco",
+      "city": "",
+      "description": "MP3",
+      "tags": [
+        "country"
+      ],
+      "stream": "https://stream.zeno.fm/k7cdrm450s8uv",
+      "language": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "homepage": "https://stream.zeno.fm/k7cdrm450s8uv",
+      "favicon": ""
+    },
+    {
+      "id": "8bc54f49-2bce-4b05-b621-f22c12377ae7",
+      "name": "MRC:-Radio Adwaa ATFAL 4",
+      "country": "Morocco",
+      "city": "",
+      "description": "MP3",
+      "tags": [
+        "country"
+      ],
+      "stream": "https://stream.zeno.fm/8wrs2bh0x1zuv",
+      "language": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "homepage": "https://stream.zeno.fm/8wrs2bh0x1zuv",
+      "favicon": ""
+    },
+    {
+      "id": "13d978d5-c986-476d-9434-12d29c98a592",
+      "name": "MRC:-Radio Adwaa FM 2",
+      "country": "Morocco",
+      "city": "",
+      "description": "MP3",
+      "tags": [
+        "country"
+      ],
+      "stream": "https://stream.zeno.fm/5bxh2nh0x1zuv",
+      "language": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "homepage": "https://stream.zeno.fm/5bxh2nh0x1zuv",
+      "favicon": ""
+    },
+    {
+      "id": "653dea16-ffe4-4db9-8744-427bb37d83ee",
+      "name": "MRC:-Radio Adwaa MaZika 5",
+      "country": "Morocco",
+      "city": "",
+      "description": "MP3",
+      "tags": [
+        "country"
+      ],
+      "stream": "https://stream.zeno.fm/ezxx195gq2zuv",
+      "language": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "homepage": "https://stream.zeno.fm/ezxx195gq2zuv",
+      "favicon": ""
+    },
+    {
+      "id": "136e67ff-f7af-40cd-acbf-2b07ff116f54",
+      "name": "MRC:-Radio Adwaa Music 3",
+      "country": "Morocco",
+      "city": "",
+      "description": "MP3",
+      "tags": [
+        "country"
+      ],
+      "stream": "https://stream.zeno.fm/x4451xh0x1zuv",
+      "language": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "homepage": "https://stream.zeno.fm/x4451xh0x1zuv",
+      "favicon": ""
+    },
+    {
+      "id": "51151199-e8dc-42a9-8257-e22effb01f25",
+      "name": "MRC:-Radio plus",
+      "country": "Morocco",
+      "city": "",
+      "description": "MP3 128 kbps",
+      "tags": [
+        "country"
+      ],
+      "stream": "https://stream.radio.co/s8cc7a5da4/listen",
+      "language": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "homepage": "https://stream.radio.co/s8cc7a5da4/listen",
+      "favicon": ""
+    },
+    {
+      "id": "826bd43a-bb41-4b70-b303-faa828f147d1",
+      "name": "MRC:-Sawt Al Amal",
+      "country": "Morocco",
+      "city": "",
+      "description": "MP3",
+      "tags": [
+        "country"
+      ],
+      "stream": "http://stream.zeno.fm/qgw73bqh5qruv",
+      "language": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "homepage": "http://stream.zeno.fm/qgw73bqh5qruv.pls",
+      "favicon": ""
+    },
+    {
+      "id": "4e98fd49-4a3b-4b9a-b9ad-ec28914a3951",
+      "name": "Ness Radio",
+      "country": "Morocco",
+      "city": "Marrakech",
+      "description": "MP3 256 kbps",
+      "tags": [
+        "eclectic"
+      ],
+      "stream": "https://radio.nessradio.net:8212/nessradio-hd",
+      "language": "",
+      "codec": "MP3",
+      "bitrate": 256,
+      "homepage": "https://nessradio.com/",
+      "favicon": "https://image.spreadshirtmedia.net/image-server/v1/products/T1459A839PA4459PT28D14937484W10000H3633/views/1,width=500,height=500,appearanceId=839,backgroundColor=fff/logo-ness-typo-sticker.jpg"
+    },
+    {
+      "id": "5769fe09-56d6-11e8-b0ce-52543be04c81",
+      "name": "Only rai",
+      "country": "Morocco",
+      "city": "",
+      "description": "MP3 128 kbps",
+      "tags": [],
+      "stream": "http://onlyrai.ice.infomaniak.ch/onlyrai-high.mp3",
+      "language": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "homepage": "http://www.urbanhit.fr/#",
+      "favicon": ""
+    },
+    {
+      "id": "96414555-0601-11e8-ae97-52543be04c81",
+      "name": "Radio Aswat",
+      "country": "Morocco",
+      "city": "Casablanca",
+      "description": "arabic • MP3 128 kbps",
+      "tags": [],
+      "stream": "http://broadcast.ice.infomaniak.ch/aswat-high.mp3?.mp3",
+      "language": "arabic",
+      "codec": "MP3",
+      "bitrate": 128,
+      "homepage": "http://www.radioaswat.ma/",
+      "favicon": "http://www.radioaswat.ma/favicon.ico"
+    },
+    {
+      "id": "b02d5054-6f8e-474e-84e3-960ae08dae8e",
+      "name": "Radio Atbir",
+      "country": "Morocco",
+      "city": "",
+      "description": "tachelhite • MP3",
+      "tags": [],
+      "stream": "https://stream-156.zeno.fm/bqdbb6hd0neuv?zs=VGAZo-zKSX-08bLa8RiUVg",
+      "language": "tachelhite",
+      "codec": "MP3",
+      "bitrate": 0,
+      "homepage": "https://radio.co.ma/atbir/",
+      "favicon": "https://cdn.webrad.io/images/logos/radio-co-ma/atbir.png"
+    },
+    {
+      "id": "2c260d07-110c-473c-8a7f-df4b937b31a8",
+      "name": "Radio Manarat",
+      "country": "Morocco",
+      "city": "",
+      "description": "arabic • MP3 192 kbps",
+      "tags": [
+        "culture",
+        "education",
+        "talk"
+      ],
+      "stream": "https://listen.radioking.com/radio/252934/stream/297385",
+      "language": "arabic",
+      "codec": "MP3",
+      "bitrate": 192,
+      "homepage": "https://fm6education.ma/prestations/culture-education-et-formation/radio-manarat/",
+      "favicon": ""
+    },
+    {
+      "id": "f437a938-2f30-4109-8f52-cbb599e11b03",
+      "name": "Radio Mars",
+      "country": "Morocco",
+      "city": "Casablanca",
+      "description": "MP3 128 kbps",
+      "tags": [],
+      "stream": "https://radiomars.ice.infomaniak.ch/radiomars-128.mp3",
+      "language": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "homepage": "https://www.radiomars.ma/ar/",
+      "favicon": "https://www.radiomars.ma/ar/wp-content/uploads/2023/10/RADIOMARS_LOGO.png"
+    },
+    {
+      "id": "377ec7c3-41fd-48d0-ab98-0c2485ec7d4d",
+      "name": "Radio MFM",
+      "country": "Morocco",
+      "city": "Casablanca",
+      "description": "MP3 192 kbps",
+      "tags": [],
+      "stream": "https://a5.asurahosting.com:7980/radio.mp3",
+      "language": "",
+      "codec": "MP3",
+      "bitrate": 192,
+      "homepage": "https://www.mfmradio.ma/",
+      "favicon": ""
+    },
+    {
+      "id": "701b70e7-2126-4b4b-b1db-ea5295b43bfe",
+      "name": "Radio Plus Agadir FM 92.4",
+      "country": "Morocco",
+      "city": "",
+      "description": "french,moroccan arabic,standard moroccan amazigh • MP3",
+      "tags": [],
+      "stream": "https://stream-158.zeno.fm/bqdbb6hd0neuv",
+      "language": "french,moroccan arabic,standard moroccan amazigh",
+      "codec": "MP3",
+      "bitrate": 0,
+      "homepage": "https://www.radioplus.ma/",
+      "favicon": ""
+    },
+    {
+      "id": "6a11c952-ea0c-4887-99a3-96b0139ee3fc",
+      "name": "Rap Lbeldi Maroc - Hip Hop Music from Morocco FR AR",
+      "country": "Morocco",
+      "city": "casa",
+      "description": "english,french,moroccan arabic • MP3",
+      "tags": [
+        "french rap",
+        "hip-hop",
+        "rap",
+        "rap hiphop rnb"
+      ],
+      "stream": "https://stream.zeno.fm/ivdufrl7q0quv",
+      "language": "english,french,moroccan arabic",
+      "codec": "MP3",
+      "bitrate": 0,
+      "homepage": "https://web.facebook.com/profile.php?id=61570758710271",
+      "favicon": "https://zeno.fm/_ipx/q_85&fit_cover&s_144x144/https://images.zeno.fm/6Ia8cwPUky2CXZukwJE-pUBZDer_E45bLRuQtQpToyc/rs:fill:288:288/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvNzY2Nzc3YTAtZjFjNy00ZGVjLTlhNWQtN2M2ZmJiNmUxNmZkL2ltYWdlLz91PTE3MzQxMTQ3NzUwMDA.webp"
+    },
+    {
+      "id": "66c753bc-f48c-4ad9-bdea-b272c7125fa8",
+      "name": "Skyrock Casablanca",
+      "country": "Morocco",
+      "city": "Casablanca",
+      "description": "arabic,english,french • AAC 128 kbps",
+      "tags": [
+        "artists",
+        "hits",
+        "moroccans",
+        "morocco",
+        "rap"
+      ],
+      "stream": "https://icecast.skyrock.net/s/casa_aac_64k",
+      "language": "arabic,english,french",
+      "codec": "AAC",
+      "bitrate": 128,
+      "homepage": "https://skyrock.fm/news/nouvelle-radio-skyrock-casablanca/6714",
+      "favicon": "https://skyrock.fm/favicon.ico"
+    },
+    {
+      "id": "971f96a8-80eb-4003-b897-f10883f4b389",
+      "name": "SNRT Chaîne Inter",
+      "country": "Morocco",
+      "city": "",
+      "description": "arabic",
+      "tags": [],
+      "stream": "http://radiolive.snrt.ma/inter",
+      "language": "arabic",
+      "codec": "",
+      "bitrate": 0,
+      "homepage": "http://radiolive.snrt.ma/inter",
+      "favicon": "http://radiolive.snrt.ma/inter"
+    },
+    {
+      "id": "0caedaf7-ecd4-4bd8-96e9-082b79a19d90",
+      "name": "Yabiladi Azawan Amazigh",
+      "country": "Morocco",
+      "city": "",
+      "description": "english,francaise • MP3 128 kbps",
+      "tags": [
+        "world music"
+      ],
+      "stream": "https://radio.yabiladi.com:9002/;stream.mp3",
+      "language": "english,francaise",
+      "codec": "MP3",
+      "bitrate": 128,
+      "homepage": "https://www.yabiladi.com/radio/",
+      "favicon": "https://static.yabiladi.com/images_new/logo_2_yab.png?4"
+    },
+    {
+      "id": "9d874da9-550c-4176-a595-8ee83e0c72bc",
+      "name": "Yabiladi Chaabi Maroc",
+      "country": "Morocco",
+      "city": "",
+      "description": "english,francaise • MP3 128 kbps",
+      "tags": [
+        "world music"
+      ],
+      "stream": "https://radio.yabiladi.com:8102/;stream.mp3",
+      "language": "english,francaise",
+      "codec": "MP3",
+      "bitrate": 128,
+      "homepage": "https://www.yabiladi.com/radio/",
+      "favicon": "https://static.yabiladi.com/images_new/logo_2_yab.png?4"
+    },
+    {
+      "id": "dae1a80a-3fd7-433d-a805-4ede99e568b2",
+      "name": "Yabiladi Radio",
+      "country": "Morocco",
+      "city": "",
+      "description": "english,francaise • MP3 128 kbps",
+      "tags": [
+        "world music"
+      ],
+      "stream": "https://radio.yabiladi.com:8002/;stream.mp3",
+      "language": "english,francaise",
+      "codec": "MP3",
+      "bitrate": 128,
+      "homepage": "https://www.yabiladi.com/radio/",
+      "favicon": "https://static.yabiladi.com/images_new/logo_2_yab.png?4"
+    },
+    {
+      "id": "e300baf5-e1e2-4ba8-b4ff-6d029d5a0a99",
+      "name": "إذاعة طريق السلف",
+      "country": "Morocco",
+      "city": "",
+      "description": "MP3 128 kbps",
+      "tags": [
+        "classical"
+      ],
+      "stream": "https://airtime.salafwayfm.ly/",
+      "language": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "homepage": "",
+      "favicon": ""
+    },
+    {
+      "id": "7827c165-e4e4-465e-9045-3ea1d4990329",
+      "name": "اذاعة القرآن الكريم",
+      "country": "Morocco",
+      "city": "",
+      "description": "MP3",
+      "tags": [
+        "classical"
+      ],
+      "stream": "http://stream.radiojar.com/0tpy1h0kxtzuv",
+      "language": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "homepage": "",
+      "favicon": ""
+    },
+    {
+      "id": "9b00b169-b8fc-44e0-bd58-26df8585516f",
+      "name": "تفسير بن عثيمين",
+      "country": "Morocco",
+      "city": "",
+      "description": "MP3 128 kbps",
+      "tags": [
+        "classical"
+      ],
+      "stream": "https://qurango.net/radio/tafseer",
+      "language": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "homepage": "",
+      "favicon": ""
+    }
+  ]
+}

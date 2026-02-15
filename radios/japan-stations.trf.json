@@ -1,0 +1,1701 @@
+{
+  "updatedAt": "2026-02-15",
+  "stations": [
+    {
+      "id": "405566fa-dd30-437e-b20b-934fcdbe768f",
+      "name": " Kamakura FM",
+      "country": "Japan",
+      "city": "",
+      "stream": "https://stream.laut.fm/kamakura",
+      "tags": [
+        ""
+      ]
+    },
+    {
+      "id": "0bf249cd-0bee-4b28-bef5-4803e1f9c050",
+      "name": ".quran",
+      "country": "Japan",
+      "city": "",
+      "stream": "https://backup.qurango.net/radio/ahmad_khader_altarabulsi",
+      "tags": [
+        "classical"
+      ]
+    },
+    {
+      "id": "82ba1708-15ba-424e-9697-cca597e74372",
+      "name": "#Radio Quran",
+      "country": "Japan",
+      "city": "",
+      "stream": "https://n0a.radiojar.com/0tpy1h0kxtzuv?rj-ttl=5&rj-tok=AAABhdgGORQA-2acfyF3_4WY2g",
+      "tags": [
+        "classical"
+      ]
+    },
+    {
+      "id": "7d7237f8-7fbb-4ff1-98e0-1bca42b63911",
+      "name": "775ライブリーFM",
+      "country": "Japan",
+      "city": "埼玉県",
+      "stream": "https://mtist.as.smartstream.ne.jp/30026/livestream/playlist.m3u8",
+      "tags": [
+        "77.5",
+        "朝霞"
+      ]
+    },
+    {
+      "id": "918ec34d-9572-49c8-a6b5-653325f99eef",
+      "name": "A&G+",
+      "country": "Japan",
+      "city": "",
+      "stream": "https://www.uniqueradio.jp/agapps/hls/cdn.m3u8",
+      "tags": [
+        "classical"
+      ]
+    },
+    {
+      "id": "7b464b92-0f29-42e8-ab50-87233f92d2c9",
+      "name": "Abdulbasit Abdulsamad",
+      "country": "Japan",
+      "city": "",
+      "stream": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3",
+      "tags": [
+        ""
+      ]
+    },
+    {
+      "id": "f10bb488-9f8d-40da-9f7d-f4fa63191c68",
+      "name": "AFN GO TOKYO",
+      "country": "Japan",
+      "city": "tokyo",
+      "stream": "http://22963.live.streamtheworld.com/AFNP_TKO_SC",
+      "tags": [
+        "military"
+      ]
+    },
+    {
+      "id": "ce962d43-c800-4490-bfd0-09060ef05e9c",
+      "name": "AIR STATION HIBIKI",
+      "country": "Japan",
+      "city": "福岡県",
+      "stream": "https://mtist.as.smartstream.ne.jp/30052/livestream/playlist.m3u8",
+      "tags": [
+        "88.2",
+        "北九州市"
+      ]
+    },
+    {
+      "id": "90397feb-f9ab-43b8-87c0-4a8e1b7e4316",
+      "name": "ALR Jazz Radio",
+      "country": "Japan",
+      "city": "",
+      "stream": "http://195.154.79.204:8638/stream",
+      "tags": [
+        ""
+      ]
+    },
+    {
+      "id": "1adf1539-e647-44c3-85d8-b437b768fb8c",
+      "name": "Anime Para Ti",
+      "country": "Japan",
+      "city": "",
+      "stream": "https://stream.zeno.fm/qpn8mkt8c4duv",
+      "tags": [
+        "anime",
+        "anime openings",
+        "jpop",
+        "music"
+      ]
+    },
+    {
+      "id": "ee614813-177f-4b83-ae6a-5e5b22d440d1",
+      "name": "AshiyaRadio〜アシヤ・ラヂヲ〜",
+      "country": "Japan",
+      "city": "",
+      "stream": "https://s3.radio.co/sc8d895604/listen",
+      "tags": [
+        "bossa nova",
+        "jazz",
+        "piano jazz"
+      ]
+    },
+    {
+      "id": "02cf24a8-b1a6-4196-bf1c-d5553d2090bd",
+      "name": "asia DREAM radio - Japan Hits",
+      "country": "Japan",
+      "city": "",
+      "stream": "https://quincy.torontocast.com:2020/stream.mp3",
+      "tags": [
+        "j-pop",
+        "japanese",
+        "jpop",
+        "pop"
+      ]
+    },
+    {
+      "id": "1972ede1-8a0a-4cf3-87a7-4497e3260b92",
+      "name": "B･FM791",
+      "country": "Japan",
+      "city": "徳島県",
+      "stream": "https://mtist.as.smartstream.ne.jp/30010/livestream/playlist.m3u8",
+      "tags": [
+        "79.1",
+        "徳島市"
+      ]
+    },
+    {
+      "id": "5e42f3f1-41cd-4c71-a06c-7d88b76bdc17",
+      "name": "BAN-BANラジオ",
+      "country": "Japan",
+      "city": "兵庫県",
+      "stream": "https://mtist.as.smartstream.ne.jp/30078/livestream/playlist.m3u8",
+      "tags": [
+        "86.9",
+        "加古川市"
+      ]
+    },
+    {
+      "id": "f6b43a0f-0211-4dd2-b552-c3fc38cb7297",
+      "name": "BAY WAVE 塩竈のラジオ",
+      "country": "Japan",
+      "city": "宮城県",
+      "stream": "https://mtist.as.smartstream.ne.jp/30056/livestream/playlist.m3u8",
+      "tags": [
+        "78.1",
+        "塩竈"
+      ]
+    },
+    {
+      "id": "29e18f32-a063-4002-9768-fb416f172778",
+      "name": "BeFM",
+      "country": "Japan",
+      "city": "青森",
+      "stream": "https://mtist.as.smartstream.ne.jp/30079/livestream/playlist.m3u8",
+      "tags": [
+        "76.5",
+        "八戸市"
+      ]
+    },
+    {
+      "id": "37d1f4fb-0812-432d-af30-e91ca28ae05c",
+      "name": "Big B Radio - Jpop",
+      "country": "Japan",
+      "city": "",
+      "stream": "https://antares.dribbcast.com/proxy/jpop?mp=/s",
+      "tags": [
+        "music",
+        "pop"
+      ]
+    },
+    {
+      "id": "76e663f9-9ffd-4649-8b80-c0fd5897946d",
+      "name": "BOOTY FM",
+      "country": "Japan",
+      "city": "",
+      "stream": "http://60.45.66.12:88/bootyfm",
+      "tags": [
+        ""
+      ]
+    },
+    {
+      "id": "30b09043-9b67-43d7-b9c6-b4401e5cb636",
+      "name": "BOX : Japan City Pop - 日本のシティポップ",
+      "country": "Japan",
+      "city": "",
+      "stream": "https://play.streamafrica.net/japancitypop",
+      "tags": [
+        "city pop",
+        "japanese"
+      ]
+    },
+    {
+      "id": "fb462bde-d4dc-4f05-8654-69350a6b3816",
+      "name": "Chofu FM",
+      "country": "Japan",
+      "city": "",
+      "stream": "https://mtist.as.smartstream.ne.jp/30039/livestream/chunklist.m3u8",
+      "tags": [
+        ""
+      ]
+    },
+    {
+      "id": "436b6f8c-25e2-4c1f-afb6-4eaa5247cf15",
+      "name": "DARAZ FM",
+      "country": "Japan",
+      "city": "鳥取縣",
+      "stream": "https://mtist.as.smartstream.ne.jp/30053/livestream/playlist.m3u8",
+      "tags": [
+        "79.8",
+        "米子市"
+      ]
+    },
+    {
+      "id": "961b7ba6-0601-11e8-ae97-52543be04c81",
+      "name": "FM Kahoku 78.7 (FMかほく, JOZZ5AM-FM, 78.7 MHz, Kahoku City, Ishikawa)",
+      "country": "Japan",
+      "city": "Ishikawa",
+      "stream": "http://radio.kahoku.net:8000/;",
+      "tags": [
+        "enka",
+        "japan",
+        "japanese",
+        "jpop",
+        "kayokyoku",
+        "talk radio"
+      ]
+    },
+    {
+      "id": "e2abcb12-3954-4ca2-a5b4-5df5502d9045",
+      "name": "FM Kawaguchi 856 studio (FM川口)",
+      "country": "Japan",
+      "city": "埼玉県",
+      "stream": "https://mtist.as.smartstream.ne.jp/30035/livestream/playlist.m3u8",
+      "tags": [
+        "85.6",
+        "川口"
+      ]
+    },
+    {
+      "id": "d1df0119-1b6c-45c8-94c3-f5723083c742",
+      "name": "FM Mot.com",
+      "country": "Japan",
+      "city": "福島県",
+      "stream": "https://mtist.as.smartstream.ne.jp/30019/livestream/playlist.m3u8",
+      "tags": [
+        "77.7",
+        "本宮"
+      ]
+    },
+    {
+      "id": "e2ea97c5-a2ad-40eb-a7d7-e686d92f4d26",
+      "name": "FM N1",
+      "country": "Japan",
+      "city": "石川県",
+      "stream": "https://mtist.as.smartstream.ne.jp/30001/livestream/playlist.m3u8",
+      "tags": [
+        "76.3",
+        "野々市"
+      ]
+    },
+    {
+      "id": "94787418-4335-4192-966d-d89105db8548",
+      "name": "FM RADIO3 (ラジオ3)",
+      "country": "Japan",
+      "city": "仙台",
+      "stream": "https://mtist.as.smartstream.ne.jp/30007/livestream/playlist.m3u8",
+      "tags": [
+        "76.2",
+        "仙台"
+      ]
+    },
+    {
+      "id": "b992ec2b-63cb-40f9-909a-5427916a31a1",
+      "name": "FM ジャングル",
+      "country": "Japan",
+      "city": "兵庫県",
+      "stream": "https://mtist.as.smartstream.ne.jp/30013/livestream/playlist.m3u8",
+      "tags": [
+        "76.4",
+        "豊岡市"
+      ]
+    },
+    {
+      "id": "c17a651c-1f8c-4da1-b802-403cb81bf5b6",
+      "name": "FMアップル",
+      "country": "Japan",
+      "city": "",
+      "stream": "https://mtist.as.smartstream.ne.jp/30090/livestream/playlist.m3u8",
+      "tags": [
+        ""
+      ]
+    },
+    {
+      "id": "fbdf08c1-ec04-49f1-834a-aec641b5e5ba",
+      "name": "FMいしがきサンサンラジオ",
+      "country": "Japan",
+      "city": "沖縄県",
+      "stream": "https://mtist.as.smartstream.ne.jp/30069/livestream/playlist.m3u8",
+      "tags": [
+        "76.1",
+        "石垣市"
+      ]
+    },
+    {
+      "id": "ca3b4229-b5e3-4ab6-a3f4-8da61a91cd25",
+      "name": "fmいずみ",
+      "country": "Japan",
+      "city": "仙台",
+      "stream": "https://mtist.as.smartstream.ne.jp/30018/livestream/playlist.m3u8",
+      "tags": [
+        "79.7",
+        "仙台"
+      ]
+    },
+    {
+      "id": "8f00a733-bac8-419a-8722-50a30df1c71d",
+      "name": "FMいわき",
+      "country": "Japan",
+      "city": "福島県",
+      "stream": "https://mtist.as.smartstream.ne.jp/30009/livestream/playlist.m3u8",
+      "tags": [
+        "76.2",
+        "いわき市"
+      ]
+    },
+    {
+      "id": "95d808d3-ee4a-4b38-b7c3-70a284ef41b2",
+      "name": "FMうしくうれしく放送",
+      "country": "Japan",
+      "city": "茨城県",
+      "stream": "https://mtist.as.smartstream.ne.jp/30021/livestream/playlist.m3u8",
+      "tags": [
+        "85.4",
+        "牛久"
+      ]
+    },
+    {
+      "id": "5d0978bf-0eaa-402a-a8ad-e8f56e55e508",
+      "name": "FMおたる",
+      "country": "Japan",
+      "city": "北海道",
+      "stream": "https://mtist.as.smartstream.ne.jp/30025/livestream/playlist.m3u8",
+      "tags": [
+        ""
+      ]
+    },
+    {
+      "id": "d1f94994-76ef-4623-847d-63d07432b20c",
+      "name": "FMおとくに",
+      "country": "Japan",
+      "city": "京都府",
+      "stream": "https://mtist.as.smartstream.ne.jp/30063/livestream/playlist.m3u8",
+      "tags": [
+        "86.2",
+        "長岡京市"
+      ]
+    },
+    {
+      "id": "5b55c9a1-dd7f-45cb-8c30-3f08cf6048cf",
+      "name": "ＦＭカオン",
+      "country": "Japan",
+      "city": "神奈川県",
+      "stream": "https://mtist.as.smartstream.ne.jp/30057/livestream/playlist.m3u8",
+      "tags": [
+        "84.2",
+        "海老名"
+      ]
+    },
+    {
+      "id": "cd6300b8-7446-45e8-acac-dc97a2d11d5b",
+      "name": "FMぎのわん",
+      "country": "Japan",
+      "city": "沖縄県",
+      "stream": "https://mtist.as.smartstream.ne.jp/30093/livestream/playlist.m3u8",
+      "tags": [
+        "79.7",
+        "宜野湾市"
+      ]
+    },
+    {
+      "id": "ec554185-b0f8-4a45-9572-ee90bbf34622",
+      "name": "FMたちかわ",
+      "country": "Japan",
+      "city": "東京都",
+      "stream": "https://mtist.as.smartstream.ne.jp/30033/livestream/playlist.m3u8",
+      "tags": [
+        "84.4",
+        "立川"
+      ]
+    },
+    {
+      "id": "cb8b1a74-bbb9-4185-bf83-d4eb739f6a1b",
+      "name": "FMたんご",
+      "country": "Japan",
+      "city": "京都府",
+      "stream": "https://mtist.as.smartstream.ne.jp/30073/livestream/playlist.m3u8",
+      "tags": [
+        "79.4",
+        "京丹後市"
+      ]
+    },
+    {
+      "id": "151f8c13-0171-449f-a074-e4ddff23f954",
+      "name": "FMとよみ",
+      "country": "Japan",
+      "city": "沖縄県",
+      "stream": "https://mtist.as.smartstream.ne.jp/30083/livestream/playlist.m3u8",
+      "tags": [
+        "83.2",
+        "豊見城市"
+      ]
+    },
+    {
+      "id": "505fcd85-39b4-4336-b8d0-7afe103648b5",
+      "name": "FMのべおか",
+      "country": "Japan",
+      "city": "宮崎県",
+      "stream": "https://mtist.as.smartstream.ne.jp/30088/livestream/playlist.m3u8",
+      "tags": [
+        "88.6",
+        "延岡市"
+      ]
+    },
+    {
+      "id": "fb7bfe0f-fc64-4c67-a1ce-83ffde1f96f3",
+      "name": "FMはまなす",
+      "country": "Japan",
+      "city": "",
+      "stream": "http://mtist.as.smartstream.ne.jp/30004/livestream/playlist.m3u8",
+      "tags": [
+        ""
+      ]
+    },
+    {
+      "id": "b3b6aaa8-b8a7-4fe6-a44f-433727ee9aec",
+      "name": "FMぱるるん",
+      "country": "Japan",
+      "city": "茨城県",
+      "stream": "https://mtist.as.smartstream.ne.jp/30022/livestream/playlist.m3u8",
+      "tags": [
+        "76.2",
+        "水戸"
+      ]
+    },
+    {
+      "id": "c5839f19-b2e5-4597-aa25-e32acf0db71f",
+      "name": "FMひたち",
+      "country": "Japan",
+      "city": "茨城県",
+      "stream": "https://mtist.as.smartstream.ne.jp/30023/livestream/playlist.m3u8",
+      "tags": [
+        "82.2",
+        "日立"
+      ]
+    },
+    {
+      "id": "fa1af3ed-4a86-4d7a-bac6-3379574ea5ea",
+      "name": "FMふっかちゃん",
+      "country": "Japan",
+      "city": "埼玉県",
+      "stream": "https://mtist.as.smartstream.ne.jp/30047/livestream/playlist.m3u8",
+      "tags": [
+        "88.5",
+        "深谷"
+      ]
+    },
+    {
+      "id": "3a578ed9-ca5d-4e95-8519-19ee16674dbc",
+      "name": "FMメイプル",
+      "country": "Japan",
+      "city": "北海道",
+      "stream": "https://mtist.as.smartstream.ne.jp/30015/livestream/playlist.m3u8",
+      "tags": [
+        ""
+      ]
+    },
+    {
+      "id": "b8c2e483-706b-475c-a9a8-d92bc7d51cd3",
+      "name": "FMやんばる",
+      "country": "Japan",
+      "city": "沖縄県",
+      "stream": "https://mtist.as.smartstream.ne.jp/30095/livestream/playlist.m3u8",
+      "tags": [
+        "87.7",
+        "名護市"
+      ]
+    },
+    {
+      "id": "1c7e511c-9215-443d-ae65-6bfeac259811",
+      "name": "FMゆーとぴあ",
+      "country": "Japan",
+      "city": "秋田県",
+      "stream": "https://mtist.as.smartstream.ne.jp/30030/livestream/playlist.m3u8",
+      "tags": [
+        "76.3",
+        "湯沢"
+      ]
+    },
+    {
+      "id": "18da9cc0-210c-41ab-b7ba-e74cb02450a3",
+      "name": "FMりべーる",
+      "country": "Japan",
+      "city": "",
+      "stream": "http://mtist.as.smartstream.ne.jp/30074/livestream/playlist.m3u8",
+      "tags": [
+        ""
+      ]
+    },
+    {
+      "id": "f4f69bbd-b8cd-4098-ad46-a3d501bf354c",
+      "name": "FMわたらせ",
+      "country": "Japan",
+      "city": "",
+      "stream": "https://mtist.as.smartstream.ne.jp/30048/livestream/playlist.m3u8",
+      "tags": [
+        ""
+      ]
+    },
+    {
+      "id": "fad42bb6-2865-4854-94a7-96152e881800",
+      "name": "FM世田谷",
+      "country": "Japan",
+      "city": "tokyo",
+      "stream": "https://fmsetagaya834.out.airtime.pro/fmsetagaya834_a",
+      "tags": [
+        "83.4",
+        "full service",
+        "music"
+      ]
+    },
+    {
+      "id": "c4796463-de02-4344-a9d1-21f3d0508cc6",
+      "name": "FM那覇 (FM Naha)",
+      "country": "Japan",
+      "city": "Okinawa",
+      "stream": "https://mtist.as.smartstream.ne.jp/30068/livestream/chunklist.m3u8",
+      "tags": [
+        ""
+      ]
+    },
+    {
+      "id": "5a2cbfe7-0518-44e9-aca6-0fd41e466ff0",
+      "name": "Fred Film Radio(日本語)",
+      "country": "Japan",
+      "city": "Tokyo",
+      "stream": "https://s10.webradio-hosting.com/proxy/fredradiojp/stream",
+      "tags": [
+        "culture",
+        "film",
+        "movie"
+      ]
+    },
+    {
+      "id": "54732c01-db87-4aa2-b313-22fd5fa7eee9",
+      "name": "Free FM 80 Tokyo",
+      "country": "Japan",
+      "city": "tokyo",
+      "stream": "https://freefm80.radioca.st/",
+      "tags": [
+        "#80s",
+        "#freefm",
+        "#freefm80s"
+      ]
+    },
+    {
+      "id": "b641d7ab-4548-426f-92ba-c0b65bff204d",
+      "name": "Free FM Tokyo",
+      "country": "Japan",
+      "city": "tokyo",
+      "stream": "https://rocafmadrid.radioca.st/stream",
+      "tags": [
+        "1980s",
+        "2000s",
+        "80's",
+        "80s rock",
+        "90's",
+        "rock"
+      ]
+    },
+    {
+      "id": "af566e6b-3d2b-4b96-92ca-a9cb183e6fd8",
+      "name": "Free FM Tokyo",
+      "country": "Japan",
+      "city": "Tokyo",
+      "stream": "https://rocafmadrid.radioca.st/",
+      "tags": [
+        "free fm",
+        "free japan music",
+        "musica",
+        "tokyo"
+      ]
+    },
+    {
+      "id": "651eb704-b106-4f2a-9344-59b37dcd61f2",
+      "name": "Friends Forever 128kbps MP3",
+      "country": "Japan",
+      "city": "",
+      "stream": "https://s5.radio.co/s6140c7241/listen",
+      "tags": [
+        "j-pop",
+        "j-rock",
+        "jpop",
+        "jrock",
+        "shibuya kei"
+      ]
+    },
+    {
+      "id": "2d86f125-6674-42d4-a450-b4941e784e59",
+      "name": "Friends Forever 64kbps AAC",
+      "country": "Japan",
+      "city": "",
+      "stream": "https://s5.radio.co/s6140c7241/low",
+      "tags": [
+        "j-pop",
+        "j-rock",
+        "jpop",
+        "jrock"
+      ]
+    },
+    {
+      "id": "248a7684-7e28-4912-9812-efefc2bba2e1",
+      "name": "Gensokyo Radio",
+      "country": "Japan",
+      "city": "",
+      "stream": "https://stream.gensokyoradio.net/3",
+      "tags": [
+        "anime",
+        "touhou"
+      ]
+    },
+    {
+      "id": "e0763775-fdb9-4f6d-b88e-057165cb283c",
+      "name": "Gensokyo Radio (OGG)",
+      "country": "Japan",
+      "city": "",
+      "stream": "https://stream.gensokyoradio.net/2",
+      "tags": [
+        ""
+      ]
+    },
+    {
+      "id": "e219fec2-ee95-4c12-86fb-34142143f562",
+      "name": "Gensokyo Radio (Original)",
+      "country": "Japan",
+      "city": "",
+      "stream": "https://stream.gensokyoradio.net/1",
+      "tags": [
+        ""
+      ]
+    },
+    {
+      "id": "fdffc27f-a096-4be8-b3bf-2c51a943a1d1",
+      "name": "Gotanno FM 89.2",
+      "country": "Japan",
+      "city": "Tokyo",
+      "stream": "https://radio.gotanno.love/;",
+      "tags": [
+        "indie pop",
+        "jpop"
+      ]
+    },
+    {
+      "id": "09983f06-279c-497a-8e96-8e1057fa094a",
+      "name": "Hitsujikai Radio",
+      "country": "Japan",
+      "city": "",
+      "stream": "http://streaming.radio.co/se4a8e6a93/listen",
+      "tags": [
+        ""
+      ]
+    },
+    {
+      "id": "a36cb1a5-f9b5-4739-a86a-987d256b7d0e",
+      "name": "J-Club Club Bandstand",
+      "country": "Japan",
+      "city": "",
+      "stream": "https://cast1.torontocast.com:2060/;.mp3",
+      "tags": [
+        "1930s",
+        "1940s",
+        "big band",
+        "jazz",
+        "swing"
+      ]
+    },
+    {
+      "id": "bc33ea37-3935-41a5-bf9f-788496ef6959",
+      "name": "J-Club Powerplay HipHop",
+      "country": "Japan",
+      "city": "",
+      "stream": "https://kathy.torontocast.com:3350/;",
+      "tags": [
+        ""
+      ]
+    },
+    {
+      "id": "53e7d317-c9e8-4054-87a4-2e21893e80cc",
+      "name": "J-Club Powerplay HipHop(Asia DREAM Radio)",
+      "country": "Japan",
+      "city": "",
+      "stream": "https://kathy.torontocast.com:3350/;?shoutcast",
+      "tags": [
+        "pop"
+      ]
+    },
+    {
+      "id": "3eacb8df-5cc0-4c6b-9a6f-084eeadb55c5",
+      "name": "J-Pop Powerplay",
+      "country": "Japan",
+      "city": "",
+      "stream": "https://kathy.torontocast.com:3560/;",
+      "tags": [
+        ""
+      ]
+    },
+    {
+      "id": "cf0ab710-020b-4e3f-99af-2bf059466d36",
+      "name": "J-POP Powerplay",
+      "country": "Japan",
+      "city": "",
+      "stream": "https://kathy.torontocast.com:3560/",
+      "tags": [
+        "pop"
+      ]
+    },
+    {
+      "id": "3dc4d4af-a0fd-4d0d-b3a0-723668b68d24",
+      "name": "J-Pop Powerplay Kawaii",
+      "country": "Japan",
+      "city": "",
+      "stream": "https://kathy.torontocast.com:3060/;",
+      "tags": [
+        ""
+      ]
+    },
+    {
+      "id": "ecbcdd6f-ac5f-408f-9d9b-cc979e5344c4",
+      "name": "J-Pop Powerplay Kawaii(asia dream radio)",
+      "country": "Japan",
+      "city": "",
+      "stream": "https://kathy.torontocast.com:3060/;?shoutcast",
+      "tags": [
+        "music",
+        "pop"
+      ]
+    },
+    {
+      "id": "ce03f456-47f6-447f-8834-19cf0b808fc8",
+      "name": "J-Pop Sakura",
+      "country": "Japan",
+      "city": "",
+      "stream": "http://quincy.torontocast.com:2070/stream.mp3",
+      "tags": [
+        "j-pop",
+        "japanese",
+        "jpop",
+        "oldies"
+      ]
+    },
+    {
+      "id": "f72771a3-cf3a-4cc5-af91-2493ca31c54d",
+      "name": "J-Pop Sakura (asia DREAM radio)",
+      "country": "Japan",
+      "city": "",
+      "stream": "https://quincy.torontocast.com:2070/stream.mp3",
+      "tags": [
+        "j-pop",
+        "japanese",
+        "jpop",
+        "oldies"
+      ]
+    },
+    {
+      "id": "12ac30d1-1900-4edc-baef-7c027232ee64",
+      "name": "J-Rock PowerPlay",
+      "country": "Japan",
+      "city": "",
+      "stream": "https://kathy.torontocast.com:3340/stream",
+      "tags": [
+        ""
+      ]
+    },
+    {
+      "id": "51f0066d-6de7-40b5-83a0-f264727f30a4",
+      "name": "J-Rock Powerplay(Asia DREAM Radio)",
+      "country": "Japan",
+      "city": "",
+      "stream": "https://kathy.torontocast.com:3340/;?shoutcast",
+      "tags": [
+        "music",
+        "pop"
+      ]
+    },
+    {
+      "id": "32d5e5ac-e196-4451-9193-bd41a7961556",
+      "name": "J1 Gold (HTTP)",
+      "country": "Japan",
+      "city": "",
+      "stream": "http://jenny.torontocast.com:8062/",
+      "tags": [
+        "jpop"
+      ]
+    },
+    {
+      "id": "090ec5aa-54d0-4410-8442-82c5236c57b8",
+      "name": "J1 HITS",
+      "country": "Japan",
+      "city": "",
+      "stream": "https://jenny.torontocast.com:2000/stream/J1HITS?_=538100",
+      "tags": [
+        ""
+      ]
+    },
+    {
+      "id": "5a4eb5bc-7fbd-43fb-a6a4-cc4517ce6ac4",
+      "name": "J1 HITS",
+      "country": "Japan",
+      "city": "tokyo",
+      "stream": "https://jenny.torontocast.com:2000/stream/J1HITS?_=184325",
+      "tags": [
+        ""
+      ]
+    },
+    {
+      "id": "3c5dc353-b1ce-43be-a361-ae555535a2b0",
+      "name": "J1 Hits (HTTP)",
+      "country": "Japan",
+      "city": "",
+      "stream": "http://jenny.torontocast.com:8056/",
+      "tags": [
+        ""
+      ]
+    },
+    {
+      "id": "e0f2f4cb-d4c3-48ee-8668-333329e158e0",
+      "name": "Japan Hits - asia DREAM radio",
+      "country": "Japan",
+      "city": "",
+      "stream": "http://quincy.torontocast.com:2020/stream.mp3",
+      "tags": [
+        "j-pop",
+        "japanese",
+        "japanese idols",
+        "jpop"
+      ]
+    },
+    {
+      "id": "e4f7dac4-db05-446d-9282-d79a56ce7327",
+      "name": "Jazz Sakura",
+      "country": "Japan",
+      "city": "",
+      "stream": "https://kathy.torontocast.com:3330/;",
+      "tags": [
+        ""
+      ]
+    },
+    {
+      "id": "9766d47a-68a3-4a30-8aec-c026f1ec6020",
+      "name": "Jazz Sakura (asia dream radio)",
+      "country": "Japan",
+      "city": "",
+      "stream": "http://kathy.torontocast.com:3330/stream/1/?esPlayer&cb=82181.mp3",
+      "tags": [
+        "japanese",
+        "japanese music",
+        "jazz"
+      ]
+    },
+    {
+      "id": "f7a003ad-1795-4eec-842d-b8d2396b3ce9",
+      "name": "JPHiP Radio",
+      "country": "Japan",
+      "city": "",
+      "stream": "http://radio.jphip.com:8800/",
+      "tags": [
+        ""
+      ]
+    },
+    {
+      "id": "4321bd6c-19e8-4f5e-ae57-bf7e62416b4b",
+      "name": "JPopsuki Radio",
+      "country": "Japan",
+      "city": "",
+      "stream": "http://65.21.170.149:8000/stream",
+      "tags": [
+        ""
+      ]
+    },
+    {
+      "id": "07d14a05-8de1-4cd1-b218-9448141364bf",
+      "name": "KOCOラジ",
+      "country": "Japan",
+      "city": "福島県",
+      "stream": "https://mtist.as.smartstream.ne.jp/30020/livestream/playlist.m3u8",
+      "tags": [
+        "79.1",
+        "郡山"
+      ]
+    },
+    {
+      "id": "e698b1df-bd9c-4084-9c21-22a452b27664",
+      "name": "Listen.moe J-Pop (MP3)",
+      "country": "Japan",
+      "city": "",
+      "stream": "https://listen.moe/fallback",
+      "tags": [
+        ""
+      ]
+    },
+    {
+      "id": "e4e4d123-0616-11ea-afd6-52543be04c81",
+      "name": "Listen.Moe JPop Vorbis",
+      "country": "Japan",
+      "city": "",
+      "stream": "https://listen.moe/stream",
+      "tags": [
+        "jpop"
+      ]
+    },
+    {
+      "id": "9d4aa07b-f080-4d6c-87e8-15c080c72dd2",
+      "name": "Miku Radio",
+      "country": "Japan",
+      "city": "",
+      "stream": "https://miku.fm/listen/miku/mp3-320",
+      "tags": [
+        ""
+      ]
+    },
+    {
+      "id": "04d1eabe-f19d-11e8-a471-52543be04c81",
+      "name": "Moon Mission Recordings",
+      "country": "Japan",
+      "city": "",
+      "stream": "http://uk5.internet-radio.com:8306/",
+      "tags": [
+        "deep house",
+        "techno"
+      ]
+    },
+    {
+      "id": "d37f6140-a3c4-4b91-9d2c-801894a4c53d",
+      "name": "Moon Mission Recordings, Tokyo Deep and Electronic",
+      "country": "Japan",
+      "city": "",
+      "stream": "https://uk5.internet-radio.com/proxy/mmr?mp=/stream;",
+      "tags": [
+        ""
+      ]
+    },
+    {
+      "id": "8bf571a1-1926-4c31-aa81-80f0574d8d0b",
+      "name": "Neko-Network Radio: Anime/Japanese",
+      "country": "Japan",
+      "city": "",
+      "stream": "http://listen.nekonetwork.moe:8400/anime.mp3",
+      "tags": [
+        ""
+      ]
+    },
+    {
+      "id": "149b595b-9490-4cf9-9e25-8bc46806d75a",
+      "name": "NFRS Radio",
+      "country": "Japan",
+      "city": "Osaka",
+      "stream": "https://securestreams.autopo.st:2592/stream?t=1769818665235",
+      "tags": [
+        "country",
+        "dj sets",
+        "pop"
+      ]
+    },
+    {
+      "id": "d57ca8c1-613c-4df4-bc94-e16fbe2fad6c",
+      "name": "NHK-FM",
+      "country": "Japan",
+      "city": "",
+      "stream": "http://mnet.x10.mx/nhkfm.m3u8",
+      "tags": [
+        "classical",
+        "jpop"
+      ]
+    },
+    {
+      "id": "98d8f89b-4e05-481a-8665-6b3a411d6fa3",
+      "name": "Nightwave Plaza (HLS)",
+      "country": "Japan",
+      "city": "",
+      "stream": "http://radio.plaza.one/hls",
+      "tags": [
+        "future funk",
+        "vaporwave"
+      ]
+    },
+    {
+      "id": "661c6656-d27e-45dc-b60a-7f77e2c989a5",
+      "name": "Nightwave Plaza (Opus 64)",
+      "country": "Japan",
+      "city": "",
+      "stream": "http://radio.plaza.one/ogg_low",
+      "tags": [
+        "future funk",
+        "synthwave",
+        "vaporwave"
+      ]
+    },
+    {
+      "id": "4b0e9c63-3cec-4964-a3d7-de99decd023b",
+      "name": "Nightwave Plaza MP3 182",
+      "country": "Japan",
+      "city": "",
+      "stream": "http://radio.plaza.one/mp3",
+      "tags": [
+        ""
+      ]
+    },
+    {
+      "id": "9af1536b-1acd-11ea-a620-52543be04c81",
+      "name": "Nightwave Plaza OPUS 96",
+      "country": "Japan",
+      "city": "",
+      "stream": "http://radio.plaza.one/opus",
+      "tags": [
+        "aesthetic",
+        "chillwave",
+        "futurefunk",
+        "lofi",
+        "vaporwave"
+      ]
+    },
+    {
+      "id": "21fece77-9763-4223-8f01-358adbddeac7",
+      "name": "Nonstop Casiopea",
+      "country": "Japan",
+      "city": "",
+      "stream": "https://nonstopcasiopea.radioca.st/",
+      "tags": [
+        ""
+      ]
+    },
+    {
+      "id": "3ab8903d-117f-4f25-802e-d048dcdd0675",
+      "name": "OnlyHits Japan",
+      "country": "Japan",
+      "city": "",
+      "stream": "https://j.onlyhit.us/play",
+      "tags": [
+        ""
+      ]
+    },
+    {
+      "id": "3ddece15-fd94-44a1-bf9c-6f62107e3d9d",
+      "name": "Opening Radio",
+      "country": "Japan",
+      "city": "",
+      "stream": "http://stream.zeno.fm/tza2ayy47qruv",
+      "tags": [
+        ""
+      ]
+    },
+    {
+      "id": "0bca37e5-153c-40fa-a26f-b52d46523b72",
+      "name": "Otaku Music Radio",
+      "country": "Japan",
+      "city": "",
+      "stream": "https://kathy.torontocast.com:2880/;?type=http&nocache=1606748882",
+      "tags": [
+        ""
+      ]
+    },
+    {
+      "id": "dfaa1037-4c8b-445c-a230-fb96b812db99",
+      "name": "otohama Coastal Soundscape from The University of Tokyo International Coastal Research Center (Otsuchi, Iwate)",
+      "country": "Japan",
+      "city": "tokyo",
+      "stream": "http://mp3s.nc.u-tokyo.ac.jp/OTSUCHI_CyberForest.mp3",
+      "tags": [
+        "relax"
+      ]
+    },
+    {
+      "id": "1909f412-f4d4-4edd-9ea2-50a288183ba0",
+      "name": "Ottava",
+      "country": "Japan",
+      "city": "Tokyo",
+      "stream": "http://ottava2.out.airtime.pro:8000/ottava2_a",
+      "tags": [
+        "classical"
+      ]
+    },
+    {
+      "id": "2119387e-f76a-449f-b15d-315ba83c2dfe",
+      "name": "Patchwork Archive - VTuber Songs and Covers",
+      "country": "Japan",
+      "city": "",
+      "stream": "https://a4.asurahosting.com:6930/radio.mp3",
+      "tags": [
+        "anime",
+        "japan",
+        "japanese music",
+        "vtuber"
+      ]
+    },
+    {
+      "id": "0d926201-13b3-4e14-9348-68b7666be53d",
+      "name": "R/a/dio",
+      "country": "Japan",
+      "city": "",
+      "stream": "https://relay0.r-a-d.io/main.mp3",
+      "tags": [
+        ""
+      ]
+    },
+    {
+      "id": "a729546b-0dde-4de3-8d6e-3f5f4e4cc23a",
+      "name": "Radio Mix Kyoto FM87.0",
+      "country": "Japan",
+      "city": "京都府",
+      "stream": "https://mtist.as.smartstream.ne.jp/30071/livestream/playlist.m3u8",
+      "tags": [
+        "87.0",
+        "京都府"
+      ]
+    },
+    {
+      "id": "0347b46a-91c7-4fe3-943d-a9eb02cdd9b9",
+      "name": "Rainwave All",
+      "country": "Japan",
+      "city": "tokyo",
+      "stream": "https://relay.rainwave.cc/all.mp3?1:MF0d8GHw2d",
+      "tags": [
+        ""
+      ]
+    },
+    {
+      "id": "2396ce2c-9fde-4353-98a8-7e307daefddc",
+      "name": "Real Love Music - Radio Future Funk",
+      "country": "Japan",
+      "city": "",
+      "stream": "https://stream-152.zeno.fm/48533y95cnruv?zs=doyTUcjfTvCVtBOS3nlI8g",
+      "tags": [
+        ""
+      ]
+    },
+    {
+      "id": "8b49d036-7dc5-495a-b786-5961a72295c7",
+      "name": "REDS WAVE",
+      "country": "Japan",
+      "city": "埼玉県",
+      "stream": "https://mtist.as.smartstream.ne.jp/30008/livestream/playlist.m3u8",
+      "tags": [
+        "87.3",
+        "さいたま市"
+      ]
+    },
+    {
+      "id": "57cf528a-02be-4805-a510-6d05bb0ff996",
+      "name": "REPLAY NEWS - 日本語 5分ごとのニュースラジオ",
+      "country": "Japan",
+      "city": "Osaka",
+      "stream": "https://replaynewsja.ice.infomaniak.ch/replaynewsja-128.mp3",
+      "tags": [
+        "information",
+        "news"
+      ]
+    },
+    {
+      "id": "9f9cc220-3462-11e8-bb9b-52543be04c81",
+      "name": "Retro PC GAME MUSIC Streaming Radio",
+      "country": "Japan",
+      "city": "",
+      "stream": "http://gyusyabu.ddo.jp:8000/",
+      "tags": [
+        "chiptune",
+        "retro games",
+        "soundtracks",
+        "video game"
+      ]
+    },
+    {
+      "id": "3948798a-51c0-4d38-bb58-cafc2937c287",
+      "name": "Retro PC Game Music Streaming Radio for Gyusyabu",
+      "country": "Japan",
+      "city": "",
+      "stream": "http://gyusyabu.ddo.jp:8000/;stream.mp3",
+      "tags": [
+        ""
+      ]
+    },
+    {
+      "id": "9f66a5b4-66c0-4389-88f3-f8285ad4239a",
+      "name": "Shonan Beach FM 78.9",
+      "country": "Japan",
+      "city": "Kanagawa",
+      "stream": "http://shonanbeachfm.out.airtime.pro:8000/shonanbeachfm_a",
+      "tags": [
+        "classic jazz",
+        "hawaiian music",
+        "pop",
+        "smooth jazz"
+      ]
+    },
+    {
+      "id": "1bca74bf-82e7-4631-87b6-1e96be3bae43",
+      "name": "SOUND UP STATION NFRS",
+      "country": "Japan",
+      "city": "Osaka",
+      "stream": "https://stream2.rcast.net/70945",
+      "tags": [
+        "indie",
+        "jpop"
+      ]
+    },
+    {
+      "id": "da391117-93a3-4f25-8dc3-c8aa604dde6a",
+      "name": "Súper Tokio Radio",
+      "country": "Japan",
+      "city": "",
+      "stream": "https://streamer.radio.co/s83eb8ff39/listen",
+      "tags": [
+        "international"
+      ]
+    },
+    {
+      "id": "907271e6-0c55-4342-b344-468206e831f2",
+      "name": "tilderadio",
+      "country": "Japan",
+      "city": "",
+      "stream": "https://tilderadio.org/listen",
+      "tags": [
+        "internacional",
+        "music",
+        "tilde",
+        "tildeverse"
+      ]
+    },
+    {
+      "id": "8354cf37-d0ec-4569-b844-ac7f398e1438",
+      "name": "Tokyo Star Radio",
+      "country": "Japan",
+      "city": "",
+      "stream": "http://mtist.as.smartstream.ne.jp/30081/livestream/playlist.m3u8",
+      "tags": [
+        ""
+      ]
+    },
+    {
+      "id": "d609ee78-0936-468c-b52a-c72a11bbce5b",
+      "name": "Tokyo Star Radio",
+      "country": "Japan",
+      "city": "https://775fm.com/",
+      "stream": "https://mtist.as.smartstream.ne.jp/30081/livestream/playlist.m3u8",
+      "tags": [
+        ""
+      ]
+    },
+    {
+      "id": "6d1d23d9-50d9-412d-83e2-d4c087d121d8",
+      "name": "Vaporwave",
+      "country": "Japan",
+      "city": "United States",
+      "stream": "http://radio.plaza.one/ogg",
+      "tags": [
+        "vaporwave"
+      ]
+    },
+    {
+      "id": "045fd26e-5be3-4ef8-9c38-651ebceef4d1",
+      "name": "wi-radio",
+      "country": "Japan",
+      "city": "北海道",
+      "stream": "https://mtist.as.smartstream.ne.jp/30087/livestream/playlist.m3u8",
+      "tags": [
+        "77.6"
+      ]
+    },
+    {
+      "id": "72f14258-8fb1-40d3-a161-426e2832a947",
+      "name": "WREP",
+      "country": "Japan",
+      "city": "",
+      "stream": "http://c13.radioboss.fm:8200/stream",
+      "tags": [
+        "hip-hop",
+        "hiphop",
+        "rap",
+        "trap"
+      ]
+    },
+    {
+      "id": "987dffac-52d9-4ca7-98c9-e5ac1088e1df",
+      "name": "WVVV V96.9",
+      "country": "Japan",
+      "city": "",
+      "stream": "https://ice5.securenetsystems.net/WVVVFM",
+      "tags": [
+        "pop"
+      ]
+    },
+    {
+      "id": "f96b2ae2-fe8c-4248-a92d-3c86ebc8f50c",
+      "name": "yamanakako from Fuji Iyashinomori Woodland Study Center, The University of Tokyo Forests (Yamanakako, Yamanashi)",
+      "country": "Japan",
+      "city": "tokyo",
+      "stream": "http://mp3s.nc.u-tokyo.ac.jp/Fuji_CyberForest.mp3",
+      "tags": [
+        "relax"
+      ]
+    },
+    {
+      "id": "07d44324-869d-4479-8da6-dfaa2aa0da92",
+      "name": "あまみエフエム",
+      "country": "Japan",
+      "city": "鹿児島県",
+      "stream": "https://mtist.as.smartstream.ne.jp/30054/livestream/playlist.m3u8",
+      "tags": [
+        "77.7",
+        "奄美市"
+      ]
+    },
+    {
+      "id": "14f39985-e279-4533-9a41-69e3bf6c514b",
+      "name": "エフエムEGAO",
+      "country": "Japan",
+      "city": "愛知県",
+      "stream": "https://mtist.as.smartstream.ne.jp/30040/livestream/playlist.m3u8",
+      "tags": [
+        "76.3",
+        "岡崎"
+      ]
+    },
+    {
+      "id": "ddfd0cda-f782-419b-86d0-6d2a12c5fc78",
+      "name": "エフエムたつごう",
+      "country": "Japan",
+      "city": "鹿児島県",
+      "stream": "https://mtist.as.smartstream.ne.jp/30072/livestream/playlist.m3u8",
+      "tags": [
+        "78.9",
+        "大島郡"
+      ]
+    },
+    {
+      "id": "18b30bd4-a3c2-43d3-b177-d6be5ac4209f",
+      "name": "エフエム世田谷",
+      "country": "Japan",
+      "city": "",
+      "stream": "http://mtist.as.smartstream.ne.jp/30027/livestream/playlist.m3u8",
+      "tags": [
+        ""
+      ]
+    },
+    {
+      "id": "1b604853-4fac-434c-9566-935e2796638f",
+      "name": "エフエム椿台",
+      "country": "Japan",
+      "city": "秋田県",
+      "stream": "https://mtist.as.smartstream.ne.jp/30014/livestream/playlist.m3u8",
+      "tags": [
+        "79.6",
+        "秋田"
+      ]
+    },
+    {
+      "id": "d870c205-e869-44aa-a9b9-f548fc2f1d4b",
+      "name": "カシオペアFM",
+      "country": "Japan",
+      "city": "岩手県",
+      "stream": "https://mtist.as.smartstream.ne.jp/30050/livestream/playlist.m3u8",
+      "tags": [
+        "77.9",
+        "二戸"
+      ]
+    },
+    {
+      "id": "0f0b233d-2b81-49e9-b9fd-51cdbd645210",
+      "name": "ぎのわんシティFM",
+      "country": "Japan",
+      "city": "沖縄県",
+      "stream": "https://mtist.as.smartstream.ne.jp/30098/livestream/playlist.m3u8",
+      "tags": [
+        "81.8",
+        "宜野湾市"
+      ]
+    },
+    {
+      "id": "e95449cf-fe53-4b0c-9a96-eb2396877a64",
+      "name": "チョクラジ",
+      "country": "Japan",
+      "city": "福岡県",
+      "stream": "https://mtist.as.smartstream.ne.jp/30085/livestream/playlist.m3u8",
+      "tags": [
+        "86.1",
+        "直方市"
+      ]
+    },
+    {
+      "id": "36a949f8-b550-4b68-adef-ac5d9b1d8b27",
+      "name": "なとらじ801",
+      "country": "Japan",
+      "city": "宮城県",
+      "stream": "https://mtist.as.smartstream.ne.jp/30092/livestream/playlist.m3u8",
+      "tags": [
+        "80.1",
+        "名取"
+      ]
+    },
+    {
+      "id": "0f9cf618-ac22-42b8-8604-57a7f2b1cf17",
+      "name": "ハローハッピー・こしがやエフエム",
+      "country": "Japan",
+      "city": "埼玉県",
+      "stream": "https://mtist.as.smartstream.ne.jp/30096/livestream/playlist.m3u8",
+      "tags": [
+        "86.8",
+        "越谷"
+      ]
+    },
+    {
+      "id": "925ed0bd-d0e9-4e10-a5cb-015cde92d923",
+      "name": "フラワーラジオ",
+      "country": "Japan",
+      "city": "埼玉県",
+      "stream": "https://mtist.as.smartstream.ne.jp/30002/livestream/playlist.m3u8",
+      "tags": [
+        "76.7",
+        "鴻巣"
+      ]
+    },
+    {
+      "id": "3a475914-e17d-45a5-b2c2-cfad18ea4ee5",
+      "name": "まえばしCITYエフエム",
+      "country": "Japan",
+      "city": "群馬県",
+      "stream": "https://mtist.as.smartstream.ne.jp/30043/livestream/playlist.m3u8",
+      "tags": [
+        "84.5",
+        "前橋"
+      ]
+    },
+    {
+      "id": "a5ac3058-2deb-411a-9f88-112fa02ca978",
+      "name": "みやこハーバーラジオ",
+      "country": "Japan",
+      "city": "岩手県",
+      "stream": "https://mtist.as.smartstream.ne.jp/30097/livestream/playlist.m3u8",
+      "tags": [
+        "82.6",
+        "宮古"
+      ]
+    },
+    {
+      "id": "69c7cb5b-df1d-47b6-93c3-964cf64c7ea7",
+      "name": "ラジオ・ミュー",
+      "country": "Japan",
+      "city": "富山県",
+      "stream": "https://mtist.as.smartstream.ne.jp/30006/livestream/playlist.m3u8",
+      "tags": [
+        "76.1",
+        "黒部市"
+      ]
+    },
+    {
+      "id": "db05622a-12af-4853-b83f-bdb06fb1ca95",
+      "name": "ラジオカロスサッポロ FM78.1",
+      "country": "Japan",
+      "city": "北海道",
+      "stream": "https://mtist.as.smartstream.ne.jp/30034/livestream/playlist.m3u8",
+      "tags": [
+        "コミュニティfm"
+      ]
+    },
+    {
+      "id": "2bd889fe-1a7b-4989-be0c-6ed795f0264f",
+      "name": "ラジオスイート",
+      "country": "Japan",
+      "city": "滋賀県",
+      "stream": "https://mtist.as.smartstream.ne.jp/30061/livestream/playlist.m3u8",
+      "tags": [
+        "81.5",
+        "東近江市"
+      ]
+    },
+    {
+      "id": "851e146e-242a-47ab-bd41-ceac2b064923",
+      "name": "ラジオ石巻",
+      "country": "Japan",
+      "city": "宮城県",
+      "stream": "https://mtist.as.smartstream.ne.jp/30037/livestream/playlist.m3u8",
+      "tags": [
+        "4",
+        "76",
+        "石巻"
+      ]
+    },
+    {
+      "id": "64630495-168b-4ea4-b3df-538b6a0937dd",
+      "name": "ラヂオもりおか FM76.9",
+      "country": "Japan",
+      "city": "岩手県",
+      "stream": "https://mtist.as.smartstream.ne.jp/30017/livestream/playlist.m3u8",
+      "tags": [
+        "76.9",
+        "盛岡"
+      ]
+    },
+    {
+      "id": "bcd2dfab-0797-4e3a-a478-fc61d54f4234",
+      "name": "ラヂオ気仙沼",
+      "country": "Japan",
+      "city": "宮城県",
+      "stream": "https://mtist.as.smartstream.ne.jp/30094/livestream/playlist.m3u8",
+      "tags": [
+        "77.5",
+        "気仙沼"
+      ]
+    },
+    {
+      "id": "304bea72-0af3-42fb-899c-58f9d2991324",
+      "name": "レインボータウンFM",
+      "country": "Japan",
+      "city": "東京都",
+      "stream": "https://mtist.as.smartstream.ne.jp/30036/livestream/playlist.m3u8",
+      "tags": [
+        "88.5",
+        "江東"
+      ]
+    },
+    {
+      "id": "f0d0887f-961d-4615-a679-27c1551cb4b0",
+      "name": "京都三条ラジオカフェ",
+      "country": "Japan",
+      "city": "京都",
+      "stream": "https://mtist.as.smartstream.ne.jp/30082/livestream/playlist.m3u8",
+      "tags": [
+        "79.7",
+        "京都市"
+      ]
+    },
+    {
+      "id": "df402746-9d27-4b53-8d07-ab4634ac8b66",
+      "name": "大富ラジオ",
+      "country": "Japan",
+      "city": "",
+      "stream": "https://stream.zeno.fm/oaxp6mswcqltv",
+      "tags": [
+        ""
+      ]
+    },
+    {
+      "id": "6ebf58e8-8732-4f94-a909-8e0acbdfd411",
+      "name": "敦賀FM",
+      "country": "Japan",
+      "city": "福井県",
+      "stream": "https://mtist.as.smartstream.ne.jp/30012/livestream/playlist.m3u8",
+      "tags": [
+        "77.9",
+        "敦賀市"
+      ]
+    },
+    {
+      "id": "ce287e36-5818-4b87-88bc-452f0f383923",
+      "name": "横手かまくらエフエム",
+      "country": "Japan",
+      "city": "秋田県",
+      "stream": "https://mtist.as.smartstream.ne.jp/30076/livestream/playlist.m3u8",
+      "tags": [
+        "77.4",
+        "横手"
+      ]
+    },
+    {
+      "id": "443a5e7e-4392-4930-bbed-10b9af54e32e",
+      "name": "羊飼いラジオ Hitsujikai Radio",
+      "country": "Japan",
+      "city": "Hokaido",
+      "stream": "https://streaming.radio.co/se4a8e6a93/listen",
+      "tags": [
+        "christian",
+        "classical",
+        "soft"
+      ]
+    },
+    {
+      "id": "603d37de-50aa-47f3-b8ad-10c72cff4282",
+      "name": "羊飼いラジオ(Hitsujikai Radio / Shepherd radio)",
+      "country": "Japan",
+      "city": "",
+      "stream": "https://streaming.radio.co/se4a8e6a93/low",
+      "tags": [
+        ""
+      ]
+    },
+    {
+      "id": "271d5018-2b16-49de-ab3f-df460337c0f8",
+      "name": "調布FM",
+      "country": "Japan",
+      "city": "東京都",
+      "stream": "https://mtist.as.smartstream.ne.jp/30039/livestream/playlist.m3u8",
+      "tags": [
+        "83.8",
+        "調布"
+      ]
+    },
+    {
+      "id": "82154c4f-9c3b-4577-9ae1-9837687a6e16",
+      "name": "超！A&G+",
+      "country": "Japan",
+      "city": "",
+      "stream": "http://www.uniqueradio.jp/agplayerf/hls/Active.m3u8?",
+      "tags": [
+        "anime"
+      ]
+    },
+    {
+      "id": "8200660c-59e7-44f2-bb86-e30fc313bc5f",
+      "name": "鹿角きりたんぽFM",
+      "country": "Japan",
+      "city": "秋田県",
+      "stream": "https://mtist.as.smartstream.ne.jp/30089/livestream/playlist.m3u8",
+      "tags": [
+        "79.1",
+        "鹿角"
+      ]
+    },
+    {
+      "id": "5f1fe16a-7e0d-4ab3-85b8-9a419be5de08",
+      "name": "BBN Japanese",
+      "country": "Japan",
+      "city": "North Carolina",
+      "stream": "https://streams.radiomast.io/a622d414-52a6-4426-b3b8-ed2a4dbb704b",
+      "tags": [
+        "online christian radio"
+      ]
+    },
+    {
+      "id": "04be314d-67af-46db-8b2c-33e6fcce570a",
+      "name": "J-Rock (Japanese Rock Music)",
+      "country": "Japan",
+      "city": "",
+      "stream": "http://79.111.119.111:8000/jrock",
+      "tags": [
+        "jrock"
+      ]
+    },
+    {
+      "id": "0cd0e71c-a4b1-11e9-a787-52543be04c81",
+      "name": "Japannext Radio",
+      "country": "Japan",
+      "city": "",
+      "stream": "http://192.99.17.104:8803/stream",
+      "tags": [
+        ""
+      ]
+    },
+    {
+      "id": "a90a6616-18e2-40eb-85ba-3698ed7b6946",
+      "name": "Japanradio e.V.",
+      "country": "Japan",
+      "city": "",
+      "stream": "http://stream.japanradio.de/live",
+      "tags": [
+        ""
+      ]
+    },
+    {
+      "id": "4579447c-baff-4d5b-84ee-26c8acdf8498",
+      "name": "Japanradio.de",
+      "country": "Japan",
+      "city": "",
+      "stream": "https://stream.japanradio.de/live",
+      "tags": [
+        "anime",
+        "eurobeat",
+        "jpop",
+        "jrock",
+        "metal",
+        "video game music",
+        "vocaloid"
+      ]
+    }
+  ]
+}
