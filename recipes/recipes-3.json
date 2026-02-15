@@ -1,0 +1,537 @@
+[
+  {
+    "id": "et-doro-wat",
+    "name": "Doro Wat - Ethiopian Spicy Chicken Stew",
+    "country": "Ethiopia",
+    "region": "East Africa",
+    "time": 90,
+    "servings": "4 servings",
+    "category": "Street food",
+    "difficulty": "medium",
+    "tags": [
+      "Ethiopia",
+      "chicken",
+      "stew",
+      "spicy"
+    ],
+    "ingredients": [
+      "Chicken pieces",
+      "Onions, finely chopped",
+      "Berbere spice mix",
+      "Tomato paste",
+      "Boiled eggs",
+      "Oil, salt"
+    ],
+    "steps": [
+      "Cook onions slowly in oil until very soft.",
+      "Add berbere and tomato paste, cook a few minutes.",
+      "Add chicken pieces and coat in sauce.",
+      "Add water and simmer until meat is tender.",
+      "Serve with boiled eggs and flatbread."
+    ],
+    "note": "Signature Ethiopian dish usually eaten with injera."
+  },
+  {
+    "id": "ke-nyama-choma",
+    "name": "Nyama Choma - Kenyan Grilled Meat",
+    "country": "Kenya",
+    "region": "East Africa",
+    "time": 60,
+    "servings": "4 servings",
+    "category": "Street food",
+    "difficulty": "easy",
+    "tags": [
+      "Kenya",
+      "grill",
+      "meat",
+      "street food"
+    ],
+    "ingredients": [
+      "Beef or goat pieces",
+      "Lemon juice",
+      "Garlic, ginger",
+      "Salt and pepper",
+      "Oil"
+    ],
+    "steps": [
+      "Marinate meat with lemon, garlic, ginger, salt and pepper.",
+      "Grill over charcoal or in oven until cooked.",
+      "Serve with simple salad and ugali or bread."
+    ],
+    "note": "Very popular Kenyan barbecue dish."
+  },
+  {
+    "id": "sn-thieboudienne",
+    "name": "Thieboudienne - Senegalese Fish and Rice",
+    "country": "Senegal",
+    "region": "West Africa",
+    "time": 90,
+    "servings": "4-5 servings",
+    "category": "Street food",
+    "difficulty": "medium",
+    "tags": [
+      "Senegal",
+      "fish",
+      "rice",
+      "traditional"
+    ],
+    "ingredients": [
+      "Firm fish pieces",
+      "Rice",
+      "Tomatoes and tomato paste",
+      "Carrots, cabbage and other vegetables",
+      "Garlic and chili",
+      "Oil, salt"
+    ],
+    "steps": [
+      "Prepare a tomato-based sauce with vegetables and spices.",
+      "Cook fish gently in the sauce.",
+      "Remove fish and cook rice in the same broth.",
+      "Serve rice on a large platter with vegetables and fish on top."
+    ],
+    "note": "Often considered the national dish of Senegal."
+  },
+  {
+    "id": "sa-kabsa",
+    "name": "Kabsa - Saudi Spiced Rice with Meat",
+    "country": "Saudi Arabia",
+    "region": "Middle East",
+    "time": 80,
+    "servings": "4-5 servings",
+    "category": "Street food",
+    "difficulty": "medium",
+    "tags": [
+      "Saudi Arabia",
+      "rice",
+      "spiced",
+      "family"
+    ],
+    "ingredients": [
+      "Chicken or lamb pieces",
+      "Rice",
+      "Onion and garlic",
+      "Tomato paste",
+      "Spices (cardamom, cinnamon, cloves)",
+      "Oil, salt"
+    ],
+    "steps": [
+      "Brown meat with onions and spices.",
+      "Add tomato paste and water, simmer until meat is almost tender.",
+      "Add rice to the broth.",
+      "Cook until rice absorbs liquid and meat is fully cooked.",
+      "Serve on a large platter."
+    ],
+    "note": "Festive rice dish served across the Arabian Peninsula."
+  },
+  {
+    "id": "jo-mansaf",
+    "name": "Mansaf - Jordanian Lamb with Yogurt Sauce",
+    "country": "Jordan",
+    "region": "Middle East",
+    "time": 120,
+    "servings": "4-5 servings",
+    "category": "Street food",
+    "difficulty": "hard",
+    "tags": [
+      "Jordan",
+      "lamb",
+      "yogurt",
+      "rice"
+    ],
+    "ingredients": [
+      "Lamb pieces",
+      "Jameed or dried yogurt or thick yogurt sauce",
+      "Rice",
+      "Almonds or pine nuts",
+      "Salt and spices"
+    ],
+    "steps": [
+      "Cook lamb in water with salt and spices until tender.",
+      "Prepare yogurt sauce and mix some broth with it.",
+      "Cook rice separately.",
+      "Serve rice on large tray, top with lamb and yogurt sauce.",
+      "Garnish with roasted nuts."
+    ],
+    "note": "National dish of Jordan, served at big gatherings."
+  },
+  {
+    "id": "ph-chicken-adobo",
+    "name": "Chicken Adobo - Filipino Vinegar Soy Stew",
+    "country": "Philippines",
+    "region": "Asia",
+    "time": 45,
+    "servings": "3-4 servings",
+    "category": "Street food",
+    "difficulty": "easy",
+    "tags": [
+      "Philippines",
+      "chicken",
+      "stew",
+      "soy"
+    ],
+    "ingredients": [
+      "Chicken pieces",
+      "Soy sauce",
+      "Vinegar",
+      "Garlic",
+      "Bay leaves and peppercorns",
+      "Oil"
+    ],
+    "steps": [
+      "Marinate chicken in soy sauce, vinegar, garlic and spices.",
+      "Brown chicken in a pot.",
+      "Add marinade and a little water.",
+      "Simmer until chicken is tender and sauce reduced.",
+      "Serve with white rice."
+    ],
+    "note": "Probably the most famous dish of the Philippines."
+  },
+  {
+    "id": "my-nasi-lemak",
+    "name": "Nasi Lemak - Malaysian Coconut Rice Plate",
+    "country": "Malaysia",
+    "region": "Asia",
+    "time": 60,
+    "servings": "3-4 servings",
+    "category": "Street food",
+    "difficulty": "medium",
+    "tags": [
+      "Malaysia",
+      "rice",
+      "coconut",
+      "breakfast"
+    ],
+    "ingredients": [
+      "Rice",
+      "Coconut milk",
+      "Pandan leaf (optional)",
+      "Boiled eggs",
+      "Fried anchovies",
+      "Peanuts",
+      "Cucumber slices",
+      "Spicy sambal sauce"
+    ],
+    "steps": [
+      "Cook rice with coconut milk, water, salt and pandan leaf.",
+      "Arrange rice on plate.",
+      "Serve with boiled egg, fried anchovies, peanuts and cucumber.",
+      "Add spicy sambal on the side."
+    ],
+    "note": "Considered the national dish of Malaysia, often eaten for breakfast."
+  },
+  {
+    "id": "sg-chicken-rice",
+    "name": "Hainanese Chicken Rice - Singapore Classic",
+    "country": "Singapore",
+    "region": "Asia",
+    "time": 60,
+    "servings": "4 servings",
+    "category": "Street food",
+    "difficulty": "medium",
+    "tags": [
+      "Singapore",
+      "rice",
+      "chicken",
+      "street food"
+    ],
+    "ingredients": [
+      "1 whole chicken or chicken pieces",
+      "Ginger and garlic",
+      "Rice",
+      "Chicken broth",
+      "Soy sauce",
+      "Chili sauce"
+    ],
+    "steps": [
+      "Simmer chicken gently with ginger and garlic.",
+      "Cook rice using chicken broth and aromatics.",
+      "Slice chicken and drizzle with soy mix.",
+      "Serve with rice, broth and chili sauce."
+    ],
+    "note": "Singapore’s most iconic dish, simple and flavorful."
+  },
+  {
+    "id": "id-nasi-goreng",
+    "name": "Nasi Goreng - Indonesian Fried Rice",
+    "country": "Indonesia",
+    "region": "Asia",
+    "time": 25,
+    "servings": "2-3 servings",
+    "category": "Street food",
+    "difficulty": "easy",
+    "tags": [
+      "Indonesia",
+      "rice",
+      "fried",
+      "street food"
+    ],
+    "ingredients": [
+      "Cooked rice",
+      "Eggs",
+      "Garlic and onion",
+      "Soy sauce",
+      "Chili paste",
+      "Vegetables or chicken (optional)"
+    ],
+    "steps": [
+      "Fry garlic, onion and chili paste.",
+      "Add rice and soy sauce.",
+      "Add vegetables or chicken if desired.",
+      "Push aside and cook eggs, then mix everything."
+    ],
+    "note": "Indonesia’s national fried rice - smoky, fast and delicious."
+  },
+  {
+    "id": "th-pad-thai",
+    "name": "Pad Thai - Thai Stir-Fried Noodles",
+    "country": "Thailand",
+    "region": "Asia",
+    "time": 30,
+    "servings": "2 servings",
+    "category": "Street food",
+    "difficulty": "medium",
+    "tags": [
+      "Thailand",
+      "noodles",
+      "street food",
+      "quick"
+    ],
+    "ingredients": [
+      "Rice noodles",
+      "Eggs",
+      "Shrimp or chicken",
+      "Bean sprouts",
+      "Peanuts",
+      "Tamarind sauce",
+      "Soy sauce",
+      "Garlic"
+    ],
+    "steps": [
+      "Soak noodles in warm water.",
+      "Stir-fry garlic, egg and protein.",
+      "Add noodles and tamarind/soy mix.",
+      "Toss with bean sprouts and peanuts.",
+      "Serve hot with lime wedges."
+    ],
+    "note": "One of the world’s most famous Thai dishes."
+  },
+  {
+    "id": "vn-pho",
+    "name": "Pho - Vietnamese Noodle Soup",
+    "country": "Vietnam",
+    "region": "Asia",
+    "time": 90,
+    "servings": "4 bowls",
+    "category": "soup",
+    "difficulty": "medium",
+    "tags": [
+      "Vietnam",
+      "soup",
+      "noodles",
+      "herbs"
+    ],
+    "ingredients": [
+      "Beef bones or chicken bones",
+      "Rice noodles",
+      "Beef slices or chicken",
+      "Onion and ginger",
+      "Star anise, cinnamon, cloves",
+      "Fresh herbs"
+    ],
+    "steps": [
+      "Simmer bones with onion, ginger and spices.",
+      "Cook rice noodles separately.",
+      "Slice beef or chicken thin.",
+      "Assemble \"bowl\": noodles, meat, hot broth.",
+      "Garnish with herbs and lime."
+    ],
+    "note": "Vietnam’s national soup, aromatic and comforting."
+  },
+  {
+    "id": "jp-okonomiyaki",
+    "name": "Okonomiyaki - Japanese Savory Pancake",
+    "country": "Japan",
+    "region": "Asia",
+    "time": 30,
+    "servings": "2 pancakes",
+    "category": "Street food",
+    "difficulty": "medium",
+    "tags": [
+      "Japan",
+      "pancake",
+      "cabbage",
+      "street food"
+    ],
+    "ingredients": [
+      "Flour",
+      "Eggs",
+      "Cabbage, shredded",
+      "Water or dashi",
+      "Sliced pork or shrimp",
+      "Okonomiyaki sauce and mayo"
+    ],
+    "steps": [
+      "Mix flour, eggs and water to make a batter.",
+      "Add cabbage.",
+      "Cook on pan with pork/shrimp on top.",
+      "Flip and finish cooking.",
+      "Top with sauce and mayo."
+    ],
+    "note": "Osaka-style street food favorite."
+  },
+  {
+    "id": "kr-bibimbap",
+    "name": "Bibimbap - Korean Mixed Rice Bowl",
+    "country": "South Korea",
+    "region": "Asia",
+    "time": 40,
+    "servings": "2 bowls",
+    "category": "Street food",
+    "difficulty": "medium",
+    "tags": [
+      "Korea",
+      "rice",
+      "vegetables",
+      "egg"
+    ],
+    "ingredients": [
+      "Rice",
+      "Spinach, carrots, mushrooms, bean sprouts",
+      "Eggs",
+      "Sesame oil",
+      "Gochujang (chili paste)"
+    ],
+    "steps": [
+      "Cook each vegetable separately.",
+      "Place rice in a bowl.",
+      "Arrange vegetables neatly on top.",
+      "Add fried egg and gochujang.",
+      "Mix before eating."
+    ],
+    "note": "Healthy Korean dish mixing vegetables, rice and chili paste."
+  },
+  {
+    "id": "pk-nihari",
+    "name": "Nihari - Pakistani Slow-Cooked Meat Stew",
+    "country": "Pakistan",
+    "region": "Asia",
+    "time": 240,
+    "servings": "4-6 servings",
+    "category": "Street food",
+    "difficulty": "hard",
+    "tags": [
+      "Pakistan",
+      "meat",
+      "stew",
+      "slow-cooked"
+    ],
+    "ingredients": [
+      "Beef shank or mutton",
+      "Onions",
+      "Ghee",
+      "Flour",
+      "Ginger and garlic",
+      "Nihari spice mix"
+    ],
+    "steps": [
+      "Brown onion in ghee.",
+      "Add meat and spices.",
+      "Add water and cook slowly for several hours.",
+      "Thicken with flour paste.",
+      "Serve with ginger and lemon."
+    ],
+    "note": "Rich breakfast stew traditionally eaten on weekends."
+  },
+  {
+    "id": "bd-bhuna-khichuri",
+    "name": "Bhuna Khichuri - Spiced Rice and Lentils",
+    "country": "Bangladesh",
+    "region": "Asia",
+    "time": 60,
+    "servings": "4 servings",
+    "category": "Street food",
+    "difficulty": "medium",
+    "tags": [
+      "Bangladesh",
+      "rice",
+      "lentils",
+      "comfort food"
+    ],
+    "ingredients": [
+      "Rice",
+      "Yellow lentils",
+      "Onions",
+      "Turmeric and cumin",
+      "Ghee or oil",
+      "Salt"
+    ],
+    "steps": [
+      "Fry onions and spices.",
+      "Add rice and lentils.",
+      "Cook with water until soft and thick.",
+      "Serve warm."
+    ],
+    "note": "Popular rainy-day comfort dish in Bangladesh."
+  },
+  {
+    "id": "eg-koshari",
+    "name": "Koshari - Egyptian Lentils, Rice & Pasta",
+    "country": "Egypt",
+    "region": "North Africa",
+    "time": 45,
+    "servings": "4 servings",
+    "category": "Street food",
+    "difficulty": "medium",
+    "tags": [
+      "Egypt",
+      "lentils",
+      "rice",
+      "street food"
+    ],
+    "ingredients": [
+      "Rice",
+      "Lentils",
+      "Small pasta",
+      "Crispy onions",
+      "Tomato sauce",
+      "Chili sauce"
+    ],
+    "steps": [
+      "Cook rice, lentils and pasta separately.",
+      "Layer rice, lentils and pasta on plate.",
+      "Top with tomato sauce and crispy onions.",
+      "Add chili sauce if desired."
+    ],
+    "note": "Most famous Egyptian street food."
+  },
+  {
+    "id": "tr-iskender",
+    "name": "Iskender Kebab - Turkish Yogurt Tomato Dish",
+    "country": "Turkey",
+    "region": "Middle East",
+    "time": 50,
+    "servings": "3-4 servings",
+    "category": "Street food",
+    "difficulty": "medium",
+    "tags": [
+      "Turkey",
+      "kebab",
+      "tomato",
+      "yogurt"
+    ],
+    "ingredients": [
+      "Thin sliced grilled beef or lamb",
+      "Bread pieces",
+      "Tomato butter sauce",
+      "Yogurt",
+      "Melted butter"
+    ],
+    "steps": [
+      "Place grilled meat slices on toasted bread pieces.",
+      "Pour hot tomato-butter sauce on top.",
+      "Add yogurt on the side.",
+      "Drizzle melted butter before serving."
+    ],
+    "note": "Famous specialty from Bursa, rich and flavorful."
+  }
+]
