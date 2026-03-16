@@ -125,7 +125,7 @@
       "country": "TUNISIA",
       "city": "",
       "description": "tunisia — MP3",
-      "stream": "https://streaming2.toutech.net:8000/jawharafm",
+      "stream": "http://streaming2.toutech.net:8000/jawharafm",
       "tags": [
         "tunisia"
       ]
@@ -136,7 +136,7 @@
       "country": "TUNISIA",
       "city": "",
       "description": "tunisia — MP3",
-      "stream": "https://streaming2.toutech.net/jawharafm",
+      "stream": "http://streaming2.toutech.net/jawharafm",
       "tags": [
         "tunisia"
       ]
@@ -147,7 +147,7 @@
       "country": "TUNISIA",
       "city": "",
       "description": "tunisia — MP3",
-      "stream": "https://streaming.knoozfm.net:8000/knoozfm",
+      "stream": "http://streaming.knoozfm.net:8000/knoozfm",
       "tags": [
         "tunisia"
       ]
@@ -169,7 +169,7 @@
       "country": "TUNISIA",
       "city": "",
       "description": "tunisia — MP3",
-      "stream": "https://radio.mosaiquefm.net:8000/mosalive",
+      "stream": "http://radio.mosaiquefm.net:8000/mosalive",
       "tags": [
         "tunisia"
       ]
@@ -180,7 +180,7 @@
       "country": "TUNISIA",
       "city": "",
       "description": "classical · tunisia — MP3",
-      "stream": "https://radio.mosaiquefm.net/mosalive",
+      "stream": "http://radio.mosaiquefm.net/mosalive",
       "tags": [
         "classical",
         "tunisia"
@@ -192,7 +192,7 @@
       "country": "TUNISIA",
       "city": "",
       "description": "tunisia — MP3",
-      "stream": "https://radio.mosaiquefm.net/mosadj",
+      "stream": "http://radio.mosaiquefm.net/mosadj",
       "tags": [
         "tunisia"
       ]
@@ -203,7 +203,7 @@
       "country": "TUNISIA",
       "city": "",
       "description": "tunisia — MP3",
-      "stream": "https://radio.mosaiquefm.net/mosagold",
+      "stream": "http://radio.mosaiquefm.net/mosagold",
       "tags": [
         "tunisia"
       ]
@@ -214,7 +214,7 @@
       "country": "TUNISIA",
       "city": "",
       "description": "tunisia — MP3",
-      "stream": "https://radio.mosaiquefm.net/mosatarab",
+      "stream": "http://radio.mosaiquefm.net/mosatarab",
       "tags": [
         "tunisia"
       ]
@@ -225,7 +225,7 @@
       "country": "TUNISIA",
       "city": "",
       "description": "tunisia — MP3",
-      "stream": "https://radio.mosaiquefm.net/mosatounsi",
+      "stream": "http://radio.mosaiquefm.net/mosatounsi",
       "tags": [
         "tunisia"
       ]
@@ -236,7 +236,7 @@
       "country": "TUNISIA",
       "city": "",
       "description": "newstalkmusicentertainment · tunisia — MP3",
-      "stream": "https://radio.mosaiquefm.net/mosalive",
+      "stream": "http://radio.mosaiquefm.net/mosalive",
       "tags": [
         "newstalkmusicentertainment",
         "tunisia"
@@ -248,7 +248,7 @@
       "country": "TUNISIA",
       "city": "",
       "description": "tunisia — MP3",
-      "stream": "https://stream.radios-arra.fr:8000/oxygenefm",
+      "stream": "http://stream.radios-arra.fr:8000/oxygenefm",
       "tags": [
         "tunisia"
       ]
@@ -271,7 +271,7 @@
       "country": "TUNISIA",
       "city": "",
       "description": "tunisia — MP3",
-      "stream": "https://expressfm.ice.infomaniak.ch/expressfm-64.mp3",
+      "stream": "http://expressfm.ice.infomaniak.ch/expressfm-64.mp3",
       "tags": [
         "tunisia"
       ]
@@ -293,7 +293,7 @@
       "country": "TUNISIA",
       "city": "",
       "description": "tunisia — MP3",
-      "stream": "https://rtstream.tanitweb.com/gafsa",
+      "stream": "http://rtstream.tanitweb.com/gafsa",
       "tags": [
         "tunisia"
       ]
@@ -304,7 +304,7 @@
       "country": "TUNISIA",
       "city": "",
       "description": "tunisia — MP3",
-      "stream": "https://rtstream.tanitweb.com/kef",
+      "stream": "http://rtstream.tanitweb.com/kef",
       "tags": [
         "tunisia"
       ]
@@ -315,7 +315,7 @@
       "country": "TUNISIA",
       "city": "",
       "description": "tunisia — MP3",
-      "stream": "https://live.misk.art/stream",
+      "stream": "http://live.misk.art/stream",
       "tags": [
         "tunisia"
       ]
@@ -326,7 +326,7 @@
       "country": "TUNISIA",
       "city": "",
       "description": "tunisia — MP3",
-      "stream": "https://radio.radiotunisienne.tn/monastir",
+      "stream": "http://radio.radiotunisienne.tn/monastir",
       "tags": [
         "tunisia"
       ]
@@ -337,7 +337,7 @@
       "country": "TUNISIA",
       "city": "",
       "description": "gnraliste · tunisia — MP3",
-      "stream": "https://azuracast.conceptradio.fr:8000/radio.mp3",
+      "stream": "http://azuracast.conceptradio.fr:8000/radio.mp3",
       "tags": [
         "gnraliste",
         "monde",
@@ -350,7 +350,7 @@
       "country": "TUNISIA",
       "city": "",
       "description": "arabic · tunisia — MP3",
-      "stream": "https://rtstream.tanitweb.com/culturelle",
+      "stream": "http://rtstream.tanitweb.com/culturelle",
       "tags": [
         "arabic",
         "arabicmusic",
@@ -365,7 +365,7 @@
       "country": "TUNISIA",
       "city": "",
       "description": "gafsa · tunisia — MP3",
-      "stream": "https://rtstream.tanitweb.com/gafsa",
+      "stream": "http://rtstream.tanitweb.com/gafsa",
       "tags": [
         "gafsa",
         "regional",
@@ -378,7 +378,7 @@
       "country": "TUNISIA",
       "city": "",
       "description": "youth · tunisia — MP3",
-      "stream": "https://rtstream.tanitweb.com/jeunes",
+      "stream": "http://rtstream.tanitweb.com/jeunes",
       "tags": [
         "youth",
         "tunisia"
@@ -390,7 +390,7 @@
       "country": "TUNISIA",
       "city": "",
       "description": "tunisia — MP3",
-      "stream": "https://rtstream.tanitweb.com/kef",
+      "stream": "http://rtstream.tanitweb.com/kef",
       "tags": [
         "tunisia"
       ]
@@ -401,7 +401,7 @@
       "country": "TUNISIA",
       "city": "",
       "description": "monastir · tunisia — MP3",
-      "stream": "https://rtstream.tanitweb.com/monastir",
+      "stream": "http://rtstream.tanitweb.com/monastir",
       "tags": [
         "monastir",
         "regional",
@@ -414,7 +414,7 @@
       "country": "TUNISIA",
       "city": "",
       "description": "tunisia — MP3",
-      "stream": "https://rtstream.tanitweb.com/nationale",
+      "stream": "http://rtstream.tanitweb.com/nationale",
       "tags": [
         "tunisia"
       ]
@@ -425,7 +425,7 @@
       "country": "TUNISIA",
       "city": "",
       "description": "regional · tunisia — MP3",
-      "stream": "https://rtstream.tanitweb.com/sfax",
+      "stream": "http://rtstream.tanitweb.com/sfax",
       "tags": [
         "regional",
         "tunisia"
@@ -437,7 +437,7 @@
       "country": "TUNISIA",
       "city": "",
       "description": "regional · tunisia — MP3",
-      "stream": "https://rtstream.tanitweb.com/tataouine",
+      "stream": "http://rtstream.tanitweb.com/tataouine",
       "tags": [
         "regional",
         "tataouine",
@@ -450,7 +450,7 @@
       "country": "TUNISIA",
       "city": "",
       "description": "international · tunisia — MP3",
-      "stream": "https://rtstream.tanitweb.com/rtci",
+      "stream": "http://rtstream.tanitweb.com/rtci",
       "tags": [
         "international",
         "multiculti",
@@ -465,7 +465,7 @@
       "country": "TUNISIA",
       "city": "",
       "description": "tunisia — MP3",
-      "stream": "https://manager5.streamradio.fr:1905/stream",
+      "stream": "http://manager5.streamradio.fr:1905/stream",
       "tags": [
         "tunisia"
       ]
@@ -476,7 +476,7 @@
       "country": "TUNISIA",
       "city": "",
       "description": "tunisia — MP3",
-      "stream": "https://rtstream.tanitweb.com/sfax",
+      "stream": "http://rtstream.tanitweb.com/sfax",
       "tags": [
         "tunisia"
       ]
@@ -499,7 +499,7 @@
       "country": "TUNISIA",
       "city": "",
       "description": "classical · tunisia — MP3",
-      "stream": "https://andromeda.shoutca.st:8189/stream",
+      "stream": "http://andromeda.shoutca.st:8189/stream",
       "tags": [
         "classical",
         "tunisia"
@@ -537,7 +537,7 @@
       "country": "TUNISIA",
       "city": "",
       "description": "classical · tunisia — MP3",
-      "stream": "https://qurango.net/radio/athkar_sabah",
+      "stream": "http://qurango.net/radio/athkar_sabah",
       "tags": [
         "classical",
         "tunisia"
@@ -549,7 +549,7 @@
       "country": "TUNISIA",
       "city": "",
       "description": "classical · tunisia — MP3",
-      "stream": "https://qurango.net/radio/athkar_masa",
+      "stream": "http://qurango.net/radio/athkar_masa",
       "tags": [
         "classical",
         "tunisia"
@@ -561,7 +561,7 @@
       "country": "TUNISIA",
       "city": "",
       "description": "classical · tunisia — MP3",
-      "stream": "https://andromeda.shoutca.st:8189/live",
+      "stream": "http://andromeda.shoutca.st:8189/live",
       "tags": [
         "classical",
         "tunisia"
@@ -597,7 +597,7 @@
       "country": "TUNISIA",
       "city": "",
       "description": "classical · tunisia — MP3",
-      "stream": "https://airtime.salafwayfm.ly/",
+      "stream": "http://airtime.salafwayfm.ly/",
       "tags": [
         "classical",
         "tunisia"
@@ -737,7 +737,7 @@
       "country": "TUNISIA",
       "city": "",
       "description": "tunisia — MP3",
-      "stream": "https://stream.zeno.fm/76e9f1gsduhvv",
+      "stream": "http://stream.zeno.fm/76e9f1gsduhvv",
       "tags": [
         "tunisia"
       ]
