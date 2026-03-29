@@ -636,28 +636,6 @@
       ]
     },
     {
-      "id": "radio-gafsa-mp3-128",
-      "name": "radio gafsa",
-      "country": "Tunisia",
-      "city": "",
-      "description": "tunisia — MP3",
-      "stream": "https://rtstream.tanitweb.com/gafsa",
-      "tags": [
-        "tunisia"
-      ]
-    },
-    {
-      "id": "radio-kef-mp3-128",
-      "name": "Radio Kef",
-      "country": "Tunisia",
-      "city": "",
-      "description": "tunisia — MP3",
-      "stream": "https://rtstream.tanitweb.com/kef",
-      "tags": [
-        "tunisia"
-      ]
-    },
-    {
       "id": "radio-misk-mp3-192",
       "name": "Radio Misk",
       "country": "Tunisia",
@@ -665,97 +643,6 @@
       "description": "tunisia — MP3",
       "stream": "https://live.misk.art/stream",
       "tags": [
-        "tunisia"
-      ]
-    },
-    {
-      "id": "radio-tunisie-culturelle-mp3-128",
-      "name": "Radio Tunisie Culturelle",
-      "country": "Tunisia",
-      "city": "",
-      "description": "arabic · tunisia — MP3",
-      "stream": "https://rtstream.tanitweb.com/culturelle",
-      "tags": [
-        "arabic",
-        "arabicmusic",
-        "cultural",
-        "culture",
-        "tunisia"
-      ]
-    },
-    {
-      "id": "radio-tunisie-jeunes-mp3-128",
-      "name": "Radio Tunisie Jeunes",
-      "country": "Tunisia",
-      "city": "",
-      "description": "youth · tunisia — MP3",
-      "stream": "https://rtstream.tanitweb.com/jeunes",
-      "tags": [
-        "youth",
-        "tunisia"
-      ]
-    },
-    {
-      "id": "radio-tunisie-monastir-mp3-128",
-      "name": "Radio Tunisie Monastir",
-      "country": "Tunisia",
-      "city": "",
-      "description": "monastir · tunisia — MP3",
-      "stream": "https://rtstream.tanitweb.com/monastir",
-      "tags": [
-        "monastir",
-        "regional",
-        "tunisia"
-      ]
-    },
-    {
-      "id": "radio-tunisie-nationale-mp3-128",
-      "name": "Radio Tunisie Nationale",
-      "country": "Tunisia",
-      "city": "",
-      "description": "tunisia — MP3",
-      "stream": "https://rtstream.tanitweb.com/nationale",
-      "tags": [
-        "tunisia"
-      ]
-    },
-    {
-      "id": "radio-tunisie-sfax-mp3-128",
-      "name": "Radio Tunisie Sfax",
-      "country": "Tunisia",
-      "city": "",
-      "description": "regional · tunisia — MP3",
-      "stream": "https://rtstream.tanitweb.com/sfax",
-      "tags": [
-        "regional",
-        "tunisia"
-      ]
-    },
-    {
-      "id": "radio-tunisie-tataouine-mp3-64",
-      "name": "Radio Tunisie Tataouine",
-      "country": "Tunisia",
-      "city": "",
-      "description": "regional · tunisia — MP3",
-      "stream": "https://rtstream.tanitweb.com/tataouine",
-      "tags": [
-        "regional",
-        "tataouine",
-        "tunisia"
-      ]
-    },
-    {
-      "id": "rtci-mp3-128",
-      "name": "RTCI",
-      "country": "Tunisia",
-      "city": "",
-      "description": "international · tunisia — MP3",
-      "stream": "https://rtstream.tanitweb.com/rtci",
-      "tags": [
-        "international",
-        "multiculti",
-        "radiotunischaineinternationale",
-        "rtci",
         "tunisia"
       ]
     },
