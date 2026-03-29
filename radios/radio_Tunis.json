@@ -1,5 +1,7 @@
 {
+  "schemaVersion": 1,
   "updatedAt": "2026-03-29",
+  "count": 87,
   "stations": [
     {
       "id": "c23a40f9-3517-459f-be03-681fa96f5da0",
@@ -383,15 +385,10 @@
         "tunisia"
       ]
     },
-{
-  "schemaVersion": 1,
-  "updatedAt": "2026-02-14T13:19:13Z",
-  "count": 1152,
-  "stations": [
     {
       "id": "beautiful-recitation-mp3-128",
       "name": "Beautiful recitation",
-      "country": "TUNISIA",
+      "country": "Tunisia",
       "city": "",
       "description": "classical · tunisia — MP3",
       "stream": "https://qurango.net/radio/salma",
@@ -403,7 +400,7 @@
     {
       "id": "station-mp3-128",
       "name": "شهر رمضان",
-      "country": "TUNISIA",
+      "country": "Tunisia",
       "city": "",
       "description": "classical · tunisia — MP3",
       "stream": "https://qurango.net/radio/ramadan",
@@ -415,7 +412,7 @@
     {
       "id": "station-mp3-128-2",
       "name": "صور من حياة الصحابة",
-      "country": "TUNISIA",
+      "country": "Tunisia",
       "city": "",
       "description": "classical · tunisia — MP3",
       "stream": "https://qurango.net/radio/sahabah",
@@ -427,7 +424,7 @@
     {
       "id": "station-mp3-128-3",
       "name": "مختصر السيرة",
-      "country": "TUNISIA",
+      "country": "Tunisia",
       "city": "",
       "description": "classical · tunisia — MP3",
       "stream": "https://qurango.net/radio/almukhtasar_fi_alsiyra",
@@ -439,7 +436,7 @@
     {
       "id": "station-mp3-128-4",
       "name": "رواية قالون",
-      "country": "TUNISIA",
+      "country": "Tunisia",
       "city": "",
       "description": "classical · tunisia — MP3",
       "stream": "https://backup.qurango.net/radio/ahmad_khader_altarabulsi",
@@ -451,7 +448,7 @@
     {
       "id": "abdulbasit-abdulsamad-mp3-192",
       "name": "Abdulbasit Abdulsamad",
-      "country": "TUNISIA",
+      "country": "Tunisia",
       "city": "",
       "description": "tunisia — MP3",
       "stream": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3",
@@ -462,7 +459,7 @@
     {
       "id": "al-quran-radio-mp3",
       "name": "Al quran radio",
-      "country": "TUNISIA",
+      "country": "Tunisia",
       "city": "",
       "description": "classical · tunisia — MP3",
       "stream": "https://n0a.radiojar.com/0tpy1h0kxtzuv?rj-ttl=5&rj-tok=AAABhdgGORQA-2acfyF3_4WY2g",
@@ -472,20 +469,9 @@
       ]
     },
     {
-      "id": "alhayet-fm-mp3-192",
-      "name": "AlHayet FM",
-      "country": "TUNISIA",
-      "city": "",
-      "description": "tunisia — MP3",
-      "stream": "https://manager8.streamradio.fr:2885/stream",
-      "tags": [
-        "tunisia"
-      ]
-    },
-    {
       "id": "diwan-fm-mp3-128",
       "name": "Diwan FM",
-      "country": "TUNISIA",
+      "country": "Tunisia",
       "city": "",
       "description": "tunisia — MP3",
       "stream": "https://streaming.diwanfm.net/stream",
@@ -494,56 +480,53 @@
       ]
     },
     {
-      "id": "diwanfm-mp3-128",
-      "name": "diwanfm",
-      "country": "TUNISIA",
-      "city": "",
+      "id": "shems-fm-mp3-128",
+      "name": "Shems FM",
+      "country": "Tunisia",
+      "city": "Tunis",
       "description": "tunisia — MP3",
-      "stream": "https://streaming.diwanfm.net/stream",
+      "stream": "https://stream6.tanitweb.com/shems",
       "tags": [
         "tunisia"
       ]
     },
-  {
-    "id": "shems-fm-mp3-128",
-    "name": "Shems FM",
-    "country": "TUNISIA",
-    "city": "Tunis",
-    "description": "tunisia — MP3",
-    "stream": "https://stream6.tanitweb.com/shems",
-    "tags": ["tunisia"]
-  },
-  {
-    "id": "cap-fm-mp3-128",
-    "name": "Cap FM",
-    "country": "TUNISIA",
-    "city": "Hammamet",
-    "description": "tunisia — MP3",
-    "stream": "http://stream8.tanitweb.com/capfm",
-    "tags": ["tunisia"]
-  },
-  {
-    "id": "ulysse-fm-mp3-128",
-    "name": "Ulysse FM",
-    "country": "TUNISIA",
-    "city": "Djerba",
-    "description": "tunisia — MP3",
-    "stream": "http://live.ulysse-fm.net:8000/",
-    "tags": ["tunisia"]
-  },
-  {
-    "id": "radio-panorama-mp3-128",
-    "name": "Radio Panorama",
-    "country": "TUNISIA",
-    "city": "Tunis",
-    "description": "tunisia — MP3",
-    "stream": "http://listen.shoutcast.com/panoramatunis",
-    "tags": ["tunisia"]
+    {
+      "id": "cap-fm-mp3-128",
+      "name": "Cap FM",
+      "country": "Tunisia",
+      "city": "Hammamet",
+      "description": "tunisia — MP3",
+      "stream": "http://stream8.tanitweb.com/capfm",
+      "tags": [
+        "tunisia"
+      ]
+    },
+    {
+      "id": "ulysse-fm-mp3-128",
+      "name": "Ulysse FM",
+      "country": "Tunisia",
+      "city": "Djerba",
+      "description": "tunisia — MP3",
+      "stream": "http://live.ulysse-fm.net:8000/",
+      "tags": [
+        "tunisia"
+      ]
+    },
+    {
+      "id": "radio-panorama-mp3-128",
+      "name": "Radio Panorama",
+      "country": "Tunisia",
+      "city": "Tunis",
+      "description": "tunisia — MP3",
+      "stream": "http://listen.shoutcast.com/panoramatunis",
+      "tags": [
+        "tunisia"
+      ]
     },
     {
       "id": "jawhara-fm-mp3-128-2",
       "name": "Jawhara FM",
-      "country": "TUNISIA",
+      "country": "Tunisia",
       "city": "",
       "description": "tunisia — MP3",
       "stream": "https://streaming2.toutech.net/jawharafm",
@@ -554,7 +537,7 @@
     {
       "id": "knooz-fm-mp3-128",
       "name": "KnOOz FM",
-      "country": "TUNISIA",
+      "country": "Tunisia",
       "city": "",
       "description": "tunisia — MP3",
       "stream": "https://streaming.knoozfm.net:8000/knoozfm",
@@ -565,7 +548,7 @@
     {
       "id": "lotfi-slama-mp3-128",
       "name": "Lotfi Slama",
-      "country": "TUNISIA",
+      "country": "Tunisia",
       "city": "",
       "description": "tunisia — MP3",
       "stream": "https://azuracast.conceptradio.fr:8000/radio.mp3",
@@ -576,7 +559,7 @@
     {
       "id": "mosaique-fm-mp3-90",
       "name": "Mosaique FM",
-      "country": "TUNISIA",
+      "country": "Tunisia",
       "city": "",
       "description": "tunisia — MP3",
       "stream": "https://radio.mosaiquefm.net:8000/mosalive",
@@ -587,7 +570,7 @@
     {
       "id": "mosaique-fm-mp3-90-2",
       "name": "Mosaique FM",
-      "country": "TUNISIA",
+      "country": "Tunisia",
       "city": "",
       "description": "classical · tunisia — MP3",
       "stream": "https://radio.mosaiquefm.net/mosalive",
@@ -597,20 +580,9 @@
       ]
     },
     {
-      "id": "mosaique-fm-dj-mp3-128",
-      "name": "Mosaique FM DJ",
-      "country": "TUNISIA",
-      "city": "",
-      "description": "tunisia — MP3",
-      "stream": "https://radio.mosaiquefm.net/mosadj",
-      "tags": [
-        "tunisia"
-      ]
-    },
-    {
       "id": "mosaique-fm-gold-mp3-128",
       "name": "Mosaique FM Gold",
-      "country": "TUNISIA",
+      "country": "Tunisia",
       "city": "",
       "description": "tunisia — MP3",
       "stream": "https://radio.mosaiquefm.net/mosagold",
@@ -619,20 +591,9 @@
       ]
     },
     {
-      "id": "mosaique-fm-tarab-mp3-128",
-      "name": "Mosaique FM Tarab",
-      "country": "TUNISIA",
-      "city": "",
-      "description": "tunisia — MP3",
-      "stream": "https://radio.mosaiquefm.net/mosatarab",
-      "tags": [
-        "tunisia"
-      ]
-    },
-    {
       "id": "mosaique-fm-tounsi-mp3-128",
       "name": "Mosaique FM Tounsi",
-      "country": "TUNISIA",
+      "country": "Tunisia",
       "city": "",
       "description": "tunisia — MP3",
       "stream": "https://radio.mosaiquefm.net/mosatounsi",
@@ -641,21 +602,9 @@
       ]
     },
     {
-      "id": "mosaiquefm-mp3-90",
-      "name": "mosaiquefm",
-      "country": "TUNISIA",
-      "city": "",
-      "description": "newstalkmusicentertainment · tunisia — MP3",
-      "stream": "https://radio.mosaiquefm.net/mosalive",
-      "tags": [
-        "newstalkmusicentertainment",
-        "tunisia"
-      ]
-    },
-    {
       "id": "oxygene-fm-mp3-192",
       "name": "oxygene fm",
-      "country": "TUNISIA",
+      "country": "Tunisia",
       "city": "",
       "description": "tunisia — MP3",
       "stream": "https://stream.radios-arra.fr:8000/oxygenefm",
@@ -666,7 +615,7 @@
     {
       "id": "radio-coran-mp3",
       "name": "radio coran",
-      "country": "TUNISIA",
+      "country": "Tunisia",
       "city": "",
       "description": "classical · tunisia — MP3",
       "stream": "https://n0b.radiojar.com/0tpy1h0kxtzuv?",
@@ -676,20 +625,9 @@
       ]
     },
     {
-      "id": "radio-express-fm-mp3-64",
-      "name": "Radio Express FM",
-      "country": "TUNISIA",
-      "city": "",
-      "description": "tunisia — MP3",
-      "stream": "https://expressfm.ice.infomaniak.ch/expressfm-64.mp3",
-      "tags": [
-        "tunisia"
-      ]
-    },
-    {
       "id": "radio-fouedb-music-mp3-320",
       "name": "Radio fouedb Music",
-      "country": "TUNISIA",
+      "country": "Tunisia",
       "city": "",
       "description": "tunisia — MP3",
       "stream": "https://streaming.live365.com/a82574",
@@ -700,7 +638,7 @@
     {
       "id": "radio-gafsa-mp3-128",
       "name": "radio gafsa",
-      "country": "TUNISIA",
+      "country": "Tunisia",
       "city": "",
       "description": "tunisia — MP3",
       "stream": "https://rtstream.tanitweb.com/gafsa",
@@ -711,7 +649,7 @@
     {
       "id": "radio-kef-mp3-128",
       "name": "Radio Kef",
-      "country": "TUNISIA",
+      "country": "Tunisia",
       "city": "",
       "description": "tunisia — MP3",
       "stream": "https://rtstream.tanitweb.com/kef",
@@ -722,7 +660,7 @@
     {
       "id": "radio-misk-mp3-192",
       "name": "Radio Misk",
-      "country": "TUNISIA",
+      "country": "Tunisia",
       "city": "",
       "description": "tunisia — MP3",
       "stream": "https://live.misk.art/stream",
@@ -731,33 +669,9 @@
       ]
     },
     {
-      "id": "radio-monastir-mp3-128",
-      "name": "Radio Monastir",
-      "country": "TUNISIA",
-      "city": "",
-      "description": "tunisia — MP3",
-      "stream": "https://radio.radiotunisienne.tn/monastir",
-      "tags": [
-        "tunisia"
-      ]
-    },
-    {
-      "id": "radio-tunisia-med-mp3-128",
-      "name": "Radio Tunisia Med",
-      "country": "TUNISIA",
-      "city": "",
-      "description": "gnraliste · tunisia — MP3",
-      "stream": "https://azuracast.conceptradio.fr:8000/radio.mp3",
-      "tags": [
-        "gnraliste",
-        "monde",
-        "tunisia"
-      ]
-    },
-    {
       "id": "radio-tunisie-culturelle-mp3-128",
       "name": "Radio Tunisie Culturelle",
-      "country": "TUNISIA",
+      "country": "Tunisia",
       "city": "",
       "description": "arabic · tunisia — MP3",
       "stream": "https://rtstream.tanitweb.com/culturelle",
@@ -770,22 +684,9 @@
       ]
     },
     {
-      "id": "radio-tunisie-gafsa-mp3-128",
-      "name": "Radio Tunisie Gafsa",
-      "country": "TUNISIA",
-      "city": "",
-      "description": "gafsa · tunisia — MP3",
-      "stream": "https://rtstream.tanitweb.com/gafsa",
-      "tags": [
-        "gafsa",
-        "regional",
-        "tunisia"
-      ]
-    },
-    {
       "id": "radio-tunisie-jeunes-mp3-128",
       "name": "Radio Tunisie Jeunes",
-      "country": "TUNISIA",
+      "country": "Tunisia",
       "city": "",
       "description": "youth · tunisia — MP3",
       "stream": "https://rtstream.tanitweb.com/jeunes",
@@ -795,20 +696,9 @@
       ]
     },
     {
-      "id": "radio-tunisie-kef-mp3-128",
-      "name": "Radio Tunisie Kef",
-      "country": "TUNISIA",
-      "city": "",
-      "description": "tunisia — MP3",
-      "stream": "https://rtstream.tanitweb.com/kef",
-      "tags": [
-        "tunisia"
-      ]
-    },
-    {
       "id": "radio-tunisie-monastir-mp3-128",
       "name": "Radio Tunisie Monastir",
-      "country": "TUNISIA",
+      "country": "Tunisia",
       "city": "",
       "description": "monastir · tunisia — MP3",
       "stream": "https://rtstream.tanitweb.com/monastir",
@@ -821,7 +711,7 @@
     {
       "id": "radio-tunisie-nationale-mp3-128",
       "name": "Radio Tunisie Nationale",
-      "country": "TUNISIA",
+      "country": "Tunisia",
       "city": "",
       "description": "tunisia — MP3",
       "stream": "https://rtstream.tanitweb.com/nationale",
@@ -832,7 +722,7 @@
     {
       "id": "radio-tunisie-sfax-mp3-128",
       "name": "Radio Tunisie Sfax",
-      "country": "TUNISIA",
+      "country": "Tunisia",
       "city": "",
       "description": "regional · tunisia — MP3",
       "stream": "https://rtstream.tanitweb.com/sfax",
@@ -844,7 +734,7 @@
     {
       "id": "radio-tunisie-tataouine-mp3-64",
       "name": "Radio Tunisie Tataouine",
-      "country": "TUNISIA",
+      "country": "Tunisia",
       "city": "",
       "description": "regional · tunisia — MP3",
       "stream": "https://rtstream.tanitweb.com/tataouine",
@@ -857,7 +747,7 @@
     {
       "id": "rtci-mp3-128",
       "name": "RTCI",
-      "country": "TUNISIA",
+      "country": "Tunisia",
       "city": "",
       "description": "international · tunisia — MP3",
       "stream": "https://rtstream.tanitweb.com/rtci",
@@ -870,31 +760,9 @@
       ]
     },
     {
-      "id": "sabra-fm-mp3-192",
-      "name": "Sabra FM",
-      "country": "TUNISIA",
-      "city": "",
-      "description": "tunisia — MP3",
-      "stream": "https://manager5.streamradio.fr:1905/stream",
-      "tags": [
-        "tunisia"
-      ]
-    },
-    {
-      "id": "sfax-fm-mp3-128",
-      "name": "Sfax FM",
-      "country": "TUNISIA",
-      "city": "",
-      "description": "tunisia — MP3",
-      "stream": "https://rtstream.tanitweb.com/sfax",
-      "tags": [
-        "tunisia"
-      ]
-    },
-    {
       "id": "sodais-mp3-128",
       "name": "Sodais",
-      "country": "TUNISIA",
+      "country": "Tunisia",
       "city": "",
       "description": "classical · tunisia — MP3",
       "stream": "https://backup.qurango.net/radio/abdulrahman_alsudaes",
@@ -906,7 +774,7 @@
     {
       "id": "sunnah-radio-mp3-32",
       "name": "sunnah radio",
-      "country": "TUNISIA",
+      "country": "Tunisia",
       "city": "",
       "description": "classical · tunisia — MP3",
       "stream": "https://andromeda.shoutca.st:8189/stream",
@@ -916,23 +784,9 @@
       ]
     },
     {
-      "id": "zitouna-zitouna-fm-mp3-128",
-      "name": "Zitouna Zitouna FM",
-      "country": "TUNISIA",
-      "city": "",
-      "description": "coran · tunisia — MP3",
-      "stream": "https://radio.radiotunisienne.tn/radiozaitouna",
-      "tags": [
-        "coran",
-        "religion",
-        "sonnah",
-        "tunisia"
-      ]
-    },
-    {
       "id": "station-mp3-128-5",
       "name": "آيات السكينة",
-      "country": "TUNISIA",
+      "country": "Tunisia",
       "city": "",
       "description": "classical · tunisia — MP3",
       "stream": "https://qurango.net/radio/sakeenah",
@@ -944,7 +798,7 @@
     {
       "id": "station-mp3-128-6",
       "name": "أذكار الصباح",
-      "country": "TUNISIA",
+      "country": "Tunisia",
       "city": "",
       "description": "classical · tunisia — MP3",
       "stream": "https://qurango.net/radio/athkar_sabah",
@@ -956,7 +810,7 @@
     {
       "id": "station-mp3-128-7",
       "name": "أذكار المساء",
-      "country": "TUNISIA",
+      "country": "Tunisia",
       "city": "",
       "description": "classical · tunisia — MP3",
       "stream": "https://qurango.net/radio/athkar_masa",
@@ -968,7 +822,7 @@
     {
       "id": "station-mp3-32",
       "name": "إذاعة السنة",
-      "country": "TUNISIA",
+      "country": "Tunisia",
       "city": "",
       "description": "classical · tunisia — MP3",
       "stream": "https://andromeda.shoutca.st:8189/live",
@@ -980,7 +834,7 @@
     {
       "id": "station-mp3-128-8",
       "name": "إذاعة الفتاوى العامة",
-      "country": "TUNISIA",
+      "country": "Tunisia",
       "city": "",
       "description": "classical · tunisia — MP3",
       "stream": "https://qurango.net/radio/fatwa",
@@ -992,7 +846,7 @@
     {
       "id": "station-mp3",
       "name": "إذاعة القرآن الكريم",
-      "country": "TUNISIA",
+      "country": "Tunisia",
       "city": "",
       "description": "classical · tunisia — MP3",
       "stream": "https://stream.radiojar.com/0tpy1h0kxtzuv",
@@ -1004,7 +858,7 @@
     {
       "id": "station-mp3-128-9",
       "name": "إذاعة طريق السلف",
-      "country": "TUNISIA",
+      "country": "Tunisia",
       "city": "",
       "description": "classical · tunisia — MP3",
       "stream": "https://airtime.salafwayfm.ly/",
@@ -1016,7 +870,7 @@
     {
       "id": "station-mp3-128-11",
       "name": "إذاعة ميراث الأنبياء",
-      "country": "TUNISIA",
+      "country": "Tunisia",
       "city": "",
       "description": "classical · tunisia — MP3",
       "stream": "https://radio.al7eah.net/8028/;",
@@ -1028,7 +882,7 @@
     {
       "id": "station-mp3-128-12",
       "name": "الإختيارات الفقهية لإبن باز",
-      "country": "TUNISIA",
+      "country": "Tunisia",
       "city": "",
       "description": "classical · tunisia — MP3",
       "stream": "https://qurango.net/radio/alaikhtiarat_alfiqhayh_bin_baz",
@@ -1040,7 +894,7 @@
     {
       "id": "station-mp3-128-13",
       "name": "الشيخ سعد الغامدي",
-      "country": "TUNISIA",
+      "country": "Tunisia",
       "city": "",
       "description": "tunisia — MP3",
       "stream": "https://qurango.net/radio/saad_alghamdi",
@@ -1051,7 +905,7 @@
     {
       "id": "station-mp3-128-14",
       "name": "الشيخ صلاح بو خاطر",
-      "country": "TUNISIA",
+      "country": "Tunisia",
       "city": "",
       "description": "tunisia — MP3",
       "stream": "https://qurango.net/radio/slaah_bukhatir",
@@ -1062,7 +916,7 @@
     {
       "id": "station-mp3-128-15",
       "name": "الشيخ فارس عباد",
-      "country": "TUNISIA",
+      "country": "Tunisia",
       "city": "",
       "description": "tunisia — MP3",
       "stream": "https://qurango.net/radio/fares_abbad",
@@ -1073,7 +927,7 @@
     {
       "id": "station-mp3-128-16",
       "name": "المختصر في التفسير",
-      "country": "TUNISIA",
+      "country": "Tunisia",
       "city": "",
       "description": "classical · tunisia — MP3",
       "stream": "https://qurango.net/radio/mukhtasartafsir",
@@ -1085,7 +939,7 @@
     {
       "id": "station-mp3-128-17",
       "name": "تراتيل",
-      "country": "TUNISIA",
+      "country": "Tunisia",
       "city": "",
       "description": "classical · tunisia — MP3",
       "stream": "https://qurango.net/radio/tarateel",
@@ -1097,7 +951,7 @@
     {
       "id": "station-mp3-128-18",
       "name": "تفسير بن عثيمين رحمه الله تعالى",
-      "country": "TUNISIA",
+      "country": "Tunisia",
       "city": "",
       "description": "classical · tunisia — MP3",
       "stream": "https://qurango.net/radio/tafseer",
@@ -1109,7 +963,7 @@
     {
       "id": "station-mp3-128-19",
       "name": "تكبيرات العيد",
-      "country": "TUNISIA",
+      "country": "Tunisia",
       "city": "",
       "description": "classical · tunisia — MP3",
       "stream": "https://qurango.net/radio/eid",
@@ -1121,7 +975,7 @@
     {
       "id": "station-mp3-128-20",
       "name": "راديو جنجر للاطفال",
-      "country": "TUNISIA",
+      "country": "Tunisia",
       "city": "",
       "description": "tunisia — MP3",
       "stream": "https://arabkidsradio.art/radio/8000/radio.mp3",
@@ -1132,7 +986,7 @@
     {
       "id": "station-mp3-128-21",
       "name": "ستة شوال",
-      "country": "TUNISIA",
+      "country": "Tunisia",
       "city": "",
       "description": "classical · tunisia — MP3",
       "stream": "https://qurango.net/radio/SixDaysOfShawwal",
@@ -1144,7 +998,7 @@
     {
       "id": "station-mp3-128-22",
       "name": "عشر ذي الحجة",
-      "country": "TUNISIA",
+      "country": "Tunisia",
       "city": "",
       "description": "classical · tunisia — MP3",
       "stream": "https://qurango.net/radio/ten_dhul_hijjah",
@@ -1156,7 +1010,7 @@
     {
       "id": "station-mp3-128-23",
       "name": "في ضلال السيرة النبوية",
-      "country": "TUNISIA",
+      "country": "Tunisia",
       "city": "",
       "description": "classical · tunisia — MP3",
       "stream": "https://qurango.net/radio/fi_zilal_alsiyra",
@@ -1168,7 +1022,7 @@
     {
       "id": "station-mp3-128-24",
       "name": "قراءات متنوعة",
-      "country": "TUNISIA",
+      "country": "Tunisia",
       "city": "",
       "description": "classical · tunisia — MP3",
       "stream": "https://qurango.net/radio/mix",
@@ -1180,7 +1034,7 @@
     {
       "id": "station-mp3-128-25",
       "name": "يوم عاشوراء",
-      "country": "TUNISIA",
+      "country": "Tunisia",
       "city": "",
       "description": "classical · tunisia — MP3",
       "stream": "https://qurango.net/radio/TheDayofAshoora",
