@@ -1,4 +1,389 @@
 {
+  "updatedAt": "2026-03-29",
+  "stations": [
+    {
+      "id": "c23a40f9-3517-459f-be03-681fa96f5da0",
+      "name": "Misk FM",
+      "country": "Tunisia",
+      "city": "",
+      "stream": "https://stream.radyou.tn:8081/live/miskfm/live.m3u8",
+      "tags": [
+        "music",
+        "tn",
+        "tunisia"
+      ]
+    },
+    {
+      "id": "02d5d48d-d729-4a8d-a335-46b4d19c4c3c",
+      "name": "Mosaique FM",
+      "country": "Tunisia",
+      "city": "",
+      "stream": "https://stream.radyou.tn:8081/live/mosaique/live.m3u8",
+      "tags": [
+        "news",
+        "music",
+        "tn",
+        "tunisia"
+      ]
+    },
+    {
+      "id": "4c45ba27-f313-4d4b-a0df-1cef8c7f293a",
+      "name": "IFM",
+      "country": "Tunisia",
+      "city": "",
+      "stream": "https://live.ifm.tn/radio/8000/ifmlive",
+      "tags": [
+        "music",
+        "tn",
+        "tunisia"
+      ]
+    },
+    {
+      "id": "1f95a1cb-c36a-491c-8b2b-01e4e227ebaf",
+      "name": "Diwan FM",
+      "country": "Tunisia",
+      "city": "Sfax",
+      "stream": "https://stream.radyou.tn:8081/live/diwanfm/live.m3u8",
+      "tags": [
+        "music",
+        "tn",
+        "tunisia",
+        "sfax"
+      ]
+    },
+    {
+      "id": "9c5857d8-7485-4aee-a9ee-d1934bf0aee1",
+      "name": "Jawhara FM",
+      "country": "Tunisia",
+      "city": "",
+      "stream": "https://stream.radyou.tn:8081/live/jawhrafm/live.m3u8",
+      "tags": [
+        "music",
+        "tn",
+        "tunisia"
+      ]
+    },
+    {
+      "id": "2a3222f8-cb10-4a95-9d20-66808f0ad7d7",
+      "name": "Express FM",
+      "country": "Tunisia",
+      "city": "",
+      "stream": "https://expressfm.ice.infomaniak.ch/expressfm-64.mp3",
+      "tags": [
+        "news",
+        "tn",
+        "tunisia"
+      ]
+    },
+    {
+      "id": "a7e4c71b-9c07-4318-bfdf-c197f5c7bfa8",
+      "name": "Sabra FM",
+      "country": "Tunisia",
+      "city": "",
+      "stream": "https://manager5.streamradio.fr:1905/stream",
+      "tags": [
+        "music",
+        "tn",
+        "tunisia"
+      ]
+    },
+    {
+      "id": "20e063d4-b92d-44af-80be-4f824b4da766",
+      "name": "KnOOz FM",
+      "country": "Tunisia",
+      "city": "",
+      "stream": "https://stream.radyou.tn:8081/live/knoozfm/live.m3u8",
+      "tags": [
+        "music",
+        "tn",
+        "tunisia"
+      ]
+    },
+    {
+      "id": "36de664a-0bb2-4d24-b0cd-9ae53ec406df",
+      "name": "Son FM",
+      "country": "Tunisia",
+      "city": "",
+      "stream": "https://live.sonfm.tn/stream.mp3",
+      "tags": [
+        "music",
+        "tn",
+        "tunisia"
+      ]
+    },
+    {
+      "id": "1954ca0f-c860-4ffa-aafe-ee53b90f79f6",
+      "name": "Radio MFM",
+      "country": "Tunisia",
+      "city": "",
+      "stream": "https://mfmtunisie.toutech.net/mfmlive",
+      "tags": [
+        "music",
+        "tn",
+        "tunisia"
+      ]
+    },
+    {
+      "id": "f892e5b9-1601-4246-ab46-93056e804253",
+      "name": "Radio RM FM",
+      "country": "Tunisia",
+      "city": "",
+      "stream": "https://stream.rm-fm.net/live",
+      "tags": [
+        "music",
+        "tn",
+        "tunisia"
+      ]
+    },
+    {
+      "id": "645ca885-70a6-493a-80eb-ecee293bb442",
+      "name": "Radio AlHayet FM",
+      "country": "Tunisia",
+      "city": "",
+      "stream": "https://manager8.streamradio.fr:2885/stream",
+      "tags": [
+        "music",
+        "tn",
+        "tunisia"
+      ]
+    },
+    {
+      "id": "460c6242-0cb5-4693-8302-8f70810a7909",
+      "name": "Radio Tunis Nationale",
+      "country": "Tunisia",
+      "city": "",
+      "stream": "https://radio.radiotunisienne.tn/nationale",
+      "tags": [
+        "news",
+        "culture",
+        "tn",
+        "tunisia"
+      ]
+    },
+    {
+      "id": "ccc389a8-2a6e-46e7-866a-3519d4e62e9a",
+      "name": "RTCI",
+      "country": "Tunisia",
+      "city": "",
+      "stream": "https://radio.radiotunisienne.tn/rtci",
+      "tags": [
+        "news",
+        "international",
+        "tn",
+        "tunisia"
+      ]
+    },
+    {
+      "id": "fb41221c-9dba-4d03-b19d-104e294ebf3d",
+      "name": "Radio Tunisie Culture",
+      "country": "Tunisia",
+      "city": "",
+      "stream": "https://radio.radiotunisienne.tn/culturelle",
+      "tags": [
+        "culture",
+        "tn",
+        "tunisia"
+      ]
+    },
+    {
+      "id": "71968f3d-204e-47e1-8939-831025c6adcf",
+      "name": "Radio Jeunes",
+      "country": "Tunisia",
+      "city": "",
+      "stream": "https://radio.radiotunisienne.tn/jeunes",
+      "tags": [
+        "music",
+        "youth",
+        "tn",
+        "tunisia"
+      ]
+    },
+    {
+      "id": "691770f7-d842-46fa-b792-e765d924ad4c",
+      "name": "Radio Sfax",
+      "country": "Tunisia",
+      "city": "Sfax",
+      "stream": "https://radio.radiotunisienne.tn/sfax",
+      "tags": [
+        "regional",
+        "tn",
+        "tunisia"
+      ]
+    },
+    {
+      "id": "a00786e9-d95d-4536-8cd7-202809ec6cdf",
+      "name": "Radio Monastir",
+      "country": "Tunisia",
+      "city": "Monastir",
+      "stream": "https://radio.radiotunisienne.tn/monastir",
+      "tags": [
+        "regional",
+        "tn",
+        "tunisia"
+      ]
+    },
+    {
+      "id": "e7d89cb1-96a4-4256-ba78-8ca7a9d85126",
+      "name": "Radio Kef",
+      "country": "Tunisia",
+      "city": "Le Kef",
+      "stream": "https://radio.radiotunisienne.tn/kef",
+      "tags": [
+        "regional",
+        "tn",
+        "tunisia"
+      ]
+    },
+    {
+      "id": "ef7cea60-0c4d-424a-af8d-2377b8e1c0db",
+      "name": "Radio Gafsa",
+      "country": "Tunisia",
+      "city": "Gafsa",
+      "stream": "https://radio.radiotunisienne.tn/gafsa",
+      "tags": [
+        "regional",
+        "tn",
+        "tunisia"
+      ]
+    },
+    {
+      "id": "cac23f48-587b-4616-96d0-775e799b83b3",
+      "name": "Zitouna FM",
+      "country": "Tunisia",
+      "city": "",
+      "stream": "https://radio.radiotunisienne.tn/radiozaitouna",
+      "tags": [
+        "classical",
+        "islamic",
+        "coran",
+        "tn",
+        "tunisia"
+      ]
+    },
+    {
+      "id": "b06ef42e-9f70-4a9d-bcde-78eec725badb",
+      "name": "Oxygene FM Bizerte",
+      "country": "Tunisia",
+      "city": "Bizerte",
+      "stream": "https://streaming.radiooxygene.tn/oxygenefm",
+      "tags": [
+        "music",
+        "tn",
+        "tunisia"
+      ]
+    },
+    {
+      "id": "ac6a6be6-151b-4ed2-9da5-3bfeace4dbb3",
+      "name": "Mosaique FM Gold",
+      "country": "Tunisia",
+      "city": "",
+      "stream": "https://stream.radyou.tn:8081/live/mosaique-gold/live.m3u8",
+      "tags": [
+        "music",
+        "tn",
+        "tunisia"
+      ]
+    },
+    {
+      "id": "cb6662c8-33f9-4d56-8540-a0fb4eff94d8",
+      "name": "Mosaique FM Tarab",
+      "country": "Tunisia",
+      "city": "",
+      "stream": "https://radio.mosaiquefm.net/mosatarab",
+      "tags": [
+        "music",
+        "tn",
+        "tunisia"
+      ]
+    },
+    {
+      "id": "cf48188d-8fae-4a24-ba8f-1e76dcb60e66",
+      "name": "Mosaique FM DJ",
+      "country": "Tunisia",
+      "city": "",
+      "stream": "https://radio.mosaiquefm.net/mosadj",
+      "tags": [
+        "music",
+        "dj",
+        "tn",
+        "tunisia"
+      ]
+    },
+    {
+      "id": "5b35dc15-c207-45cf-b8e9-39358d2aec30",
+      "name": "Radio Tunisia Med",
+      "country": "Tunisia",
+      "city": "",
+      "stream": "https://stream.radyou.tn:8081/live/radio-tunisia-med/live.m3u8",
+      "tags": [
+        "music",
+        "tn",
+        "tunisia"
+      ]
+    },
+    {
+      "id": "4e8e74c0-a412-4e18-9ced-7de828386594",
+      "name": "Radio Tunisia Med International",
+      "country": "Tunisia",
+      "city": "",
+      "stream": "https://stream.radyou.tn:8081/live/radio-tunisia-med-international/live.m3u8",
+      "tags": [
+        "international",
+        "tn",
+        "tunisia"
+      ]
+    },
+    {
+      "id": "2315698e-49ba-4a3f-b139-06fb963b1be1",
+      "name": "Radio Tunisia Med Coran",
+      "country": "Tunisia",
+      "city": "",
+      "stream": "https://stream.radyou.tn:8081/live/radio-tunisia-med-coran/live.m3u8",
+      "tags": [
+        "classical",
+        "islamic",
+        "coran",
+        "tn",
+        "tunisia"
+      ]
+    },
+    {
+      "id": "456ed3a0-0fa8-42b6-8f15-583cdce07ae7",
+      "name": "Oasis FM Gabès",
+      "country": "Tunisia",
+      "city": "Gabès",
+      "stream": "https://stream.rcast.net/69919",
+      "tags": [
+        "regional",
+        "tn",
+        "tunisia"
+      ]
+    },
+    {
+      "id": "4abad1fe-b746-431e-9d84-f750df4a1074",
+      "name": "Karama FM",
+      "country": "Tunisia",
+      "city": "Sousse",
+      "stream": "https://hosting.studioradiomedia.fr:2685/stream",
+      "tags": [
+        "music",
+        "tn",
+        "tunisia"
+      ]
+    },
+    {
+      "id": "ddb6594f-21c7-4c28-ac72-0f32ea3a3f57",
+      "name": "Djerid FM",
+      "country": "Tunisia",
+      "city": "Tozeur",
+      "stream": "https://cast2.my-control-panel.com/proxy/chemsedd/stream",
+      "tags": [
+        "regional",
+        "tn",
+        "tunisia"
+      ]
+    },
+{
   "schemaVersion": 1,
   "updatedAt": "2026-02-14T13:19:13Z",
   "count": 1152,
@@ -119,42 +504,6 @@
         "tunisia"
       ]
     },
-  {
-    "id": "jawhara-fm-m3u8-128",
-    "name": "Jawhara FM",
-    "country": "TUNISIA",
-    "city": "Sousse",
-    "description": "tunisia — HLS",
-    "stream": "http://streaming.toutech.net/live/jfm/index.m3u8",
-    "tags": ["tunisia"]
-  },
-  {
-    "id": "jawhara-fm-tounsi-mp3-128",
-    "name": "Jawhara FM 100% Tounsi",
-    "country": "TUNISIA",
-    "city": "",
-    "description": "tunisia — MP3",
-    "stream": "http://streaming2.toutech.net:8000/jfmweb1",
-    "tags": ["tunisia"]
-  },
-  {
-    "id": "jawhara-fm-hit-mp3-128",
-    "name": "Jawhara FM 100% Hit",
-    "country": "TUNISIA",
-    "city": "",
-    "description": "tunisia — MP3",
-    "stream": "http://streaming2.toutech.net:8000/jfmweb4",
-    "tags": ["tunisia"]
-  },
-  {
-    "id": "ifm-mp3-128",
-    "name": "IFM",
-    "country": "TUNISIA",
-    "city": "Tunis",
-    "description": "tunisia — MP3",
-    "stream": "https://live.ifm.tn/radio/8000/ifmlive",
-    "tags": ["tunisia"]
-  },
   {
     "id": "shems-fm-mp3-128",
     "name": "Shems FM",
