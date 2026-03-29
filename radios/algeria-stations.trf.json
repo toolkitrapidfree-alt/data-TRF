@@ -14,7 +14,10 @@
       "codec": "AAC+",
       "bitrate": 48,
       "homepage": "https://www.exafm.com/veracruz/",
-      "favicon": "https://i.iheart.com/v3/re/new_assets/5f9883c7cde5eff19e6eabac"
+      "favicon": "https://i.iheart.com/v3/re/new_assets/5f9883c7cde5eff19e6eabac",
+      "check_status": "redirect_ok",
+      "check_http_status": 200,
+      "check_note": "audio/aacp"
     },
     {
       "id": "ce5a1511-e848-4543-a7c6-84432b1b7b16",
@@ -30,7 +33,10 @@
       "codec": "MP3",
       "bitrate": 128,
       "homepage": "",
-      "favicon": ""
+      "favicon": "",
+      "check_status": "ok",
+      "check_http_status": 200,
+      "check_note": "audio/mpeg"
     },
     {
       "id": "d52d7a3c-6547-4bd4-893e-c7599cd6f565",
@@ -46,7 +52,10 @@
       "codec": "MP3",
       "bitrate": 128,
       "homepage": "",
-      "favicon": ""
+      "favicon": "",
+      "check_status": "ok",
+      "check_http_status": 200,
+      "check_note": "audio/mpeg"
     },
     {
       "id": "18d9bdf7-6838-4443-b08b-8c9726dcb991",
@@ -62,7 +71,10 @@
       "codec": "MP3",
       "bitrate": 128,
       "homepage": "",
-      "favicon": ""
+      "favicon": "",
+      "check_status": "bad_status",
+      "check_http_status": 502,
+      "check_note": "text/html; charset=UTF-8"
     },
     {
       "id": "23a9dbd1-575f-423f-a244-98ace5e1e603",
@@ -78,7 +90,10 @@
       "codec": "MP3",
       "bitrate": 128,
       "homepage": "",
-      "favicon": ""
+      "favicon": "",
+      "check_status": "ok",
+      "check_http_status": 200,
+      "check_note": "audio/mpeg"
     },
     {
       "id": "ad29eb2c-a9e4-4c5f-a1e2-73a4f0c15027",
@@ -94,7 +109,10 @@
       "codec": "MP3",
       "bitrate": 128,
       "homepage": "",
-      "favicon": ""
+      "favicon": "",
+      "check_status": "ok",
+      "check_http_status": 200,
+      "check_note": "audio/mpeg"
     },
     {
       "id": "49b2c8f9-c7ed-4df5-afc3-93b8f6028121",
@@ -110,7 +128,10 @@
       "codec": "MP3",
       "bitrate": 128,
       "homepage": "http://stream.dar.fm/97821",
-      "favicon": ""
+      "favicon": "",
+      "check_status": "redirect_ok",
+      "check_http_status": 200,
+      "check_note": "audio/mpeg"
     },
     {
       "id": "6bfb7a7c-b811-472b-b091-5e27cb098bac",
@@ -124,7 +145,10 @@
       "codec": "MP3",
       "bitrate": 128,
       "homepage": "https://www.antinearadio.com/",
-      "favicon": ""
+      "favicon": "",
+      "check_status": "ok",
+      "check_http_status": 200,
+      "check_note": "audio/mpeg"
     },
     {
       "id": "8c775a8f-184e-44fe-9d7d-62d79454145a",
@@ -140,7 +164,10 @@
       "codec": "MP3",
       "bitrate": 192,
       "homepage": "https://mp3islam.com/",
-      "favicon": "null"
+      "favicon": "null",
+      "check_status": "ok",
+      "check_http_status": 200,
+      "check_note": "audio/mpeg"
     },
     {
       "id": "b8120c61-baf0-4502-af64-f074061f6b7e",
@@ -156,7 +183,10 @@
       "codec": "MP3",
       "bitrate": 0,
       "homepage": "",
-      "favicon": ""
+      "favicon": "",
+      "check_status": "redirect_ok",
+      "check_http_status": 200,
+      "check_note": "audio/mpeg"
     },
     {
       "id": "267b9ba1-fc4f-4877-8cca-baa06c04d371",
@@ -172,7 +202,10 @@
       "codec": "MP3",
       "bitrate": 128,
       "homepage": "",
-      "favicon": ""
+      "favicon": "",
+      "check_status": "ok",
+      "check_http_status": 200,
+      "check_note": "audio/mpeg"
     },
     {
       "id": "8cd4aff2-15af-454f-84b7-a8904548f704",
@@ -188,7 +221,10 @@
       "codec": "MP3",
       "bitrate": 128,
       "homepage": "",
-      "favicon": ""
+      "favicon": "",
+      "check_status": "ok",
+      "check_http_status": 200,
+      "check_note": "audio/mpeg"
     },
     {
       "id": "28a2dcb0-bc1f-47b4-95a2-e1784affb792",
@@ -202,7 +238,10 @@
       "codec": "MP3",
       "bitrate": 0,
       "homepage": "https://webradio.tda.dz/",
-      "favicon": ""
+      "favicon": "",
+      "check_status": "redirect_ok",
+      "check_http_status": 200,
+      "check_note": "audio/mpeg"
     },
     {
       "id": "97ed8391-6abe-4b91-b59e-fd29c1866d36",
@@ -218,7 +257,10 @@
       "codec": "MP3",
       "bitrate": 128,
       "homepage": "",
-      "favicon": ""
+      "favicon": "",
+      "check_status": "ok",
+      "check_http_status": 200,
+      "check_note": "audio/mpeg"
     },
     {
       "id": "72a7207c-e3c9-4f0e-8345-bfaf0ee23ee6",
@@ -239,7 +281,10 @@
       "codec": "MP3",
       "bitrate": 0,
       "homepage": "https://sansal.simdif.com/",
-      "favicon": "https://sansal.simdif.com/img/preset/favicon_publish/favicon_000.ico?no_cache=1552291834"
+      "favicon": "https://sansal.simdif.com/img/preset/favicon_publish/favicon_000.ico?no_cache=1552291834",
+      "check_status": "redirect_ok",
+      "check_http_status": 200,
+      "check_note": "audio/mpeg"
     },
     {
       "id": "f2d01650-b84f-4d85-aa3f-4c085bf211ff",
@@ -256,7 +301,10 @@
       "codec": "MP3",
       "bitrate": 256,
       "homepage": "https://www.hits1radio.com/",
-      "favicon": ""
+      "favicon": "",
+      "check_status": "ok",
+      "check_http_status": 200,
+      "check_note": "audio/mpeg"
     },
     {
       "id": "029d4199-d4d6-4272-89dc-3f5cc0c28453",
@@ -270,7 +318,10 @@
       "codec": "AAC",
       "bitrate": 0,
       "homepage": "https://radioalgerie.dz/",
-      "favicon": "https://radioalgerie.dz/player/sites/default/files/logo90bleu_0.png"
+      "favicon": "https://radioalgerie.dz/player/sites/default/files/logo90bleu_0.png",
+      "check_status": "ok",
+      "check_http_status": 200,
+      "check_note": "audio/aac"
     },
     {
       "id": "7849d521-37f4-491e-ba1a-9df8bee5eee2",
@@ -286,7 +337,10 @@
       "codec": "MP3",
       "bitrate": 128,
       "homepage": "http://sleepradio.com/",
-      "favicon": ""
+      "favicon": "",
+      "check_status": "ok",
+      "check_http_status": 200,
+      "check_note": "audio/mpeg"
     },
     {
       "id": "f22c37de-9126-4acc-9867-5de89979b012",
@@ -302,7 +356,10 @@
       "codec": "MP3",
       "bitrate": 128,
       "homepage": "http://online.svitle.org:6728/kids.128.mp3",
-      "favicon": "null"
+      "favicon": "null",
+      "check_status": "ok",
+      "check_http_status": 200,
+      "check_note": "audio/mpeg"
     },
     {
       "id": "3b513e54-1e4f-4ea9-a0ab-ea6e1eabd5dc",
@@ -318,7 +375,10 @@
       "codec": "MP3",
       "bitrate": 128,
       "homepage": "",
-      "favicon": ""
+      "favicon": "",
+      "check_status": "ok",
+      "check_http_status": 200,
+      "check_note": "audio/mpeg"
     },
     {
       "id": "67c98246-2259-43a5-a89b-0ec76b9b9c5f",
@@ -334,7 +394,10 @@
       "codec": "MP3",
       "bitrate": 128,
       "homepage": "",
-      "favicon": ""
+      "favicon": "",
+      "check_status": "ok",
+      "check_http_status": 200,
+      "check_note": "audio/mpeg"
     },
     {
       "id": "df238336-9ab7-4697-840a-6f10c3ddde3e",
@@ -350,7 +413,10 @@
       "codec": "MP3",
       "bitrate": 80,
       "homepage": "https://www.sawtelgad.com/",
-      "favicon": "null"
+      "favicon": "null",
+      "check_status": "ok",
+      "check_http_status": 200,
+      "check_note": "audio/mpeg"
     }
   ]
 }
