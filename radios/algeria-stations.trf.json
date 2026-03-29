@@ -1,137 +1,168 @@
 {
-  "updatedAt": "2026-02-15",
+  "updatedAt": "2026-03-29",
   "country": "Algeria",
   "stations": [
     {
-      "id": "934e3f5a-2aad-408e-989c-ff32ea3851b3",
-      "name": "EXA FM: موسيقى البوب ​​باللغتين الإنجليزية والإسبانية",
+      "id": "db3e9f2d-f2f9-4961-b758-0fda1c9cce81",
+      "name": "Radio Algérienne — Chaîne 1",
       "country": "Algeria",
-      "city": "",
-      "description": "spanish • AAC+ 48 kbps",
-      "tags": [],
-      "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/XHPSFMAAC.aac",
-      "language": "spanish",
-      "codec": "AAC+",
-      "bitrate": 48,
-      "homepage": "https://www.exafm.com/veracruz/",
-      "favicon": "https://i.iheart.com/v3/re/new_assets/5f9883c7cde5eff19e6eabac",
-      "check_status": "redirect_ok",
-      "check_http_status": 200,
-      "check_note": "audio/aacp"
-    },
-    {
-      "id": "ce5a1511-e848-4543-a7c6-84432b1b7b16",
-      "name": ". إذاعة ماهر المعيقلي",
-      "country": "Algeria",
-      "city": "",
-      "description": "MP3 128 kbps",
+      "city": "Alger",
+      "description": "arabic,french • MP3 — Généraliste nationale",
       "tags": [
-        "classical"
+        "news",
+        "culture",
+        "dz"
       ],
-      "stream": "https://backup.qurango.net/radio/maher",
-      "language": "",
+      "stream": "https://webradio.tda.dz/chaine1.mp3",
+      "language": "arabic,french",
       "codec": "MP3",
       "bitrate": 128,
-      "homepage": "",
-      "favicon": "",
-      "check_status": "ok",
-      "check_http_status": 200,
-      "check_note": "audio/mpeg"
+      "homepage": "https://www.radioalgerie.dz/",
+      "favicon": "https://radioalgerie.dz/player/sites/default/files/logo90bleu_0.png"
     },
     {
-      "id": "d52d7a3c-6547-4bd4-893e-c7599cd6f565",
-      "name": "..مختصر التفسير",
+      "id": "22a6d759-2e5e-40f6-829f-7f1ef0152862",
+      "name": "Radio Algérienne — Chaîne 2 (Tamazight)",
       "country": "Algeria",
-      "city": "",
-      "description": "MP3 128 kbps",
+      "city": "Alger",
+      "description": "amazigh • MP3 — Radio Tamazight",
       "tags": [
-        "classical"
+        "culture",
+        "amazigh",
+        "dz"
       ],
-      "stream": "https://qurango.net/radio/mukhtasartafsir",
-      "language": "",
+      "stream": "https://webradio.tda.dz/chaine2.mp3",
+      "language": "amazigh",
       "codec": "MP3",
       "bitrate": 128,
-      "homepage": "",
-      "favicon": "",
-      "check_status": "ok",
-      "check_http_status": 200,
-      "check_note": "audio/mpeg"
+      "homepage": "https://www.radioalgerie.dz/",
+      "favicon": "https://radioalgerie.dz/player/sites/default/files/logo90bleu_0.png"
     },
     {
-      "id": "18d9bdf7-6838-4443-b08b-8c9726dcb991",
-      "name": ".القارئ محمد أيوب",
+      "id": "ded3132c-47bc-4b48-a37f-fe8ebf0cec02",
+      "name": "Radio Algérienne — Chaîne 3 (Française)",
       "country": "Algeria",
-      "city": "",
-      "description": "MP3 128 kbps",
+      "city": "Alger",
+      "description": "french • MP3 — Francophone",
       "tags": [
-        "classical"
+        "news",
+        "culture",
+        "dz"
       ],
-      "stream": "https://qurango.net/radio/mohammed_ayyub",
-      "language": "",
+      "stream": "https://webradio.tda.dz/chaine3.mp3",
+      "language": "french",
       "codec": "MP3",
       "bitrate": 128,
-      "homepage": "",
-      "favicon": "",
-      "check_status": "bad_status",
-      "check_http_status": 502,
-      "check_note": "text/html; charset=UTF-8"
+      "homepage": "https://www.radioalgerie.dz/",
+      "favicon": "https://radioalgerie.dz/player/sites/default/files/logo90bleu_0.png"
     },
     {
-      "id": "23a9dbd1-575f-423f-a244-98ace5e1e603",
-      "name": ".صور من حياة الصحابة",
+      "id": "5916cff1-882d-4d58-8d85-f9c08d4bea8b",
+      "name": "Radio Coran — Algérie",
       "country": "Algeria",
-      "city": "",
-      "description": "MP3 128 kbps",
+      "city": "Alger",
+      "description": "arabic • MP3 — Coran en continu",
       "tags": [
-        "classical"
+        "classical",
+        "islamic",
+        "coran",
+        "dz"
       ],
-      "stream": "https://qurango.net/radio/sahabah",
-      "language": "",
+      "stream": "https://webradio.tda.dz/coran.mp3",
+      "language": "arabic",
       "codec": "MP3",
       "bitrate": 128,
-      "homepage": "",
-      "favicon": "",
-      "check_status": "ok",
-      "check_http_status": 200,
-      "check_note": "audio/mpeg"
+      "homepage": "https://www.radioalgerie.dz/",
+      "favicon": "https://radioalgerie.dz/player/sites/default/files/logo90bleu_0.png"
     },
     {
-      "id": "ad29eb2c-a9e4-4c5f-a1e2-73a4f0c15027",
-      "name": ".مختصر السيرة",
+      "id": "d48a4d43-29f9-45d9-90ca-2ff773ba0d16",
+      "name": "Radio El Bahdja",
       "country": "Algeria",
-      "city": "",
-      "description": "MP3 128 kbps",
+      "city": "Alger",
+      "description": "arabic • MP3 — Musique et culture algéroise",
       "tags": [
-        "classical"
+        "music",
+        "culture",
+        "dz"
       ],
-      "stream": "https://qurango.net/radio/almukhtasar_fi_alsiyra",
-      "language": "",
+      "stream": "https://webradio.tda.dz/bahdja.mp3",
+      "language": "arabic",
       "codec": "MP3",
       "bitrate": 128,
-      "homepage": "",
-      "favicon": "",
-      "check_status": "ok",
-      "check_http_status": 200,
-      "check_note": "audio/mpeg"
+      "homepage": "https://www.radioalgerie.dz/",
+      "favicon": "https://radioalgerie.dz/player/sites/default/files/logo90bleu_0.png"
     },
     {
-      "id": "49b2c8f9-c7ed-4df5-afc3-93b8f6028121",
-      "name": "109.0 FM Christmas Kids",
+      "id": "e1b608ca-30dd-49e7-8b9b-bd4e12b45af2",
+      "name": "Jil FM",
       "country": "Algeria",
-      "city": "",
-      "description": "MP3 128 kbps",
+      "city": "Alger",
+      "description": "arabic,french • MP3 — Pop, hits jeunesse",
       "tags": [
-        "classical"
+        "pop",
+        "music",
+        "dz"
       ],
-      "stream": "http://stream.dar.fm/97821",
-      "language": "",
+      "stream": "https://webradio.tda.dz/jil.mp3",
+      "language": "arabic,french",
       "codec": "MP3",
       "bitrate": 128,
-      "homepage": "http://stream.dar.fm/97821",
-      "favicon": "",
-      "check_status": "redirect_ok",
-      "check_http_status": 200,
-      "check_note": "audio/mpeg"
+      "homepage": "https://www.radioalgerie.dz/",
+      "favicon": "https://radioalgerie.dz/player/sites/default/files/logo90bleu_0.png"
+    },
+    {
+      "id": "c50a9418-6e30-42f0-8d62-a2acb738afdd",
+      "name": "Radio Amazigh",
+      "country": "Algeria",
+      "city": "Alger",
+      "description": "amazigh • MP3 — Langue et culture Amazigh",
+      "tags": [
+        "culture",
+        "amazigh",
+        "dz"
+      ],
+      "stream": "https://webradio.tda.dz/amazigh.mp3",
+      "language": "amazigh",
+      "codec": "MP3",
+      "bitrate": 128,
+      "homepage": "https://www.radioalgerie.dz/",
+      "favicon": "https://radioalgerie.dz/player/sites/default/files/logo90bleu_0.png"
+    },
+    {
+      "id": "a756f408-4343-4986-96f5-e92a83554827",
+      "name": "Radio Culture — Algérie",
+      "country": "Algeria",
+      "city": "Alger",
+      "description": "arabic,french • MP3 — Culture et arts",
+      "tags": [
+        "culture",
+        "dz"
+      ],
+      "stream": "https://webradio.tda.dz/culture.mp3",
+      "language": "arabic,french",
+      "codec": "MP3",
+      "bitrate": 128,
+      "homepage": "https://www.radioalgerie.dz/",
+      "favicon": "https://radioalgerie.dz/player/sites/default/files/logo90bleu_0.png"
+    },
+    {
+      "id": "ef35cf04-b14e-44f3-bc71-a11a89f45cf1",
+      "name": "Radio Algérie Internationale",
+      "country": "Algeria",
+      "city": "Alger",
+      "description": "arabic,french • MP3 — Rayonnement international",
+      "tags": [
+        "news",
+        "international",
+        "dz"
+      ],
+      "stream": "https://webradio.tda.dz/internationale.mp3",
+      "language": "arabic,french",
+      "codec": "MP3",
+      "bitrate": 128,
+      "homepage": "https://www.radioalgerie.dz/",
+      "favicon": "https://radioalgerie.dz/player/sites/default/files/logo90bleu_0.png"
     },
     {
       "id": "6bfb7a7c-b811-472b-b091-5e27cb098bac",
@@ -139,128 +170,52 @@
       "country": "Algeria",
       "city": "Tizi-Ouzou",
       "description": "MP3 128 kbps",
-      "tags": [],
+      "tags": [
+        "culture",
+        "amazigh"
+      ],
       "stream": "https://listen.radioking.com/radio/6640/stream/347",
       "language": "",
       "codec": "MP3",
       "bitrate": 128,
       "homepage": "https://www.antinearadio.com/",
-      "favicon": "",
-      "check_status": "ok",
-      "check_http_status": 200,
-      "check_note": "audio/mpeg"
+      "favicon": ""
     },
     {
-      "id": "8c775a8f-184e-44fe-9d7d-62d79454145a",
-      "name": "Abdulbasit Abdulsamad",
+      "id": "029d4199-d4d6-4272-89dc-3f5cc0c28453",
+      "name": "Radio Tizi Ouzou",
       "country": "Algeria",
-      "city": "",
-      "description": "arabic • MP3 192 kbps",
+      "city": "Tizi-Ouzou",
+      "description": "AAC — Radio régionale Kabylie",
       "tags": [
-        "islamic"
+        "culture",
+        "amazigh",
+        "dz"
       ],
-      "stream": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3",
-      "language": "arabic",
-      "codec": "MP3",
-      "bitrate": 192,
-      "homepage": "https://mp3islam.com/",
-      "favicon": "null",
-      "check_status": "ok",
-      "check_http_status": 200,
-      "check_note": "audio/mpeg"
-    },
-    {
-      "id": "b8120c61-baf0-4502-af64-f074061f6b7e",
-      "name": "al quran radio",
-      "country": "Algeria",
-      "city": "",
-      "description": "MP3",
-      "tags": [
-        "classical"
-      ],
-      "stream": "https://n0a.radiojar.com/0tpy1h0kxtzuv?rj-ttl=5&rj-tok=AAABhdgGORQA-2acfyF3_4WY2g",
+      "stream": "https://radiotiziouzou.ice.infomaniak.ch/tiziouzou.mp3",
       "language": "",
-      "codec": "MP3",
+      "codec": "AAC",
       "bitrate": 0,
-      "homepage": "",
-      "favicon": "",
-      "check_status": "redirect_ok",
-      "check_http_status": 200,
-      "check_note": "audio/mpeg"
+      "homepage": "https://radioalgerie.dz/",
+      "favicon": "https://radioalgerie.dz/player/sites/default/files/logo90bleu_0.png"
     },
     {
-      "id": "267b9ba1-fc4f-4877-8cca-baa06c04d371",
-      "name": "beautiful recitation",
+      "id": "f2d01650-b84f-4d85-aa3f-4c085bf211ff",
+      "name": "Hits 1 Algérie",
       "country": "Algeria",
-      "city": "",
-      "description": "MP3 128 kbps",
+      "city": "Alger",
+      "description": "french • MP3 256 kbps — Pop / Top 40",
       "tags": [
-        "classical"
+        "pop",
+        "top40",
+        "dz"
       ],
-      "stream": "https://qurango.net/radio/salma",
-      "language": "",
+      "stream": "https://radio12.pro-fhi.net/listen/whmnrlow/stream",
+      "language": "french",
       "codec": "MP3",
-      "bitrate": 128,
-      "homepage": "",
-      "favicon": "",
-      "check_status": "ok",
-      "check_http_status": 200,
-      "check_note": "audio/mpeg"
-    },
-    {
-      "id": "8cd4aff2-15af-454f-84b7-a8904548f704",
-      "name": "Beur FM",
-      "country": "Algeria",
-      "city": "",
-      "description": "MP3 128 kbps",
-      "tags": [
-        "international"
-      ],
-      "stream": "https://beurfm.ice.infomaniak.ch/beurfm-high.mp3",
-      "language": "",
-      "codec": "MP3",
-      "bitrate": 128,
-      "homepage": "",
-      "favicon": "",
-      "check_status": "ok",
-      "check_http_status": 200,
-      "check_note": "audio/mpeg"
-    },
-    {
-      "id": "28a2dcb0-bc1f-47b4-95a2-e1784affb792",
-      "name": "curan saudi",
-      "country": "Algeria",
-      "city": "",
-      "description": "arabic • MP3",
-      "tags": [],
-      "stream": "http://stream.radiojar.com/0tpy1h0kxtzuv",
-      "language": "arabic",
-      "codec": "MP3",
-      "bitrate": 0,
-      "homepage": "https://webradio.tda.dz/",
-      "favicon": "",
-      "check_status": "redirect_ok",
-      "check_http_status": 200,
-      "check_note": "audio/mpeg"
-    },
-    {
-      "id": "97ed8391-6abe-4b91-b59e-fd29c1866d36",
-      "name": "France Maghreb 2",
-      "country": "Algeria",
-      "city": "",
-      "description": "MP3 128 kbps",
-      "tags": [
-        "international"
-      ],
-      "stream": "https://francemaghreb2.ice.infomaniak.ch/francemaghreb2-high.mp3",
-      "language": "",
-      "codec": "MP3",
-      "bitrate": 128,
-      "homepage": "",
-      "favicon": "",
-      "check_status": "ok",
-      "check_http_status": 200,
-      "check_note": "audio/mpeg"
+      "bitrate": 256,
+      "homepage": "https://www.hits1radio.com/",
+      "favicon": ""
     },
     {
       "id": "72a7207c-e3c9-4f0e-8345-bfaf0ee23ee6",
@@ -270,153 +225,187 @@
       "description": "arabic,english,french • MP3",
       "tags": [
         "dz",
-        "ghorba",
-        "lorrol",
-        "radio",
-        "rasta",
-        "tikeur"
+        "diaspora"
       ],
       "stream": "https://stream-150.zeno.fm/y9rchc1djgavv?zs=bcPxFTkWTZOhirTC49uQiQ",
       "language": "arabic,english,french",
       "codec": "MP3",
       "bitrate": 0,
       "homepage": "https://sansal.simdif.com/",
-      "favicon": "https://sansal.simdif.com/img/preset/favicon_publish/favicon_000.ico?no_cache=1552291834",
-      "check_status": "redirect_ok",
-      "check_http_status": 200,
-      "check_note": "audio/mpeg"
+      "favicon": ""
     },
     {
-      "id": "f2d01650-b84f-4d85-aa3f-4c085bf211ff",
-      "name": "Hits 1 Algérie",
-      "country": "Algeria",
-      "city": "Alger",
-      "description": "french • MP3 256 kbps",
-      "tags": [
-        "pop",
-        "top40"
-      ],
-      "stream": "https://radio12.pro-fhi.net/listen/whmnrlow/stream",
-      "language": "french",
-      "codec": "MP3",
-      "bitrate": 256,
-      "homepage": "https://www.hits1radio.com/",
-      "favicon": "",
-      "check_status": "ok",
-      "check_http_status": 200,
-      "check_note": "audio/mpeg"
-    },
-    {
-      "id": "029d4199-d4d6-4272-89dc-3f5cc0c28453",
-      "name": "Radio Tizi Ouzou",
-      "country": "Algeria",
-      "city": "Tizi-Ouzou",
-      "description": "AAC",
-      "tags": [],
-      "stream": "https://radiotiziouzou.ice.infomaniak.ch/tiziouzou.mp3",
-      "language": "",
-      "codec": "AAC",
-      "bitrate": 0,
-      "homepage": "https://radioalgerie.dz/",
-      "favicon": "https://radioalgerie.dz/player/sites/default/files/logo90bleu_0.png",
-      "check_status": "ok",
-      "check_http_status": 200,
-      "check_note": "audio/aac"
-    },
-    {
-      "id": "7849d521-37f4-491e-ba1a-9df8bee5eee2",
-      "name": "sleep",
+      "id": "8cd4aff2-15af-454f-84b7-a8904548f704",
+      "name": "Beur FM",
       "country": "Algeria",
       "city": "",
-      "description": "english • MP3 128 kbps",
+      "description": "french,arabic • MP3 128 kbps — Radio Maghreb Paris",
       "tags": [
-        "ff"
+        "international",
+        "maghreb"
       ],
-      "stream": "http://65.109.81.84:9851/stream",
-      "language": "english",
-      "codec": "MP3",
-      "bitrate": 128,
-      "homepage": "http://sleepradio.com/",
-      "favicon": "",
-      "check_status": "ok",
-      "check_http_status": 200,
-      "check_note": "audio/mpeg"
-    },
-    {
-      "id": "f22c37de-9126-4acc-9867-5de89979b012",
-      "name": "ygg",
-      "country": "Algeria",
-      "city": "",
-      "description": "gallo • MP3 128 kbps",
-      "tags": [
-        "pop"
-      ],
-      "stream": "http://online.svitle.org:6728/kids.128.mp3",
-      "language": "gallo",
-      "codec": "MP3",
-      "bitrate": 128,
-      "homepage": "http://online.svitle.org:6728/kids.128.mp3",
-      "favicon": "null",
-      "check_status": "ok",
-      "check_http_status": 200,
-      "check_note": "audio/mpeg"
-    },
-    {
-      "id": "3b513e54-1e4f-4ea9-a0ab-ea6e1eabd5dc",
-      "name": "إذاعة طريق السلف",
-      "country": "Algeria",
-      "city": "",
-      "description": "MP3 128 kbps",
-      "tags": [
-        "classical"
-      ],
-      "stream": "https://airtime.salafwayfm.ly/",
-      "language": "",
+      "stream": "https://beurfm.ice.infomaniak.ch/beurfm-high.mp3",
+      "language": "french,arabic",
       "codec": "MP3",
       "bitrate": 128,
       "homepage": "",
-      "favicon": "",
-      "check_status": "ok",
-      "check_http_status": 200,
-      "check_note": "audio/mpeg"
+      "favicon": ""
+    },
+    {
+      "id": "97ed8391-6abe-4b91-b59e-fd29c1866d36",
+      "name": "France Maghreb 2",
+      "country": "Algeria",
+      "city": "",
+      "description": "french,arabic • MP3 128 kbps",
+      "tags": [
+        "international",
+        "maghreb"
+      ],
+      "stream": "https://francemaghreb2.ice.infomaniak.ch/francemaghreb2-high.mp3",
+      "language": "french,arabic",
+      "codec": "MP3",
+      "bitrate": 128,
+      "homepage": "",
+      "favicon": ""
+    },
+    {
+      "id": "8c775a8f-184e-44fe-9d7d-62d79454145a",
+      "name": "Abdulbasit Abdulsamad",
+      "country": "Algeria",
+      "city": "",
+      "description": "arabic • MP3 192 kbps — Récitation Coran",
+      "tags": [
+        "islamic",
+        "coran"
+      ],
+      "stream": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3",
+      "language": "arabic",
+      "codec": "MP3",
+      "bitrate": 192,
+      "homepage": "https://mp3islam.com/",
+      "favicon": ""
+    },
+    {
+      "id": "ce5a1511-e848-4543-a7c6-84432b1b7b16",
+      "name": "إذاعة ماهر المعيقلي",
+      "country": "Algeria",
+      "city": "",
+      "description": "arabic • MP3 128 kbps — Récitation Coran",
+      "tags": [
+        "classical",
+        "islamic",
+        "coran"
+      ],
+      "stream": "https://backup.qurango.net/radio/maher",
+      "language": "arabic",
+      "codec": "MP3",
+      "bitrate": 128,
+      "homepage": "",
+      "favicon": ""
+    },
+    {
+      "id": "d52d7a3c-6547-4bd4-893e-c7599cd6f565",
+      "name": "مختصر التفسير",
+      "country": "Algeria",
+      "city": "",
+      "description": "arabic • MP3 128 kbps",
+      "tags": [
+        "classical",
+        "islamic"
+      ],
+      "stream": "https://qurango.net/radio/mukhtasartafsir",
+      "language": "arabic",
+      "codec": "MP3",
+      "bitrate": 128,
+      "homepage": "",
+      "favicon": ""
+    },
+    {
+      "id": "18d9bdf7-6838-4443-b08b-8c9726dcb991",
+      "name": "القارئ محمد أيوب",
+      "country": "Algeria",
+      "city": "",
+      "description": "arabic • MP3 128 kbps — Récitation Coran",
+      "tags": [
+        "classical",
+        "islamic",
+        "coran"
+      ],
+      "stream": "https://qurango.net/radio/mohammed_ayyub",
+      "language": "arabic",
+      "codec": "MP3",
+      "bitrate": 128,
+      "homepage": "",
+      "favicon": ""
+    },
+    {
+      "id": "23a9dbd1-575f-423f-a244-98ace5e1e603",
+      "name": "صور من حياة الصحابة",
+      "country": "Algeria",
+      "city": "",
+      "description": "arabic • MP3 128 kbps",
+      "tags": [
+        "classical",
+        "islamic"
+      ],
+      "stream": "https://qurango.net/radio/sahabah",
+      "language": "arabic",
+      "codec": "MP3",
+      "bitrate": 128,
+      "homepage": "",
+      "favicon": ""
+    },
+    {
+      "id": "ad29eb2c-a9e4-4c5f-a1e2-73a4f0c15027",
+      "name": "مختصر السيرة",
+      "country": "Algeria",
+      "city": "",
+      "description": "arabic • MP3 128 kbps",
+      "tags": [
+        "classical",
+        "islamic"
+      ],
+      "stream": "https://qurango.net/radio/almukhtasar_fi_alsiyra",
+      "language": "arabic",
+      "codec": "MP3",
+      "bitrate": 128,
+      "homepage": "",
+      "favicon": ""
+    },
+    {
+      "id": "267b9ba1-fc4f-4877-8cca-baa06c04d371",
+      "name": "Beautiful Recitation",
+      "country": "Algeria",
+      "city": "",
+      "description": "arabic • MP3 128 kbps — Récitation Coran",
+      "tags": [
+        "classical",
+        "islamic",
+        "coran"
+      ],
+      "stream": "https://qurango.net/radio/salma",
+      "language": "arabic",
+      "codec": "MP3",
+      "bitrate": 128,
+      "homepage": "",
+      "favicon": ""
     },
     {
       "id": "67c98246-2259-43a5-a89b-0ec76b9b9c5f",
       "name": "تفسير بن عثيمين رحمه الله",
       "country": "Algeria",
       "city": "",
-      "description": "MP3 128 kbps",
+      "description": "arabic • MP3 128 kbps — Tafsir Ibn Uthaymeen",
       "tags": [
-        "classical"
+        "classical",
+        "islamic"
       ],
       "stream": "https://qurango.net/radio/tafseer",
-      "language": "",
+      "language": "arabic",
       "codec": "MP3",
       "bitrate": 128,
       "homepage": "",
-      "favicon": "",
-      "check_status": "ok",
-      "check_http_status": 200,
-      "check_note": "audio/mpeg"
-    },
-    {
-      "id": "df238336-9ab7-4697-840a-6f10c3ddde3e",
-      "name": "صوت الغد استراليا",
-      "country": "Algeria",
-      "city": "",
-      "description": "arabesk • MP3 80 kbps",
-      "tags": [
-        "rock"
-      ],
-      "stream": "http://s4.voscast.com:7648/;stream.mp3",
-      "language": "arabesk",
-      "codec": "MP3",
-      "bitrate": 80,
-      "homepage": "https://www.sawtelgad.com/",
-      "favicon": "null",
-      "check_status": "ok",
-      "check_http_status": 200,
-      "check_note": "audio/mpeg"
+      "favicon": ""
     }
   ]
 }
