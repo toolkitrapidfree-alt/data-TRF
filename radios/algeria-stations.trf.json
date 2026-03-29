@@ -2,676 +2,11 @@
   "schemaVersion": 1,
   "updatedAt": "2026-03-29",
   "country": "Algeria",
-  "source": "Radio Algérienne official player pages",
-  "note": "Official live page URLs for testing or later extraction of direct audio streams.",
-  "count": 56,
+  "source": "TRF-compatible stream-only rewrite from merged file",
+  "count": 17,
   "stations": [
     {
-      "id": "chaine-1",
-      "name": "Chaîne 1",
-      "group": "national",
-      "page": "https://radioalgerie.dz/player/fr/live/chaine-1",
-      "tags": [
-        "algeria",
-        "official",
-        "national"
-      ]
-    },
-    {
-      "id": "chaine-2",
-      "name": "Chaîne 2",
-      "group": "national",
-      "page": "https://radioalgerie.dz/player/fr/live/chaine-2",
-      "tags": [
-        "algeria",
-        "official",
-        "national"
-      ]
-    },
-    {
-      "id": "chaine-3",
-      "name": "Chaîne 3",
-      "group": "national",
-      "page": "https://radioalgerie.dz/player/fr/live/chaine-3",
-      "tags": [
-        "algeria",
-        "official",
-        "national"
-      ]
-    },
-    {
-      "id": "radio-algérie-internationale",
-      "name": "Radio Algérie Internationale",
-      "group": "national",
-      "page": "https://radioalgerie.dz/player/fr/live/radio-algérie-internationale",
-      "tags": [
-        "algeria",
-        "official",
-        "national"
-      ]
-    },
-    {
-      "id": "radio-coran",
-      "name": "Radio Coran",
-      "group": "national",
-      "page": "https://radioalgerie.dz/player/fr/live/radio-coran",
-      "tags": [
-        "algeria",
-        "official",
-        "national"
-      ]
-    },
-    {
-      "id": "radio-culture",
-      "name": "Radio Culture",
-      "group": "national",
-      "page": "https://radioalgerie.dz/player/fr/live/radio-culture",
-      "tags": [
-        "algeria",
-        "official",
-        "national"
-      ]
-    },
-    {
-      "id": "jil-fm",
-      "name": "Jil FM",
-      "group": "national",
-      "page": "https://radioalgerie.dz/player/fr/live/jil-fm",
-      "tags": [
-        "algeria",
-        "official",
-        "national"
-      ]
-    },
-    {
-      "id": "radio-el-bahdja",
-      "name": "Radio El Bahdja",
-      "group": "national",
-      "page": "https://radioalgerie.dz/player/fr/live/radio-el-bahdja",
-      "tags": [
-        "algeria",
-        "official",
-        "national"
-      ]
-    },
-    {
-      "id": "local-01",
-      "name": "Radio Adrar",
-      "city": "Adrar",
-      "group": "local",
-      "page": "https://radioalgerie.dz/player/fr/live/01-Adrar",
-      "tags": [
-        "algeria",
-        "official",
-        "local"
-      ]
-    },
-    {
-      "id": "local-02",
-      "name": "Radio Chlef",
-      "city": "Chlef",
-      "group": "local",
-      "page": "https://radioalgerie.dz/player/fr/live/02-Chlef",
-      "tags": [
-        "algeria",
-        "official",
-        "local"
-      ]
-    },
-    {
-      "id": "local-03",
-      "name": "Radio Laghouat",
-      "city": "Laghouat",
-      "group": "local",
-      "page": "https://radioalgerie.dz/player/fr/live/03-Laghouat",
-      "tags": [
-        "algeria",
-        "official",
-        "local"
-      ]
-    },
-    {
-      "id": "local-04",
-      "name": "Radio Oum Bouaghi",
-      "city": "Oum Bouaghi",
-      "group": "local",
-      "page": "https://radioalgerie.dz/player/fr/live/04-Oum Bouaghi",
-      "tags": [
-        "algeria",
-        "official",
-        "local"
-      ]
-    },
-    {
-      "id": "local-05",
-      "name": "Radio Batna",
-      "city": "Batna",
-      "group": "local",
-      "page": "https://radioalgerie.dz/player/fr/live/05-Batna",
-      "tags": [
-        "algeria",
-        "official",
-        "local"
-      ]
-    },
-    {
-      "id": "local-06",
-      "name": "Radio Bejaia",
-      "city": "Bejaia",
-      "group": "local",
-      "page": "https://radioalgerie.dz/player/fr/live/06-Bejaia",
-      "tags": [
-        "algeria",
-        "official",
-        "local"
-      ]
-    },
-    {
-      "id": "local-07",
-      "name": "Radio Biskra",
-      "city": "Biskra",
-      "group": "local",
-      "page": "https://radioalgerie.dz/player/fr/live/07-Biskra",
-      "tags": [
-        "algeria",
-        "official",
-        "local"
-      ]
-    },
-    {
-      "id": "local-08",
-      "name": "Radio Bechar",
-      "city": "Bechar",
-      "group": "local",
-      "page": "https://radioalgerie.dz/player/fr/live/08-Bechar",
-      "tags": [
-        "algeria",
-        "official",
-        "local"
-      ]
-    },
-    {
-      "id": "local-09",
-      "name": "Radio Blida",
-      "city": "Blida",
-      "group": "local",
-      "page": "https://radioalgerie.dz/player/fr/live/09-Blida",
-      "tags": [
-        "algeria",
-        "official",
-        "local"
-      ]
-    },
-    {
-      "id": "local-10",
-      "name": "Radio Bouira",
-      "city": "Bouira",
-      "group": "local",
-      "page": "https://radioalgerie.dz/player/fr/live/10-Bouira",
-      "tags": [
-        "algeria",
-        "official",
-        "local"
-      ]
-    },
-    {
-      "id": "local-11",
-      "name": "Radio Tamenrasset",
-      "city": "Tamenrasset",
-      "group": "local",
-      "page": "https://radioalgerie.dz/player/fr/live/11-Tamenrasset",
-      "tags": [
-        "algeria",
-        "official",
-        "local"
-      ]
-    },
-    {
-      "id": "local-12",
-      "name": "Radio Tebessa",
-      "city": "Tebessa",
-      "group": "local",
-      "page": "https://radioalgerie.dz/player/fr/live/12-Tebessa",
-      "tags": [
-        "algeria",
-        "official",
-        "local"
-      ]
-    },
-    {
-      "id": "local-13",
-      "name": "Radio Tlemcen",
-      "city": "Tlemcen",
-      "group": "local",
-      "page": "https://radioalgerie.dz/player/fr/live/13-Tlemcen",
-      "tags": [
-        "algeria",
-        "official",
-        "local"
-      ]
-    },
-    {
-      "id": "local-14",
-      "name": "Radio Tiaret",
-      "city": "Tiaret",
-      "group": "local",
-      "page": "https://radioalgerie.dz/player/fr/live/14-Tiaret",
-      "tags": [
-        "algeria",
-        "official",
-        "local"
-      ]
-    },
-    {
-      "id": "local-15",
-      "name": "Radio Tizi Ouzou",
-      "city": "Tizi Ouzou",
-      "group": "local",
-      "page": "https://radioalgerie.dz/player/fr/live/15-Tizi Ouzou",
-      "tags": [
-        "algeria",
-        "official",
-        "local"
-      ]
-    },
-    {
-      "id": "local-16",
-      "name": "Radio Alger",
-      "city": "Alger",
-      "group": "local",
-      "page": "https://radioalgerie.dz/player/fr/live/16-Alger",
-      "tags": [
-        "algeria",
-        "official",
-        "local"
-      ]
-    },
-    {
-      "id": "local-17",
-      "name": "Radio Djelfa",
-      "city": "Djelfa",
-      "group": "local",
-      "page": "https://radioalgerie.dz/player/fr/live/17-Djelfa",
-      "tags": [
-        "algeria",
-        "official",
-        "local"
-      ]
-    },
-    {
-      "id": "local-18",
-      "name": "Radio Jijel",
-      "city": "Jijel",
-      "group": "local",
-      "page": "https://radioalgerie.dz/player/fr/live/18-Jijel",
-      "tags": [
-        "algeria",
-        "official",
-        "local"
-      ]
-    },
-    {
-      "id": "local-19",
-      "name": "Radio Setif",
-      "city": "Setif",
-      "group": "local",
-      "page": "https://radioalgerie.dz/player/fr/live/19-Setif",
-      "tags": [
-        "algeria",
-        "official",
-        "local"
-      ]
-    },
-    {
-      "id": "local-20",
-      "name": "Radio Saida",
-      "city": "Saida",
-      "group": "local",
-      "page": "https://radioalgerie.dz/player/fr/live/20-Saida",
-      "tags": [
-        "algeria",
-        "official",
-        "local"
-      ]
-    },
-    {
-      "id": "local-21",
-      "name": "Radio Skikda",
-      "city": "Skikda",
-      "group": "local",
-      "page": "https://radioalgerie.dz/player/fr/live/21-Skikda",
-      "tags": [
-        "algeria",
-        "official",
-        "local"
-      ]
-    },
-    {
-      "id": "local-22",
-      "name": "Radio Sidi Bel Abbes",
-      "city": "Sidi Bel Abbes",
-      "group": "local",
-      "page": "https://radioalgerie.dz/player/fr/live/22-Sidi Bel Abbes",
-      "tags": [
-        "algeria",
-        "official",
-        "local"
-      ]
-    },
-    {
-      "id": "local-23",
-      "name": "Radio Annaba",
-      "city": "Annaba",
-      "group": "local",
-      "page": "https://radioalgerie.dz/player/fr/live/23-Annaba",
-      "tags": [
-        "algeria",
-        "official",
-        "local"
-      ]
-    },
-    {
-      "id": "local-24",
-      "name": "Radio Guelma",
-      "city": "Guelma",
-      "group": "local",
-      "page": "https://radioalgerie.dz/player/fr/live/24-Guelma",
-      "tags": [
-        "algeria",
-        "official",
-        "local"
-      ]
-    },
-    {
-      "id": "local-25",
-      "name": "Radio Constantine",
-      "city": "Constantine",
-      "group": "local",
-      "page": "https://radioalgerie.dz/player/fr/live/25-Constantine",
-      "tags": [
-        "algeria",
-        "official",
-        "local"
-      ]
-    },
-    {
-      "id": "local-26",
-      "name": "Radio Medea",
-      "city": "Medea",
-      "group": "local",
-      "page": "https://radioalgerie.dz/player/fr/live/26-Medea",
-      "tags": [
-        "algeria",
-        "official",
-        "local"
-      ]
-    },
-    {
-      "id": "local-27",
-      "name": "Radio Mostaganem",
-      "city": "Mostaganem",
-      "group": "local",
-      "page": "https://radioalgerie.dz/player/fr/live/27-Mostaganem",
-      "tags": [
-        "algeria",
-        "official",
-        "local"
-      ]
-    },
-    {
-      "id": "local-28",
-      "name": "Radio M'sila",
-      "city": "M'sila",
-      "group": "local",
-      "page": "https://radioalgerie.dz/player/fr/live/28-M'sila",
-      "tags": [
-        "algeria",
-        "official",
-        "local"
-      ]
-    },
-    {
-      "id": "local-29",
-      "name": "Radio Mascara",
-      "city": "Mascara",
-      "group": "local",
-      "page": "https://radioalgerie.dz/player/fr/live/29-Mascara",
-      "tags": [
-        "algeria",
-        "official",
-        "local"
-      ]
-    },
-    {
-      "id": "local-30",
-      "name": "Radio Ouargla",
-      "city": "Ouargla",
-      "group": "local",
-      "page": "https://radioalgerie.dz/player/fr/live/30-Ouargla",
-      "tags": [
-        "algeria",
-        "official",
-        "local"
-      ]
-    },
-    {
-      "id": "local-31",
-      "name": "Radio Oran",
-      "city": "Oran",
-      "group": "local",
-      "page": "https://radioalgerie.dz/player/fr/live/31-Oran",
-      "tags": [
-        "algeria",
-        "official",
-        "local"
-      ]
-    },
-    {
-      "id": "local-32",
-      "name": "Radio El Bayadh",
-      "city": "El Bayadh",
-      "group": "local",
-      "page": "https://radioalgerie.dz/player/fr/live/32-El Bayadh",
-      "tags": [
-        "algeria",
-        "official",
-        "local"
-      ]
-    },
-    {
-      "id": "local-33",
-      "name": "Radio Illizi",
-      "city": "Illizi",
-      "group": "local",
-      "page": "https://radioalgerie.dz/player/fr/live/33-Illizi",
-      "tags": [
-        "algeria",
-        "official",
-        "local"
-      ]
-    },
-    {
-      "id": "local-34",
-      "name": "Radio Bordj Bou Arreridj",
-      "city": "Bordj Bou Arreridj",
-      "group": "local",
-      "page": "https://radioalgerie.dz/player/fr/live/34-Bordj Bou Arreridj",
-      "tags": [
-        "algeria",
-        "official",
-        "local"
-      ]
-    },
-    {
-      "id": "local-35",
-      "name": "Radio Boumerdes",
-      "city": "Boumerdes",
-      "group": "local",
-      "page": "https://radioalgerie.dz/player/fr/live/35-Boumerdes",
-      "tags": [
-        "algeria",
-        "official",
-        "local"
-      ]
-    },
-    {
-      "id": "local-36",
-      "name": "Radio El Tarf",
-      "city": "El Tarf",
-      "group": "local",
-      "page": "https://radioalgerie.dz/player/fr/live/36-El Tarf",
-      "tags": [
-        "algeria",
-        "official",
-        "local"
-      ]
-    },
-    {
-      "id": "local-37",
-      "name": "Radio Tindouf",
-      "city": "Tindouf",
-      "group": "local",
-      "page": "https://radioalgerie.dz/player/fr/live/37-Tindouf",
-      "tags": [
-        "algeria",
-        "official",
-        "local"
-      ]
-    },
-    {
-      "id": "local-38",
-      "name": "Radio Tissemsilt",
-      "city": "Tissemsilt",
-      "group": "local",
-      "page": "https://radioalgerie.dz/player/fr/live/38-Tissemsilt",
-      "tags": [
-        "algeria",
-        "official",
-        "local"
-      ]
-    },
-    {
-      "id": "local-39",
-      "name": "Radio El Oued",
-      "city": "El Oued",
-      "group": "local",
-      "page": "https://radioalgerie.dz/player/fr/live/39-El Oued",
-      "tags": [
-        "algeria",
-        "official",
-        "local"
-      ]
-    },
-    {
-      "id": "local-40",
-      "name": "Radio Khenchla",
-      "city": "Khenchla",
-      "group": "local",
-      "page": "https://radioalgerie.dz/player/fr/live/40-Khenchla",
-      "tags": [
-        "algeria",
-        "official",
-        "local"
-      ]
-    },
-    {
-      "id": "local-41",
-      "name": "Radio Souk Ahras",
-      "city": "Souk Ahras",
-      "group": "local",
-      "page": "https://radioalgerie.dz/player/fr/live/41-Souk Ahras",
-      "tags": [
-        "algeria",
-        "official",
-        "local"
-      ]
-    },
-    {
-      "id": "local-42",
-      "name": "Radio Tipaza",
-      "city": "Tipaza",
-      "group": "local",
-      "page": "https://radioalgerie.dz/player/fr/live/42-Tipaza",
-      "tags": [
-        "algeria",
-        "official",
-        "local"
-      ]
-    },
-    {
-      "id": "local-43",
-      "name": "Radio Mila",
-      "city": "Mila",
-      "group": "local",
-      "page": "https://radioalgerie.dz/player/fr/live/43-Mila",
-      "tags": [
-        "algeria",
-        "official",
-        "local"
-      ]
-    },
-    {
-      "id": "local-44",
-      "name": "Radio Ain Defla",
-      "city": "Ain Defla",
-      "group": "local",
-      "page": "https://radioalgerie.dz/player/fr/live/44-Ain Defla",
-      "tags": [
-        "algeria",
-        "official",
-        "local"
-      ]
-    },
-    {
-      "id": "local-45",
-      "name": "Radio Naama",
-      "city": "Naama",
-      "group": "local",
-      "page": "https://radioalgerie.dz/player/fr/live/45-Naama",
-      "tags": [
-        "algeria",
-        "official",
-        "local"
-      ]
-    },
-    {
-      "id": "local-46",
-      "name": "Radio Ain Timouchent",
-      "city": "Ain Timouchent",
-      "group": "local",
-      "page": "https://radioalgerie.dz/player/fr/live/46-Ain Timouchent",
-      "tags": [
-        "algeria",
-        "official",
-        "local"
-      ]
-    },
-    {
-      "id": "local-47",
-      "name": "Radio Ghardaia",
-      "city": "Ghardaia",
-      "group": "local",
-      "page": "https://radioalgerie.dz/player/fr/live/47-Ghardaia",
-      "tags": [
-        "algeria",
-        "official",
-        "local"
-      ]
-    },
-    {
-      "id": "local-48",
-      "name": "Radio Relizane",
-      "city": "Relizane",
-      "group": "local",
-      "page": "https://radioalgerie.dz/player/fr/live/48-Relizane",
-      "tags": [
-        "algeria",
-        "official",
-        "local"
-      ]
-    },
-    {
-      "id": "5916cff1-882d-4d58-8d85-f9c08d4bea8b",
+      "id": "radio-coran-algerie",
       "name": "Radio Coran — Algérie",
       "country": "Algeria",
       "city": "Alger",
@@ -684,7 +19,7 @@
       ]
     },
     {
-      "id": "d48a4d43-29f9-45d9-90ca-2ff773ba0d16",
+      "id": "radio-el-bahdja",
       "name": "Radio El Bahdja",
       "country": "Algeria",
       "city": "Alger",
@@ -696,7 +31,7 @@
       ]
     },
     {
-      "id": "e1b608ca-30dd-49e7-8b9b-bd4e12b45af2",
+      "id": "jil-fm",
       "name": "Jil FM",
       "country": "Algeria",
       "city": "Alger",
@@ -708,7 +43,7 @@
       ]
     },
     {
-      "id": "c50a9418-6e30-42f0-8d62-a2acb738afdd",
+      "id": "radio-amazigh",
       "name": "Radio Amazigh",
       "country": "Algeria",
       "city": "Alger",
@@ -720,7 +55,7 @@
       ]
     },
     {
-      "id": "a756f408-4343-4986-96f5-e92a83554827",
+      "id": "radio-culture-algerie",
       "name": "Radio Culture — Algérie",
       "country": "Algeria",
       "city": "Alger",
@@ -731,7 +66,7 @@
       ]
     },
     {
-      "id": "ef35cf04-b14e-44f3-bc71-a11a89f45cf1",
+      "id": "radio-algerie-internationale",
       "name": "Radio Algérie Internationale",
       "country": "Algeria",
       "city": "Alger",
@@ -743,8 +78,8 @@
       ]
     },
     {
-      "id": "6bfb7a7c-b811-472b-b091-5e27cb098bac",
-      "name": "A ntinea Radio",
+      "id": "antinea-radio",
+      "name": "Antinea Radio",
       "country": "Algeria",
       "city": "Tizi-Ouzou",
       "stream": "https://listen.radioking.com/radio/6640/stream/347",
@@ -754,7 +89,7 @@
       ]
     },
     {
-      "id": "029d4199-d4d6-4272-89dc-3f5cc0c28453",
+      "id": "radio-tizi-ouzou",
       "name": "Radio Tizi Ouzou",
       "country": "Algeria",
       "city": "Tizi-Ouzou",
@@ -766,7 +101,7 @@
       ]
     },
     {
-      "id": "f2d01650-b84f-4d85-aa3f-4c085bf211ff",
+      "id": "hits-1-algerie",
       "name": "Hits 1 Algérie",
       "country": "Algeria",
       "city": "Alger",
@@ -778,7 +113,7 @@
       ]
     },
     {
-      "id": "72a7207c-e3c9-4f0e-8345-bfaf0ee23ee6",
+      "id": "ghorbadz",
       "name": "GhorbaDz",
       "country": "Algeria",
       "city": "Alger",
@@ -789,29 +124,7 @@
       ]
     },
     {
-      "id": "8cd4aff2-15af-454f-84b7-a8904548f704",
-      "name": "Beur FM",
-      "country": "Algeria",
-      "city": "",
-      "stream": "https://beurfm.ice.infomaniak.ch/beurfm-high.mp3",
-      "tags": [
-        "international",
-        "maghreb"
-      ]
-    },
-    {
-      "id": "97ed8391-6abe-4b91-b59e-fd29c1866d36",
-      "name": "France Maghreb 2",
-      "country": "Algeria",
-      "city": "",
-      "stream": "https://francemaghreb2.ice.infomaniak.ch/francemaghreb2-high.mp3",
-      "tags": [
-        "international",
-        "maghreb"
-      ]
-    },
-    {
-      "id": "8c775a8f-184e-44fe-9d7d-62d79454145a",
+      "id": "abdulbasit-abdulsamad",
       "name": "Abdulbasit Abdulsamad",
       "country": "Algeria",
       "city": "",
@@ -822,7 +135,7 @@
       ]
     },
     {
-      "id": "ce5a1511-e848-4543-a7c6-84432b1b7b16",
+      "id": "maher-almuaiqly",
       "name": "إذاعة ماهر المعيقلي",
       "country": "Algeria",
       "city": "",
@@ -834,7 +147,7 @@
       ]
     },
     {
-      "id": "d52d7a3c-6547-4bd4-893e-c7599cd6f565",
+      "id": "mukhtasar-tafsir",
       "name": "مختصر التفسير",
       "country": "Algeria",
       "city": "",
@@ -845,19 +158,7 @@
       ]
     },
     {
-      "id": "18d9bdf7-6838-4443-b08b-8c9726dcb991",
-      "name": "القارئ محمد أيوب",
-      "country": "Algeria",
-      "city": "",
-      "stream": "https://qurango.net/radio/mohammed_ayyub",
-      "tags": [
-        "classical",
-        "islamic",
-        "coran"
-      ]
-    },
-    {
-      "id": "23a9dbd1-575f-423f-a244-98ace5e1e603",
+      "id": "suwar-min-hayat-assahaba",
       "name": "صور من حياة الصحابة",
       "country": "Algeria",
       "city": "",
@@ -868,7 +169,7 @@
       ]
     },
     {
-      "id": "ad29eb2c-a9e4-4c5f-a1e2-73a4f0c15027",
+      "id": "mukhtasar-sirah",
       "name": "مختصر السيرة",
       "country": "Algeria",
       "city": "",
@@ -879,7 +180,7 @@
       ]
     },
     {
-      "id": "267b9ba1-fc4f-4877-8cca-baa06c04d371",
+      "id": "beautiful-recitation",
       "name": "Beautiful Recitation",
       "country": "Algeria",
       "city": "",
@@ -891,7 +192,7 @@
       ]
     },
     {
-      "id": "67c98246-2259-43a5-a89b-0ec76b9b9c5f",
+      "id": "tafseer-bin-uthaymin",
       "name": "تفسير بن عثيمين رحمه الله",
       "country": "Algeria",
       "city": "",
