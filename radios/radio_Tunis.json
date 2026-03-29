@@ -119,16 +119,77 @@
         "tunisia"
       ]
     },
-    {
-      "id": "jawhara-fm-mp3-128",
-      "name": "Jawhara FM",
-      "country": "TUNISIA",
-      "city": "",
-      "description": "tunisia — MP3",
-      "stream": "https://streaming2.toutech.net:8000/jawharafm",
-      "tags": [
-        "tunisia"
-      ]
+  {
+    "id": "jawhara-fm-m3u8-128",
+    "name": "Jawhara FM",
+    "country": "TUNISIA",
+    "city": "Sousse",
+    "description": "tunisia — HLS",
+    "stream": "http://streaming.toutech.net/live/jfm/index.m3u8",
+    "tags": ["tunisia"]
+  },
+  {
+    "id": "jawhara-fm-tounsi-mp3-128",
+    "name": "Jawhara FM 100% Tounsi",
+    "country": "TUNISIA",
+    "city": "",
+    "description": "tunisia — MP3",
+    "stream": "http://streaming2.toutech.net:8000/jfmweb1",
+    "tags": ["tunisia"]
+  },
+  {
+    "id": "jawhara-fm-hit-mp3-128",
+    "name": "Jawhara FM 100% Hit",
+    "country": "TUNISIA",
+    "city": "",
+    "description": "tunisia — MP3",
+    "stream": "http://streaming2.toutech.net:8000/jfmweb4",
+    "tags": ["tunisia"]
+  },
+  {
+    "id": "ifm-mp3-128",
+    "name": "IFM",
+    "country": "TUNISIA",
+    "city": "Tunis",
+    "description": "tunisia — MP3",
+    "stream": "https://live.ifm.tn/radio/8000/ifmlive",
+    "tags": ["tunisia"]
+  },
+  {
+    "id": "shems-fm-mp3-128",
+    "name": "Shems FM",
+    "country": "TUNISIA",
+    "city": "Tunis",
+    "description": "tunisia — MP3",
+    "stream": "https://stream6.tanitweb.com/shems",
+    "tags": ["tunisia"]
+  },
+  {
+    "id": "cap-fm-mp3-128",
+    "name": "Cap FM",
+    "country": "TUNISIA",
+    "city": "Hammamet",
+    "description": "tunisia — MP3",
+    "stream": "http://stream8.tanitweb.com/capfm",
+    "tags": ["tunisia"]
+  },
+  {
+    "id": "ulysse-fm-mp3-128",
+    "name": "Ulysse FM",
+    "country": "TUNISIA",
+    "city": "Djerba",
+    "description": "tunisia — MP3",
+    "stream": "http://live.ulysse-fm.net:8000/",
+    "tags": ["tunisia"]
+  },
+  {
+    "id": "radio-panorama-mp3-128",
+    "name": "Radio Panorama",
+    "country": "TUNISIA",
+    "city": "Tunis",
+    "description": "tunisia — MP3",
+    "stream": "http://listen.shoutcast.com/panoramatunis",
+    "tags": ["tunisia"]
     },
     {
       "id": "jawhara-fm-mp3-128-2",
