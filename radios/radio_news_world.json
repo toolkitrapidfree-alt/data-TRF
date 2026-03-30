@@ -1,0 +1,222 @@
+{
+  "updatedAt": "2026-03-30",
+  "stations": [
+    {
+      "id": "d5ce6131-76a1-43d1-a0cf-fd3a5e3def20",
+      "name": "Al Jazeera Arabic الجزيرة",
+      "country": "Qatar",
+      "city": "",
+      "stream": "https://live-hls-audio-web-aja.getaj.net/VOICE-AJA/index.m3u8",
+      "tags": [
+        "news",
+        "arabic",
+        "international"
+      ]
+    },
+    {
+      "id": "2281145c-0674-496e-86b5-f860c79d238b",
+      "name": "Al Arabiya العربية",
+      "country": "UAE",
+      "city": "",
+      "stream": "https://l3.itworkscdn.net/alarabyradiolive/alarabyradio_audio/icecast.audio",
+      "tags": [
+        "news",
+        "arabic",
+        "international"
+      ]
+    },
+    {
+      "id": "df2d7afc-783e-42fe-9f54-fdf4a54f1b0c",
+      "name": "BBC Arabic بي بي سي",
+      "country": "UK",
+      "city": "",
+      "stream": "https://stream.live.vc.bbcmedia.co.uk/bbc_arabic_radio",
+      "tags": [
+        "news",
+        "arabic",
+        "international"
+      ]
+    },
+    {
+      "id": "df7f9f33-6894-4135-ad53-981b2dd0a0b4",
+      "name": "Monte Carlo الدولية",
+      "country": "France",
+      "city": "",
+      "stream": "https://rf.mcd.rfi.fr/mcd-88.mp3",
+      "tags": [
+        "news",
+        "arabic",
+        "international",
+        "french"
+      ]
+    },
+    {
+      "id": "fd5463bf-62f1-4e17-a2d6-6bba6fc4e526",
+      "name": "France 24 Arabic",
+      "country": "France",
+      "city": "",
+      "stream": "https://stream.france24.com/audio/live/france24-ar-128k.mp3",
+      "tags": [
+        "news",
+        "arabic",
+        "french",
+        "international"
+      ]
+    },
+    {
+      "id": "e55d8d5d-826c-41ff-99dc-c4f29e2e2713",
+      "name": "RT Arabic آر تي",
+      "country": "Russia",
+      "city": "",
+      "stream": "https://rt-arab.rcast.net/;stream.mp3",
+      "tags": [
+        "news",
+        "arabic",
+        "international"
+      ]
+    },
+    {
+      "id": "c6cd6d66-0814-40e3-9228-3d29e59d7b3a",
+      "name": "Sky News Arabia",
+      "country": "UAE",
+      "city": "",
+      "stream": "https://skynewsarabia.rcast.net/;stream.mp3",
+      "tags": [
+        "news",
+        "arabic",
+        "international"
+      ]
+    },
+    {
+      "id": "8a07af05-1e66-470c-85f3-dd3e44cf9586",
+      "name": "France 24 Français",
+      "country": "France",
+      "city": "",
+      "stream": "https://stream.france24.com/audio/live/france24-fr-128k.mp3",
+      "tags": [
+        "news",
+        "french",
+        "international"
+      ]
+    },
+    {
+      "id": "c816bf4a-9ef5-4380-8444-ec21c7e63d90",
+      "name": "RFI Monde",
+      "country": "France",
+      "city": "",
+      "stream": "https://rfimonde64.ice.infomaniak.ch/rfimonde-64.mp3",
+      "tags": [
+        "news",
+        "french",
+        "international"
+      ]
+    },
+    {
+      "id": "5e965b21-54e6-4e83-92bf-4a7408351507",
+      "name": "RFI Afrique",
+      "country": "France",
+      "city": "",
+      "stream": "https://rfiafrique64.ice.infomaniak.ch/rfiafrique-64.mp3",
+      "tags": [
+        "news",
+        "french",
+        "international"
+      ]
+    },
+    {
+      "id": "6ee3db4f-31b9-413a-afdf-26bea566a2ea",
+      "name": "France Info",
+      "country": "France",
+      "city": "",
+      "stream": "https://stream.radiofrance.fr/franceinfo/franceinfo_midfi.m3u8",
+      "tags": [
+        "news",
+        "french"
+      ]
+    },
+    {
+      "id": "5cda7574-d613-4218-9e3e-1fd7e3a5993d",
+      "name": "BBC World Service",
+      "country": "UK",
+      "city": "",
+      "stream": "https://stream.live.vc.bbcmedia.co.uk/bbc_world_service",
+      "tags": [
+        "news",
+        "english",
+        "international"
+      ]
+    },
+    {
+      "id": "a6d2aafd-2d84-44ad-96b8-34253ecf0834",
+      "name": "Al Jazeera English",
+      "country": "Qatar",
+      "city": "",
+      "stream": "https://live-hls-audio-web-aje.getaj.net/VOICE-AJE/index.m3u8",
+      "tags": [
+        "news",
+        "english",
+        "international"
+      ]
+    },
+    {
+      "id": "b0065c88-d1b4-417a-aa28-0a8800cc1c34",
+      "name": "France 24 English",
+      "country": "France",
+      "city": "",
+      "stream": "https://stream.france24.com/audio/live/france24-en-128k.mp3",
+      "tags": [
+        "news",
+        "english",
+        "international"
+      ]
+    },
+    {
+      "id": "f076bcfb-56a1-4569-86cc-11988abd3a56",
+      "name": "DW Arabic دويتشه",
+      "country": "Germany",
+      "city": "",
+      "stream": "https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8",
+      "tags": [
+        "news",
+        "arabic",
+        "international"
+      ]
+    },
+    {
+      "id": "3ab29433-cbf7-46c5-bd6e-658129d87f02",
+      "name": "DW English",
+      "country": "Germany",
+      "city": "",
+      "stream": "https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8",
+      "tags": [
+        "news",
+        "english",
+        "international"
+      ]
+    },
+    {
+      "id": "1031d841-46db-49b2-82d9-461214b993b0",
+      "name": "VOA Arabic صوت أمريكا",
+      "country": "USA",
+      "city": "",
+      "stream": "https://voa-arabic.akacast.akamaistream.net/7/831/374658/v1/ibb.akacast.akamaistream.net/voa-arabic",
+      "tags": [
+        "news",
+        "arabic",
+        "international"
+      ]
+    },
+    {
+      "id": "c4c57415-58fc-4ddc-bed5-8b5445aaf2de",
+      "name": "CNN International",
+      "country": "USA",
+      "city": "",
+      "stream": "https://cnn-cnninternational-1-gb.samsung.wurl.tv/manifest/playlist.m3u8",
+      "tags": [
+        "news",
+        "english",
+        "international"
+      ]
+    }
+  ]
+}
