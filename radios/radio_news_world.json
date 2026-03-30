@@ -8,9 +8,10 @@
       "city": "",
       "stream": "https://live-hls-audio-web-aja.getaj.net/VOICE-AJA/index.m3u8",
       "tags": [
-        "news world",
+        "news",
         "arabic",
-        "international"
+        "international",
+		"news world"
       ]
     },
     {
@@ -20,9 +21,10 @@
       "city": "",
       "stream": "https://l3.itworkscdn.net/alarabyradiolive/alarabyradio_audio/icecast.audio",
       "tags": [
-        "news world",
+        "news",
         "arabic",
-        "international"
+        "international",
+		"news world"
       ]
     },
     {
@@ -32,9 +34,10 @@
       "city": "",
       "stream": "https://stream.live.vc.bbcmedia.co.uk/bbc_arabic_radio",
       "tags": [
-        "news world",
+        "news",
         "arabic",
-        "international"
+        "international",
+		"news world"
       ]
     },
     {
@@ -44,10 +47,11 @@
       "city": "",
       "stream": "https://rf.mcd.rfi.fr/mcd-88.mp3",
       "tags": [
-        "news world",
+        "news",
         "arabic",
         "international",
-        "french"
+        "french",
+		"news world"
       ]
     },
     {
@@ -57,10 +61,11 @@
       "city": "",
       "stream": "https://stream.france24.com/audio/live/france24-ar-128k.mp3",
       "tags": [
-        "news world",
+        "news",
         "arabic",
         "french",
-        "international"
+        "international",
+		"news world"
       ]
     },
     {
@@ -70,9 +75,10 @@
       "city": "",
       "stream": "https://rt-arab.rcast.net/;stream.mp3",
       "tags": [
-        "news world",
+        "news",
         "arabic",
-        "international"
+        "international",
+		"news world"
       ]
     },
     {
@@ -82,9 +88,10 @@
       "city": "",
       "stream": "https://skynewsarabia.rcast.net/;stream.mp3",
       "tags": [
-        "news world",
+        "news",
         "arabic",
-        "international"
+        "international",
+		"news world"
       ]
     },
     {
@@ -94,9 +101,10 @@
       "city": "",
       "stream": "https://stream.france24.com/audio/live/france24-fr-128k.mp3",
       "tags": [
-        "news world",
+        "news",
         "french",
-        "international"
+        "international",
+		"news world"
       ]
     },
     {
@@ -106,9 +114,10 @@
       "city": "",
       "stream": "https://rfimonde64.ice.infomaniak.ch/rfimonde-64.mp3",
       "tags": [
-        "news world",
+        "news",
         "french",
-        "international"
+        "international",
+		"news world"
       ]
     },
     {
@@ -118,9 +127,10 @@
       "city": "",
       "stream": "https://rfiafrique64.ice.infomaniak.ch/rfiafrique-64.mp3",
       "tags": [
-        "news world",
+        "news",
         "french",
-        "international"
+        "international",
+		"news world"
       ]
     },
     {
@@ -130,8 +140,9 @@
       "city": "",
       "stream": "https://stream.radiofrance.fr/franceinfo/franceinfo_midfi.m3u8",
       "tags": [
-        "news world",
-        "french"
+        "news",
+        "french",
+		"news world"
       ]
     },
     {
@@ -141,9 +152,10 @@
       "city": "",
       "stream": "https://stream.live.vc.bbcmedia.co.uk/bbc_world_service",
       "tags": [
-        "news world",
+        "news",
         "english",
-        "international"
+        "international",
+		"news world"
       ]
     },
     {
@@ -153,9 +165,10 @@
       "city": "",
       "stream": "https://live-hls-audio-web-aje.getaj.net/VOICE-AJE/index.m3u8",
       "tags": [
-        "news world",
+        "news",
         "english",
-        "international"
+        "international",
+		"news world"
       ]
     },
     {
@@ -165,9 +178,10 @@
       "city": "",
       "stream": "https://stream.france24.com/audio/live/france24-en-128k.mp3",
       "tags": [
-        "news world",
+        "news",
         "english",
-        "international"
+        "international",
+		"news world"
       ]
     },
     {
@@ -177,9 +191,10 @@
       "city": "",
       "stream": "https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8",
       "tags": [
-        "news world",
+        "news",
         "arabic",
-        "international"
+        "international",
+		"news world"
       ]
     },
     {
@@ -189,9 +204,10 @@
       "city": "",
       "stream": "https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8",
       "tags": [
-        "news world",
+        "news",
         "english",
-        "international"
+        "international",
+		"news world"
       ]
     },
     {
@@ -201,9 +217,10 @@
       "city": "",
       "stream": "https://voa-arabic.akacast.akamaistream.net/7/831/374658/v1/ibb.akacast.akamaistream.net/voa-arabic",
       "tags": [
-        "news world",
+        "news",
         "arabic",
-        "international"
+        "international",
+		"news world"
       ]
     },
     {
@@ -213,9 +230,10 @@
       "city": "",
       "stream": "https://cnn-cnninternational-1-gb.samsung.wurl.tv/manifest/playlist.m3u8",
       "tags": [
-        "news world",
+        "news",
         "english",
-        "international"
+        "international",
+		"news world"
       ]
     }
   ]
