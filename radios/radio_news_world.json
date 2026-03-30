@@ -55,67 +55,14 @@
       ]
     },
     {
-      "id": "fd5463bf-62f1-4e17-a2d6-6bba6fc4e526",
-      "name": "France 24 Arabic",
-      "country": "France",
-      "city": "",
-      "stream": "https://live.france24.com/hls/live/2037222/F24_AR_HI_HLS/master_5000.m3u8",
-      "tags": [
-        "news",
-        "arabic",
-        "french",
-        "international",
-		"news world"
-      ]
-    },
-    {
-      "id": "e55d8d5d-826c-41ff-99dc-c4f29e2e2713",
-      "name": "RT Arabic آر تي",
-      "country": "Russia",
-      "city": "",
-      "stream": "https://rt-arab.rcast.net/;stream.mp3",
-      "tags": [
-        "news",
-        "arabic",
-        "international",
-		"news world"
-      ]
-    },
-    {
       "id": "c6cd6d66-0814-40e3-9228-3d29e59d7b3a",
       "name": "Sky News Arabia",
       "country": "UAE",
       "city": "",
-      "stream": "https://skynewsarabia.rcast.net/;stream.mp3",
+      "stream": "https://stream.skynewsarabia.com/hls/sna_720.m3u8",
       "tags": [
         "news",
         "arabic",
-        "international",
-		"news world"
-      ]
-    },
-    {
-      "id": "8a07af05-1e66-470c-85f3-dd3e44cf9586",
-      "name": "France 24 Français",
-      "country": "France",
-      "city": "",
-      "stream": "https://stream.france24.com/audio/live/france24-fr-128k.mp3",
-      "tags": [
-        "news",
-        "french",
-        "international",
-		"news world"
-      ]
-    },
-    {
-      "id": "c816bf4a-9ef5-4380-8444-ec21c7e63d90",
-      "name": "RFI Monde",
-      "country": "France",
-      "city": "",
-      "stream": "https://rfimonde64.ice.infomaniak.ch/rfimonde-64.mp3",
-      "tags": [
-        "news",
-        "french",
         "international",
 		"news world"
       ]
@@ -164,19 +111,6 @@
       "country": "Qatar",
       "city": "",
       "stream": "https://live-hls-audio-web-aje.getaj.net/VOICE-AJE/index.m3u8",
-      "tags": [
-        "news",
-        "english",
-        "international",
-		"news world"
-      ]
-    },
-    {
-      "id": "b0065c88-d1b4-417a-aa28-0a8800cc1c34",
-      "name": "France 24 English",
-      "country": "France",
-      "city": "",
-      "stream": "https://stream.france24.com/audio/live/france24-en-128k.mp3",
       "tags": [
         "news",
         "english",
