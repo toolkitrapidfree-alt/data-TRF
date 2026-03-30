@@ -59,7 +59,7 @@
       "name": "France 24 Arabic",
       "country": "France",
       "city": "",
-      "stream": "https://stream.france24.com/audio/live/france24-ar-128k.mp3",
+      "stream": "https://live.france24.com/hls/live/2037222/F24_AR_HI_HLS/master_5000.m3u8",
       "tags": [
         "news",
         "arabic",
@@ -189,7 +189,7 @@
       "name": "DW Arabic دويتشه",
       "country": "Germany",
       "city": "",
-      "stream": "https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8",
+      "stream": "https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/master.m3u8",
       "tags": [
         "news",
         "arabic",
@@ -211,24 +211,11 @@
       ]
     },
     {
-      "id": "1031d841-46db-49b2-82d9-461214b993b0",
-      "name": "VOA Arabic صوت أمريكا",
-      "country": "USA",
-      "city": "",
-      "stream": "https://voa-arabic.akacast.akamaistream.net/7/831/374658/v1/ibb.akacast.akamaistream.net/voa-arabic",
-      "tags": [
-        "news",
-        "arabic",
-        "international",
-		"news world"
-      ]
-    },
-    {
       "id": "c4c57415-58fc-4ddc-bed5-8b5445aaf2de",
       "name": "CNN International",
       "country": "USA",
       "city": "",
-      "stream": "https://cnn-cnninternational-1-gb.samsung.wurl.tv/manifest/playlist.m3u8",
+      "stream": "https://tunein.cdnstream1.com/2868_96.mp3",
       "tags": [
         "news",
         "english",
