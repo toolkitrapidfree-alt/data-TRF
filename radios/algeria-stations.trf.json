@@ -1,126 +1,313 @@
 {
-  "schemaVersion": 1,
   "updatedAt": "2026-03-29",
-  "country": "Algeria",
-  "source": "TRF-compatible stream-only rewrite from merged file",
-  "count": 17,
   "stations": [
     {
-      "id": "radio-coran-algerie",
-      "name": "Radio Coran — Algérie",
+      "id": "a3801ef9-a519-4130-9168-b472aaa88080",
+      "name": "Chaîne 1 الأولى",
       "country": "Algeria",
       "city": "Alger",
-      "stream": "https://webradio.tda.dz/coran.mp3",
+      "stream": "https://webradio.tda.dz/Chaine1_64K.mp3",
+      "tags": [
+        "news",
+        "arabic",
+        "dz",
+        "algeria"
+      ]
+    },
+    {
+      "id": "41954d2c-4dde-4521-a0de-5c7c7124823b",
+      "name": "Chaîne 2 الثانية",
+      "country": "Algeria",
+      "city": "Alger",
+      "stream": "https://webradio.tda.dz/Chaine2_64K.mp3",
+      "tags": [
+        "culture",
+        "tamazight",
+        "dz",
+        "algeria"
+      ]
+    },
+    {
+      "id": "48b6c2f8-9fdb-4577-ada5-a34a0bf28d09",
+      "name": "Chaîne 3 Française",
+      "country": "Algeria",
+      "city": "Alger",
+      "stream": "https://webradio.tda.dz/Chaine3_64K.mp3",
+      "tags": [
+        "news",
+        "french",
+        "dz",
+        "algeria"
+      ]
+    },
+    {
+      "id": "9252a7b7-0101-4c18-9f35-6bcb05ab915b",
+      "name": "Radio Algérie Internationale",
+      "country": "Algeria",
+      "city": "Alger",
+      "stream": "https://webradio.tda.dz/Internationale_64K.mp3",
+      "tags": [
+        "news",
+        "international",
+        "dz",
+        "algeria"
+      ]
+    },
+    {
+      "id": "2e78ad92-0520-4fdf-839f-82511fef79c0",
+      "name": "Radio Coran الجزائر",
+      "country": "Algeria",
+      "city": "Alger",
+      "stream": "https://webradio.tda.dz/Coran_64K.mp3",
       "tags": [
         "classical",
         "islamic",
         "coran",
-        "dz"
+        "dz",
+        "algeria"
       ]
     },
     {
-      "id": "radio-el-bahdja",
-      "name": "Radio El Bahdja",
+      "id": "ea49228f-0455-4679-8628-e039b482708e",
+      "name": "Radio Culture الثقافية",
       "country": "Algeria",
       "city": "Alger",
-      "stream": "https://webradio.tda.dz/bahdja.mp3",
+      "stream": "https://webradio.tda.dz/Culture_64K.mp3",
+      "tags": [
+        "culture",
+        "dz",
+        "algeria"
+      ]
+    },
+    {
+      "id": "dd4a9579-33c4-4002-b8c1-85347b7043e5",
+      "name": "Jil FM جيل",
+      "country": "Algeria",
+      "city": "Alger",
+      "stream": "https://webradio.tda.dz/JilFM_64K.mp3",
       "tags": [
         "music",
-        "culture",
-        "dz"
+        "youth",
+        "dz",
+        "algeria"
       ]
     },
     {
-      "id": "jil-fm",
-      "name": "Jil FM",
+      "id": "909a4d91-faa3-4b83-b825-e132d7baa9de",
+      "name": "El Bahdja البهجة",
       "country": "Algeria",
       "city": "Alger",
-      "stream": "https://webradio.tda.dz/jil.mp3",
+      "stream": "https://webradio.tda.dz/Bahdja_64K.mp3",
       "tags": [
-        "pop",
         "music",
-        "dz"
+        "dz",
+        "algeria"
       ]
     },
     {
-      "id": "radio-amazigh",
-      "name": "Radio Amazigh",
+      "id": "f04e50e1-811c-41c4-93b9-0ddd5cb1c051",
+      "name": "Radio Adrar",
       "country": "Algeria",
-      "city": "Alger",
-      "stream": "https://webradio.tda.dz/amazigh.mp3",
+      "city": "Adrar",
+      "stream": "https://webradio.tda.dz/Adrar_64K.mp3",
       "tags": [
-        "culture",
-        "amazigh",
-        "dz"
+        "regional",
+        "dz",
+        "algeria"
       ]
     },
     {
-      "id": "radio-culture-algerie",
-      "name": "Radio Culture — Algérie",
+      "id": "0bc4f407-5716-424c-a4c1-6eed1ab81793",
+      "name": "Radio Chlef",
       "country": "Algeria",
-      "city": "Alger",
-      "stream": "https://webradio.tda.dz/culture.mp3",
+      "city": "Chlef",
+      "stream": "https://webradio.tda.dz/Chlef_64K.mp3",
       "tags": [
-        "culture",
-        "dz"
+        "regional",
+        "dz",
+        "algeria"
       ]
     },
     {
-      "id": "radio-algerie-internationale",
-      "name": "Radio Algérie Internationale",
+      "id": "e7cacf86-a779-41c7-b01a-d38b9e2e0661",
+      "name": "Radio Batna",
       "country": "Algeria",
-      "city": "Alger",
-      "stream": "https://webradio.tda.dz/internationale.mp3",
+      "city": "Batna",
+      "stream": "https://webradio.tda.dz/Batna_64K.mp3",
       "tags": [
-        "news",
-        "international",
-        "dz"
+        "regional",
+        "dz",
+        "algeria"
       ]
     },
     {
-      "id": "antinea-radio",
-      "name": "Antinea Radio",
+      "id": "c03730b8-3516-477d-b876-8a388c7f4836",
+      "name": "Radio Bejaia Soummam",
       "country": "Algeria",
-      "city": "Tizi-Ouzou",
-      "stream": "https://listen.radioking.com/radio/6640/stream/347",
+      "city": "Béjaïa",
+      "stream": "https://webradio.tda.dz/Bejaia_64K.mp3",
       "tags": [
-        "culture",
-        "amazigh"
+        "regional",
+        "dz",
+        "algeria"
       ]
     },
     {
-      "id": "radio-tizi-ouzou",
+      "id": "7f84f5fc-092f-417b-b6c3-a9d11e4b5a15",
+      "name": "Radio Biskra",
+      "country": "Algeria",
+      "city": "Biskra",
+      "stream": "https://webradio.tda.dz/Biskra_64K.mp3",
+      "tags": [
+        "regional",
+        "dz",
+        "algeria"
+      ]
+    },
+    {
+      "id": "65792c4e-19a4-4f29-bb25-b85919ed6799",
+      "name": "Radio Tlemcen",
+      "country": "Algeria",
+      "city": "Tlemcen",
+      "stream": "https://webradio.tda.dz/Tlemcen_64K.mp3",
+      "tags": [
+        "regional",
+        "dz",
+        "algeria"
+      ]
+    },
+    {
+      "id": "9cc13c6b-e5bb-4b8d-97ef-48ddd2f23ddb",
       "name": "Radio Tizi Ouzou",
       "country": "Algeria",
-      "city": "Tizi-Ouzou",
-      "stream": "https://radiotiziouzou.ice.infomaniak.ch/tiziouzou.mp3",
+      "city": "Tizi Ouzou",
+      "stream": "https://webradio.tda.dz/TiziOuzou_64K.mp3",
       "tags": [
-        "culture",
-        "amazigh",
-        "dz"
-      ]
-    },
-    {
-      "id": "hits-1-algerie",
-      "name": "Hits 1 Algérie",
-      "country": "Algeria",
-      "city": "Alger",
-      "stream": "https://radio12.pro-fhi.net/listen/whmnrlow/stream",
-      "tags": [
-        "pop",
-        "top40",
-        "dz"
-      ]
-    },
-    {
-      "id": "ghorbadz",
-      "name": "GhorbaDz",
-      "country": "Algeria",
-      "city": "Alger",
-      "stream": "https://stream-150.zeno.fm/y9rchc1djgavv?zs=bcPxFTkWTZOhirTC49uQiQ",
-      "tags": [
+        "regional",
+        "kabyle",
         "dz",
-        "diaspora"
+        "algeria"
+      ]
+    },
+    {
+      "id": "b66b200e-be23-4448-bc9d-35aeeee113ba",
+      "name": "Radio Annaba",
+      "country": "Algeria",
+      "city": "Annaba",
+      "stream": "https://webradio.tda.dz/Annaba_64K.mp3",
+      "tags": [
+        "regional",
+        "dz",
+        "algeria"
+      ]
+    },
+    {
+      "id": "a2482e40-955f-4244-8f46-6f540325724f",
+      "name": "Radio Constantine",
+      "country": "Algeria",
+      "city": "Constantine",
+      "stream": "https://webradio.tda.dz/Constantine_64K.mp3",
+      "tags": [
+        "regional",
+        "dz",
+        "algeria"
+      ]
+    },
+    {
+      "id": "53ede0f0-c4ec-408a-837b-579cd030a621",
+      "name": "Radio Oran",
+      "country": "Algeria",
+      "city": "Oran",
+      "stream": "https://webradio.tda.dz/Oran_64K.mp3",
+      "tags": [
+        "regional",
+        "dz",
+        "algeria"
+      ]
+    },
+    {
+      "id": "f5b522a9-1076-49d2-912e-59832154bae4",
+      "name": "Radio Setif",
+      "country": "Algeria",
+      "city": "Sétif",
+      "stream": "https://webradio.tda.dz/Setif_64K.mp3",
+      "tags": [
+        "regional",
+        "dz",
+        "algeria"
+      ]
+    },
+    {
+      "id": "f9789d4d-75dc-41e0-933a-6a2287d3328c",
+      "name": "Radio Skikda",
+      "country": "Algeria",
+      "city": "Skikda",
+      "stream": "https://webradio.tda.dz/Skikda_64K.mp3",
+      "tags": [
+        "regional",
+        "dz",
+        "algeria"
+      ]
+    },
+    {
+      "id": "c6dd5c6f-3d2d-4f39-a6d4-36f5f82ce00a",
+      "name": "Radio Ghardaia",
+      "country": "Algeria",
+      "city": "Ghardaïa",
+      "stream": "https://webradio.tda.dz/Ghardaia_64K.mp3",
+      "tags": [
+        "regional",
+        "dz",
+        "algeria"
+      ]
+    },
+    {
+      "id": "4741ce62-9006-46e9-9c54-2d18102d6be8",
+      "name": "Radio Ouargla",
+      "country": "Algeria",
+      "city": "Ouargla",
+      "stream": "https://webradio.tda.dz/Ouargla_64K.mp3",
+      "tags": [
+        "regional",
+        "dz",
+        "algeria"
+      ]
+    },
+    {
+      "id": "5017b8cb-fb10-4dab-a7ee-966e1f7d7cc0",
+      "name": "Radio Tamanrasset",
+      "country": "Algeria",
+      "city": "Tamanrasset",
+      "stream": "https://webradio.tda.dz/Tamanrasset_64K.mp3",
+      "tags": [
+        "regional",
+        "dz",
+        "algeria"
+      ]
+    },
+    {
+      "id": "fc273a5d-6113-4ac1-a236-a229a0f06420",
+      "name": "Beur FM",
+      "country": "Algeria",
+      "city": "Paris/Alger",
+      "stream": "https://beurfm.ice.infomaniak.ch/beurfm-128.mp3",
+      "tags": [
+        "music",
+        "french",
+        "dz",
+        "algeria"
+      ]
+    },
+    {
+      "id": "797abe32-7733-455a-afe7-1294fd6c4db5",
+      "name": "Radio M الجزائرية",
+      "country": "Algeria",
+      "city": "Alger",
+      "stream": "https://radiom.ice.infomaniak.ch/radiom-128.mp3",
+      "tags": [
+        "news",
+        "dz",
+        "algeria"
       ]
     },
     {
