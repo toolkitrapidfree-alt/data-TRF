@@ -10,7 +10,9 @@
       "city": "",
       "description": "MP3 · 128kbps",
       "stream": "https://qurango.net/radio/mishary_alafasi",
-      "tags": []
+      "tags": [
+        "egypt"
+      ]
     },
     {
       "id": "radio-2",
@@ -20,7 +22,8 @@
       "description": "MP3 · 128kbps",
       "stream": "https://qurango.net/radio/tarateel",
       "tags": [
-        "قران كريم"
+        "قران كريم",
+        "egypt"
       ]
     },
     {
@@ -31,7 +34,8 @@
       "description": "MP3 · 128kbps",
       "stream": "https://qurango.net/radio/salma",
       "tags": [
-        "classical"
+        "classical",
+        "egypt"
       ]
     },
     {
@@ -42,7 +46,8 @@
       "description": "MP3 · 128kbps",
       "stream": "https://qurango.net/radio/mohammed_ayyub",
       "tags": [
-        "classical"
+        "classical",
+        "egypt"
       ]
     },
     {
@@ -53,7 +58,8 @@
       "description": "MP3 · 128kbps",
       "stream": "https://qurango.net/radio/mukhtasartafsir",
       "tags": [
-        "classical"
+        "classical",
+        "egypt"
       ]
     },
     {
@@ -64,7 +70,8 @@
       "description": "MP3 · 128kbps",
       "stream": "https://backup.qurango.net/radio/maher",
       "tags": [
-        "classical"
+        "classical",
+        "egypt"
       ]
     },
     {
@@ -74,7 +81,9 @@
       "city": "Cairo",
       "description": "MP3",
       "stream": "https://stream-29.zeno.fm/na3vpvn10qruv",
-      "tags": []
+      "tags": [
+        "egypt"
+      ]
     },
     {
       "id": "90s-fm-2",
@@ -83,7 +92,9 @@
       "city": "",
       "description": "MP3 · 128kbps",
       "stream": "https://eu1.fastcast4u.com/proxy/prontofm?mp=/1",
-      "tags": []
+      "tags": [
+        "egypt"
+      ]
     },
     {
       "id": "abdulbasit-abdulsamad-2",
@@ -92,7 +103,9 @@
       "city": "",
       "description": "MP3 · 192kbps",
       "stream": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3",
-      "tags": []
+      "tags": [
+        "egypt"
+      ]
     },
     {
       "id": "abdulrasheed-soufi",
@@ -101,7 +114,9 @@
       "city": "",
       "description": "MP3 · 128kbps",
       "stream": "https://qurango.net/radio/abdulrasheed_soufi_assosi.mp3",
-      "tags": []
+      "tags": [
+        "egypt"
+      ]
     },
     {
       "id": "amr-diab-radio",
@@ -111,7 +126,8 @@
       "description": "MP3",
       "stream": "https://stream-40.zeno.fm/xa4yhh4k838uv?zs=gojgaFRaRrK1wgGIwdv6xA",
       "tags": [
-        "pop"
+        "pop",
+        "egypt"
       ]
     },
     {
@@ -124,7 +140,8 @@
       "tags": [
         "classic hits",
         "hits",
-        "pop"
+        "pop",
+        "egypt"
       ]
     },
     {
@@ -137,7 +154,8 @@
       "tags": [
         "classic hits",
         "hits",
-        "pop"
+        "pop",
+        "egypt"
       ]
     },
     {
@@ -147,7 +165,9 @@
       "city": "",
       "description": "MP3 · 128kbps",
       "stream": "https://stream.clicdomain.com.br:5828/;",
-      "tags": []
+      "tags": [
+        "egypt"
+      ]
     },
     {
       "id": "diab-fm",
@@ -157,7 +177,8 @@
       "description": "MP3",
       "stream": "https://stream-36.zeno.fm/rf64mx02qa0uv?zs=omRb6KEjQ3u0-JsaJKdhQg",
       "tags": [
-        "pop"
+        "pop",
+        "egypt"
       ]
     },
     {
@@ -168,7 +189,8 @@
       "description": "MP3",
       "stream": "https://stream-34.zeno.fm/rf64mx02qa0uv?zs=-xjlLLwRS8uKrffFxK4vLA",
       "tags": [
-        "pop"
+        "pop",
+        "egypt"
       ]
     },
     {
@@ -179,7 +201,8 @@
       "description": "MP3",
       "stream": "https://stream.zeno.fm/v7n499m8ckhvv",
       "tags": [
-        "romance"
+        "romance",
+        "egypt"
       ]
     },
     {
@@ -189,7 +212,9 @@
       "city": "",
       "description": "MP3",
       "stream": "https://stream.zeno.fm/smdswgy1rbmtv",
-      "tags": []
+      "tags": [
+        "egypt"
+      ]
     },
     {
       "id": "misrin-street",
@@ -198,7 +223,9 @@
       "city": "",
       "description": "MP3",
       "stream": "https://stream.zeno.fm/djqjrjhxsrgtv",
-      "tags": []
+      "tags": [
+        "egypt"
+      ]
     },
     {
       "id": "nrj-egypt",
@@ -207,7 +234,9 @@
       "city": "",
       "description": "MP3 · 128kbps",
       "stream": "https://nrjstreaming.ahmed-melege.com/nrjegypt",
-      "tags": []
+      "tags": [
+        "egypt"
+      ]
     },
     {
       "id": "on-sport-fm",
@@ -216,7 +245,9 @@
       "city": "",
       "description": "MP3 · 96kbps",
       "stream": "https://carina.streamerr.co:2020/stream/OnSportFM",
-      "tags": []
+      "tags": [
+        "egypt"
+      ]
     },
     {
       "id": "on-sports-fm",
@@ -225,7 +256,9 @@
       "city": "",
       "description": "MP3 · 96kbps",
       "stream": "https://carina.streamerr.co:2020/stream/OnSportFM",
-      "tags": []
+      "tags": [
+        "egypt"
+      ]
     },
     {
       "id": "radio-9090",
@@ -234,7 +267,9 @@
       "city": "",
       "description": "MP3 · 64kbps",
       "stream": "https://9090streaming.mobtada.com/9090FMEGYPT",
-      "tags": []
+      "tags": [
+        "egypt"
+      ]
     },
     {
       "id": "radio-hits-88-2-cairo",
@@ -244,7 +279,8 @@
       "description": "MP3 · 128kbps",
       "stream": "https://radiohits882.radioca.st/;",
       "tags": [
-        "arabic music"
+        "arabic music",
+        "egypt"
       ]
     },
     {
@@ -254,7 +290,9 @@
       "city": "",
       "description": "MP3",
       "stream": "https://stream.radiojar.com/8s5u5tpdtwzuv",
-      "tags": []
+      "tags": [
+        "egypt"
+      ]
     },
     {
       "id": "radio-6",
@@ -265,7 +303,8 @@
       "stream": "https://live.mp3quran.net:9842/",
       "tags": [
         "القرآن",
-        "القرآن الكريم"
+        "القرآن الكريم",
+        "egypt"
       ]
     },
     {
@@ -275,7 +314,9 @@
       "city": "",
       "description": "MP3",
       "stream": "https://stream.zeno.fm/juwfhuodjgmuv",
-      "tags": []
+      "tags": [
+        "egypt"
+      ]
     },
     {
       "id": "sha3by-fm",
@@ -284,7 +325,9 @@
       "city": "",
       "description": "MP3 · 128kbps",
       "stream": "https://radio95.radioca.st/;",
-      "tags": []
+      "tags": [
+        "egypt"
+      ]
     },
     {
       "id": "tes3enat-fm",
@@ -294,7 +337,8 @@
       "description": "MP3 · 128kbps",
       "stream": "https://178.33.135.244:20095/;?DIST=TuneIn&TGT=TuneIn&maxServers=2&partnertok=eyJhbGciOiJIUzI1NiIsImtpZCI6InR1bmVpbiIsInR5cCI6IkpXVCJ9.eyJ0cnVzdGVkX3BhcnRuZXIiOnRydWUsImlhdCI6MTYzNjA1OTE3OCwiaXNzIjoidGlzcnYifQ.Me0snc2PBcQhvlzte9L7zQxa-IHgNinhu3XdNJ6_Xa8",
       "tags": [
-        "classical"
+        "classical",
+        "egypt"
       ]
     },
     {
@@ -304,7 +348,9 @@
       "city": "Cairo",
       "description": "MP3",
       "stream": "https://stream.zeno.fm/n63xpx3o8imuv",
-      "tags": []
+      "tags": [
+        "egypt"
+      ]
     },
     {
       "id": "radio-7",
@@ -314,7 +360,8 @@
       "description": "MP3",
       "stream": "https://n0a.radiojar.com/0tpy1h0kxtzuv?rj-ttl=5&rj-tok=AAABhdgGORQA-2acfyF3_4WY2g",
       "tags": [
-        "classical"
+        "classical",
+        "egypt"
       ]
     },
     {
@@ -324,7 +371,9 @@
       "city": "",
       "description": "MP3",
       "stream": "https://stream.radiojar.com/8s5u5tpdtwzuv",
-      "tags": []
+      "tags": [
+        "egypt"
+      ]
     },
     {
       "id": "radio-9",
@@ -335,7 +384,8 @@
       "stream": "https://n12.radiojar.com/8s5u5tpdtwzuv?listening-from-radio-garden=1620219571863&rj-tok=AAABeTyl2zYARSWbLVnrEOlqGw&rj-ttl=5",
       "tags": [
         "اسلامي",
-        "دين"
+        "دين",
+        "egypt"
       ]
     },
     {
@@ -346,7 +396,8 @@
       "description": "MP3 · 128kbps",
       "stream": "https://airtime.salafwayfm.ly/",
       "tags": [
-        "classical"
+        "classical",
+        "egypt"
       ]
     },
     {
@@ -356,7 +407,9 @@
       "city": "",
       "description": "MP3 · 128kbps",
       "stream": "https://qurango.net/radio/mahmoud_khalil_alhussary_warsh",
-      "tags": []
+      "tags": [
+        "egypt"
+      ]
     },
     {
       "id": "radio-12",
@@ -365,7 +418,9 @@
       "city": "",
       "description": "MP3 · 128kbps",
       "stream": "https://qurango.net/radio/mustafa_ismail",
-      "tags": []
+      "tags": [
+        "egypt"
+      ]
     },
     {
       "id": "radio-13",
@@ -374,7 +429,9 @@
       "city": "",
       "description": "MP3 · 128kbps",
       "stream": "https://qurango.net/radio/yasser_aldosari",
-      "tags": []
+      "tags": [
+        "egypt"
+      ]
     },
     {
       "id": "radio-14",
@@ -384,7 +441,8 @@
       "description": "MP3",
       "stream": "https://stream.radiojar.com/0tpy1h0kxtzuv",
       "tags": [
-        "classical"
+        "classical",
+        "egypt"
       ]
     },
     {
@@ -394,7 +452,9 @@
       "city": "",
       "description": "MP3",
       "stream": "https://n0c.radiojar.com/8s5u5tpdtwzuv?rj-ttl=5&amp;rj-tok=AAABdI5Qnd0AEmvTTG5DVtU31A&amp;autoplay=1%22%20type=%22audio/mpeg",
-      "tags": []
+      "tags": [
+        "egypt"
+      ]
     },
     {
       "id": "1",
@@ -403,7 +463,9 @@
       "city": "Cairo",
       "description": "MP3",
       "stream": "https://n0e.radiojar.com/8s5u5tpdtwzuv?rj=&rj-tok=AAABg5BDP0EA2ElNLJYUJTsVcg&rj-ttl=5",
-      "tags": []
+      "tags": [
+        "egypt"
+      ]
     },
     {
       "id": "radio-16",
@@ -413,7 +475,8 @@
       "description": "MP3 · 128kbps",
       "stream": "https://qurango.net/radio/tafseer",
       "tags": [
-        "classical"
+        "classical",
+        "egypt"
       ]
     },
     {
@@ -425,7 +488,8 @@
       "stream": "https://live.mp3quran.net:9728/",
       "tags": [
         "القرآن",
-        "مسلم"
+        "مسلم",
+        "egypt"
       ]
     }
   ]
