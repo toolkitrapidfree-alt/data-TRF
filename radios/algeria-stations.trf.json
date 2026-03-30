@@ -157,7 +157,7 @@
       "name": "Radio Oum Bouaghi",
       "country": "Algeria",
       "city": "Oum Bouaghi",
-      "stream": "https://radiooumelbouaghi.ice.infomaniak.ch/oumelbouaghi.mp3",
+      "stream": "https://radiooumbouaghi.ice.infomaniak.ch/oumbouaghi.mp3",
       "tags": [
         "regional",
         "dz",
@@ -506,7 +506,7 @@
       "name": "Radio Bordj Bou Arreridj",
       "country": "Algeria",
       "city": "Bordj Bou Arreridj",
-      "stream": "https://radiobba.ice.infomaniak.ch/bba.mp3",
+      "stream": "https://radiobordjboubrreridj.ice.infomaniak.ch/bordjboubrreridj.mp3",
       "tags": [
         "regional",
         "dz",
@@ -704,85 +704,6 @@
         "news",
         "dz",
         "algeria"
-      ]
-    },
-    {
-      "id": "abdulbasit-abdulsamad",
-      "name": "Abdulbasit Abdulsamad",
-      "country": "Algeria",
-      "city": "",
-      "stream": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3",
-      "tags": [
-        "islamic",
-        "coran"
-      ]
-    },
-    {
-      "id": "maher-almuaiqly",
-      "name": "إذاعة ماهر المعيقلي",
-      "country": "Algeria",
-      "city": "",
-      "stream": "https://backup.qurango.net/radio/maher",
-      "tags": [
-        "classical",
-        "islamic",
-        "coran"
-      ]
-    },
-    {
-      "id": "mukhtasar-tafsir",
-      "name": "مختصر التفسير",
-      "country": "Algeria",
-      "city": "",
-      "stream": "https://qurango.net/radio/mukhtasartafsir",
-      "tags": [
-        "classical",
-        "islamic"
-      ]
-    },
-    {
-      "id": "suwar-min-hayat-assahaba",
-      "name": "صور من حياة الصحابة",
-      "country": "Algeria",
-      "city": "",
-      "stream": "https://qurango.net/radio/sahabah",
-      "tags": [
-        "classical",
-        "islamic"
-      ]
-    },
-    {
-      "id": "mukhtasar-sirah",
-      "name": "مختصر السيرة",
-      "country": "Algeria",
-      "city": "",
-      "stream": "https://qurango.net/radio/almukhtasar_fi_alsiyra",
-      "tags": [
-        "classical",
-        "islamic"
-      ]
-    },
-    {
-      "id": "beautiful-recitation",
-      "name": "Beautiful Recitation",
-      "country": "Algeria",
-      "city": "",
-      "stream": "https://qurango.net/radio/salma",
-      "tags": [
-        "classical",
-        "islamic",
-        "coran"
-      ]
-    },
-    {
-      "id": "tafseer-bin-uthaymin",
-      "name": "تفسير بن عثيمين رحمه الله",
-      "country": "Algeria",
-      "city": "",
-      "stream": "https://qurango.net/radio/tafseer",
-      "tags": [
-        "classical",
-        "islamic"
       ]
     }
   ]
